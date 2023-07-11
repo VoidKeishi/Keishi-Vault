@@ -1,0 +1,2 @@
+# Basic algorithm
+[[Linear regression]]
