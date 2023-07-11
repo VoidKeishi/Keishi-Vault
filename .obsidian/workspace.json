@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "138cfac2adc2a4cc",
+        "id": "8dcda6ea03468455",
         "type": "tabs",
         "children": [
           {
-            "id": "8f248832afc922d0",
+            "id": "ba33111167dc10b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine learning.md",
+                "file": "Logistic regression.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine learning.md",
+                "file": "Logistic regression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine learning.md",
+                "file": "Logistic regression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine learning.md"
+                "file": "Logistic regression.md"
               }
             }
           }
@@ -148,12 +147,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8f248832afc922d0",
+  "active": "ba33111167dc10b8",
   "lastOpenFiles": [
+    "Machine learning.md",
+    "Logistic regression.md",
+    "Linear regression.md",
     "2023-07-11.md",
     "Untitled.canvas",
-    "Machine learning.md",
-    "Linear regression.md",
     "2023-03-18.md"
   ]
 }

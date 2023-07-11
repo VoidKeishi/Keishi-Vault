@@ -1,2 +1,3 @@
-# Basic algorithm
+## Basic algorithm
 [[Linear regression]]
+[[Logistic regression]]
