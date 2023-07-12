@@ -4,63 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8dcda6ea03468455",
+        "id": "8b80e3ac403e1ab4",
         "type": "tabs",
         "children": [
           {
-            "id": "ba33111167dc10b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI/Linear regression.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f3b9b79eb54fd57c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI/Logistic regression.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d424319869be8f05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web Development/Frontend.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b4daae19ce134a9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web Development/Backend.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "41e5203d583b4fd1",
+            "id": "90dbf9b5d7cf6ee5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -71,9 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "12bec78fea106800",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HUST/2022.2/Chapter 6 - Memory.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -197,22 +158,27 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
-      "templates:Insert template": false
+      "templates:Insert template": false,
+      "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "41e5203d583b4fd1",
+  "active": "224fa69be4217e72",
   "lastOpenFiles": [
-    "Web Development/Backend.md",
+    "HUST/2022.2/Computer Architecture.md",
+    "HUST/2022.2/Chapter 6 - Memory.md",
     "HUST/2022.2/Scientific Computational.md",
+    "AI/Logistic regression.md",
+    "AI/Machine learning.md",
+    "AI/Linear regression.md",
+    "Day Planners/Day Planner-20230712.md",
+    "Day Planners",
+    "Web Development/Frontend.md",
+    "Web Development/Backend.md",
     "Untitled.canvas",
     "2023-07-11.md",
     "HUST/2022.2",
     "HUST",
-    "Web Development/Frontend.md",
-    "AI/Logistic regression.md",
     "Web Development",
-    "AI/Linear regression.md",
-    "AI/Machine learning.md",
     "AI",
     "2023-03-18.md"
   ]
