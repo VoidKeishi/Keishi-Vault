@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HUST/2022.2/Computer Architecture/Computer Architecture.md",
+                "file": "AI/Machine learning.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "735c9addd807c215",
+            "id": "bd0e8a8f1a604fc5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/Frontend/HTML.md",
+                "file": "AI/Deep learning.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,25 +34,12 @@
             }
           },
           {
-            "id": "d58750fb877bfa9b",
+            "id": "aba43f23685c0f0b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/Frontend/HTML.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d5a3a7c546295479",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web Development/Frontend/HTML.md",
+                "file": "AI/Deep learning.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -60,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -89,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Calculate",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -119,7 +106,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -139,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/Frontend/HTML.md",
+                "file": "AI/Deep learning.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -156,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Development/Frontend/HTML.md",
+                "file": "AI/Deep learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Development/Frontend/HTML.md"
+                "file": "AI/Deep learning.md"
               }
             }
           }
@@ -201,12 +189,21 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "d5a3a7c546295479",
+  "active": "00824f1077c27e5f",
   "lastOpenFiles": [
-    "HUST/2022.2/Computer Architecture/Computer Architecture.md",
-    "Web Development/Frontend/CSS.md",
+    "AI/ReLU.md",
+    "AI/Machine learning.md",
+    "Markdown syntax.md",
+    "AI/Deep learning.md",
     "Git.md",
+    "HUST/2022.2/Computer Architecture/Chapter 4 - Computer Arithmetic.md",
+    "Image Bank",
+    "AI/Linear regression.md",
+    "AI/Logistic regression.md",
     "Web Development/Frontend/HTML.md",
+    "Web Development/Frontend/CSS.md",
+    "Web Development/Backend.md",
+    "HUST/2022.2/Computer Architecture/Computer Architecture.md",
     "Web Development/Frontend.md",
     "Web Development/Frontend",
     "HUST/2022.2/Computer Architecture/Chapter 1 - Introduction.md",
@@ -217,14 +214,9 @@
     "HUST/2022.2/Scientific Computational.md",
     "HUST/2022.2/Computer Architecture/Chapter 7 - I-O system.md",
     "HUST/2022.2/Computer Architecture/Chapter 5 - Processor.md",
-    "HUST/2022.2/Computer Architecture/Chapter 4 - Computer Arithmetic.md",
     "HUST/2022.2/Computer Architecture/Chapter 3 - Instructions architecture.md",
     "HUST/2022.2/Computer Architecture",
     "HUST/2022.2/Computer Architecture/Chapter 6 - Memory.md",
-    "AI/Logistic regression.md",
-    "AI/Machine learning.md",
-    "AI/Linear regression.md",
-    "Web Development/Backend.md",
     "Untitled.canvas",
     "2023-07-11.md",
     "HUST/2022.2",

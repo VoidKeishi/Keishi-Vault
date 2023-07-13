@@ -6,59 +6,26 @@
 ### What is Version Control
 - Version Control is a system that records changes to a file or set of files over time so that you can recall specific versions later.
 ### What is Git
-    - Git is a Distributed Version Control System (DVCS) that stores data in a file system made up of snapshots.
+- Git is a Distributed Version Control System (DVCS) that stores data in a file system made up of snapshots.
 ### What is GitHub
-    - GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+- GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 ## Git Basic
 ### How to install Git
-    - Download Git from [Git](https://git-scm.com/downloads) and install it.
+- Download Git from [Git](https://git-scm.com/downloads) and install it.
 ### How to configure Git
-    - git config --global user.name "Your Name"
-    - git config --global user.email "
+- git config --global user.name "Your Name"
+- git config --global user.email "
 ### How to create a repository
-
-  
-
-    - git init
-
-  
-
+- git init
 ### How to add files to the staging area
-
-  
-
-    - git add <file_name>
-
-  
-
+- git add <file_name>
 ### How to commit changes
-
-  
-
-    - git commit -m "Commit message"
-
-  
-
+- git commit -m "Commit message"
 ### How to check the status of the working tree
-
-  
-
-    - git status
-
-  
-
+- git status
 ### How to check the differences between the working tree and the staging area
-
-  
-
-    - git diff
-
-  
-
+- git diff
 ### How to check the differences between the staging area and the repository
-
-  
-
     - git diff --staged
 
   
