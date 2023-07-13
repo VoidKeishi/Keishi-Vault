@@ -2,50 +2,19 @@
 ## Sources
 - [Gitbook](https://git-scm.com/book/en/v2)  
 - [Introduction to Git and Github Google Course](https://www.coursera.org/learn/introduction-git-github)
-
-  
-
 ## Basic Concepts
 ### What is Version Control
 - Version Control is a system that records changes to a file or set of files over time so that you can recall specific versions later.
 ### What is Git
-
-  
-
     - Git is a Distributed Version Control System (DVCS) that stores data in a file system made up of snapshots.
-
-  
-
 ### What is GitHub
-
-  
-
     - GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-  
-
 ## Git Basic
-
-  
-
 ### How to install Git
-
-  
-
     - Download Git from [Git](https://git-scm.com/downloads) and install it.
-
-  
-
 ### How to configure Git
-
-  
-
     - git config --global user.name "Your Name"
-
     - git config --global user.email "
-
-  
-
 ### How to create a repository
 
   
