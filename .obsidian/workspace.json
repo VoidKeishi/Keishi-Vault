@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HUST/2022.2/Computer Architecture/Computer Architecture.md",
+                "file": "Web Development/Frontend/HTML.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HUST/2022.2/Computer Architecture/Computer Architecture.md",
+                "file": "Web Development/Frontend/HTML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HUST/2022.2/Computer Architecture/Computer Architecture.md"
+                "file": "Web Development/Frontend/HTML.md"
               }
             }
           }
@@ -201,12 +201,12 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "224fa69be4217e72",
+  "active": "d5a3a7c546295479",
   "lastOpenFiles": [
+    "HUST/2022.2/Computer Architecture/Computer Architecture.md",
     "Web Development/Frontend/CSS.md",
     "Git.md",
     "Web Development/Frontend/HTML.md",
-    "HUST/2022.2/Computer Architecture/Computer Architecture.md",
     "Web Development/Frontend.md",
     "Web Development/Frontend",
     "HUST/2022.2/Computer Architecture/Chapter 1 - Introduction.md",
