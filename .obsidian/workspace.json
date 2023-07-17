@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/Machine learning.md",
+                "file": "AI/Deep learning.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/Machine learning.md",
+                "file": "AI/Deep learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/Machine learning.md"
+                "file": "AI/Deep learning.md"
               }
             }
           }
@@ -189,10 +189,10 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "00824f1077c27e5f",
+  "active": "aba43f23685c0f0b",
   "lastOpenFiles": [
-    "AI/ReLU.md",
     "AI/Machine learning.md",
+    "AI/ReLU.md",
     "Markdown syntax.md",
     "AI/Deep learning.md",
     "Git.md",
