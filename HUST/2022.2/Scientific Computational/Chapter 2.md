@@ -22,21 +22,5 @@ Giải hệ vuông (m=n)
 	Ví dụ:
 		$10x_1-7x_2=7$
 		$-0.1x$
-# Đường cong khớp
-## Nội suy
-### Lagrange
-#### Công thức
-#### Sai số
-### Spline
-## Hồi quy
-### Tuyến tính
-### Phi tuyến
-# Giải phương trình phi tuyến
-## Chia đôi
-## Dây cung
-## Newton
-## Cát tuyến
-## Lặp
-## Bairstow
-# Tính gần đúng đạo hàm, tích phân
-## Sai phân thuận
+
+
