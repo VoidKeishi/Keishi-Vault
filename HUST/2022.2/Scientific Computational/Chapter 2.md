@@ -1,3 +1,4 @@
+#Scientific_Computational
 # Hệ phương trình tuyến tính
 ## Định nghĩa
 $A.x=b$

@@ -6,6 +6,7 @@
       {
         "id": "f7f3d4baff9a60d5",
         "type": "tabs",
+        "dimension": 75.64766839378238,
         "children": [
           {
             "id": "8e9df97cc6c72fd0",
@@ -13,12 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HUST/2022.2/Scientific Computational/Chapter 2.md",
+                "file": "AI/ReLU.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
-            }
+            },
+            "group": "3ec334e6ae1cf82f"
           },
           {
             "id": "80d08738cd6ad488",
@@ -46,8 +48,50 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
+      },
+      {
+        "id": "234794b90d713dac",
+        "type": "tabs",
+        "dimension": 24.352331606217618,
+        "children": [
+          {
+            "id": "8e4c999935cf95c2",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "AI/ReLU.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              }
+            },
+            "group": "3ec334e6ae1cf82f"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -66,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:\"Web Development\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +150,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -126,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HUST/2022.2/Scientific Computational/Chapter 3.md",
+                "file": "AI/ReLU.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -143,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HUST/2022.2/Scientific Computational/Chapter 3.md",
+                "file": "AI/ReLU.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HUST/2022.2/Scientific Computational/Chapter 3.md"
+                "file": "AI/ReLU.md"
               }
             }
           }
@@ -188,19 +233,26 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "224fa69be4217e72",
+  "active": "8e9df97cc6c72fd0",
   "lastOpenFiles": [
-    "HUST/2022.2/Scientific Computational/Chapter 2.md",
-    "HUST/2022.2/Computer Architecture/Chapter 1 - Introduction.md",
-    "HUST/2022.2/Scientific Computational/Chapter 4.md",
-    "HUST/2022.2/Scientific Computational/Chapter 3.md",
+    "Image Bank/ReLU.png",
+    "AI/ReLU.md",
+    "AI/Machine learning.md",
+    "AI/Logistic regression.md",
+    "AI/Linear regression.md",
     "HUST/2022.2/Scientific Computational/Table of content.md",
+    "AI/Gradient descent.md",
+    "HUST/2022.2/Scientific Computational/Chapter 6.md",
+    "HUST/2022.2/Scientific Computational/Chapter 4.md",
+    "HUST/2022.2/Scientific Computational/Chapter 2.md",
+    "HUST/2022.2/Scientific Computational/Chapter 3.md",
+    "HUST/2022.2/Scientific Computational/Chapter 8.md",
+    "HUST/2022.2/Scientific Computational/Chapter 7.md",
+    "HUST/2022.2/Scientific Computational/Chapter 5.md",
+    "HUST/2022.2/Computer Architecture/Chapter 1 - Introduction.md",
     "HUST/2022.2/Computer Architecture/Computer Architecture.md",
     "HUST/2022.2/Computer Architecture/Chapter 8 - Parallel Architectures.md",
     "HUST/2022.2/Computer Architecture/Chapter 6 - Memory.md",
-    "AI/Linear regression.md",
-    "AI/Machine learning.md",
-    "AI/ReLU.md",
     "AI/Deep learning.md",
     "HUST/2022.2/Scientific Computational.md",
     "HUST/2022.2/Scientific Computational",
@@ -208,18 +260,11 @@
     "Git.md",
     "HUST/2022.2/Computer Architecture/Chapter 4 - Computer Arithmetic.md",
     "Image Bank",
-    "AI/Logistic regression.md",
     "Web Development/Frontend/HTML.md",
     "Web Development/Frontend/CSS.md",
     "Web Development/Backend.md",
-    "Web Development/Frontend.md",
     "Web Development/Frontend",
-    "HUST/2022.2/Computer Architecture/Chapter 2 - Computer system.md",
-    "Day Planners/Day Planner-20230712.md",
     "Day Planners",
-    "HUST/2022.2/Computer Architecture/Chapter 7 - I-O system.md",
-    "HUST/2022.2/Computer Architecture/Chapter 5 - Processor.md",
-    "HUST/2022.2/Computer Architecture/Chapter 3 - Instructions architecture.md",
     "HUST/2022.2/Computer Architecture",
     "Untitled.canvas",
     "HUST/2022.2",
