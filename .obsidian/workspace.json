@@ -14,8 +14,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HUST/2022.2/Scientific Computational/Chapter 2.md",
-                "mode": "source",
+                "file": "HUST/2022.2/Calculus/Calculus III.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "HUST/2022.2/Scientific Computational/Chapter 2.md",
+                "file": "HUST/2022.2/Calculus/Calculus III.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HUST/2022.2/Scientific Computational/Chapter 2.md",
+                "file": "HUST/2022.2/Calculus/Calculus III.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HUST/2022.2/Scientific Computational/Chapter 2.md",
+                "file": "HUST/2022.2/Calculus/Calculus III.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HUST/2022.2/Scientific Computational/Chapter 2.md"
+                "file": "HUST/2022.2/Calculus/Calculus III.md"
               }
             }
           }
@@ -207,22 +207,24 @@
   },
   "active": "c196d5f6a3c3787b",
   "lastOpenFiles": [
+    "HUST/2022.2/Scientific Computational/Chapter 6.md",
+    "HUST/2022.2/Calculus/Calculus III.md",
+    "HUST/2022.2/Calculus",
+    "HUST/2022.2/Scientific Computational/Table of content.md",
+    "AI/Machine learning.md",
+    "AI/Gradient descent.md",
+    "AI/Linear regression.md",
+    "AI/Unet.md",
+    "AI/Deep learning.md",
+    "HUST/2022.2/Scientific Computational/Chapter 2.md",
     "HUST/2022.2/Computer Architecture/Chapter 4 - Computer Arithmetic.md",
     "HUST/2022.2/Computer Architecture/Chapter 1 - Introduction.md",
-    "AI/Unet.md",
-    "AI/Machine learning.md",
     "AI/ReLU.md",
     "Image Bank/ReLU.png",
     "Markdown syntax.md",
     "Image Bank/Unet.webp",
-    "AI/Deep learning.md",
     "AI/Logistic regression.md",
-    "AI/Linear regression.md",
-    "HUST/2022.2/Scientific Computational/Table of content.md",
-    "AI/Gradient descent.md",
-    "HUST/2022.2/Scientific Computational/Chapter 6.md",
     "HUST/2022.2/Scientific Computational/Chapter 4.md",
-    "HUST/2022.2/Scientific Computational/Chapter 2.md",
     "HUST/2022.2/Scientific Computational/Chapter 3.md",
     "HUST/2022.2/Scientific Computational/Chapter 8.md",
     "HUST/2022.2/Scientific Computational/Chapter 7.md",
