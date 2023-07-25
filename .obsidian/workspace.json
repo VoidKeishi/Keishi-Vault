@@ -205,10 +205,11 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "c196d5f6a3c3787b",
+  "active": "25d6b588740dd61f",
   "lastOpenFiles": [
-    "HUST/2022.2/Scientific Computational/Chapter 6.md",
     "HUST/2022.2/Calculus/Calculus III.md",
+    "HUST/2022.2/Computer Architecture/MIPS Syscall.md",
+    "HUST/2022.2/Scientific Computational/Chapter 6.md",
     "HUST/2022.2/Calculus",
     "HUST/2022.2/Scientific Computational/Table of content.md",
     "AI/Machine learning.md",
@@ -237,7 +238,6 @@
     "Git.md",
     "Image Bank",
     "Web Development/Frontend/HTML.md",
-    "Web Development/Frontend/CSS.md",
     "Web Development/Frontend",
     "Day Planners",
     "HUST/2022.2/Computer Architecture",
