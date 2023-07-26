@@ -1,4 +1,3 @@
-#Scientific_Computational
 # Đường cong khớp
 ## Nội suy
 ### Lagrange

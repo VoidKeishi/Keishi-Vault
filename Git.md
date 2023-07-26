@@ -27,22 +27,16 @@
 - git diff
 ### How to check the differences between the staging area and the repository
     - git diff --staged
-
-  
-
 ### How to check the differences between the working tree and the repository
-
-  
-
-    - git diff HEAD
-
-  
-
+```bash
+git diff HEAD
+```
 ### How to check the differences between two commits
 
-  
-
-    - git diff <commit_id_1> <commit_id_2>
+```bash
+ git diff <commit_id_1> <commit_id_2>
+```
+ 
 
   
 
