@@ -24,9 +24,13 @@
 ### How to check the status of the working tree
 - git status
 ### How to check the differences between the working tree and the staging area
-- git diff
+```bash
+git diff
+```
 ### How to check the differences between the staging area and the repository
-    - git diff --staged
+```bash
+git diff --staged
+```
 ### How to check the differences between the working tree and the repository
 ```bash
 git diff HEAD

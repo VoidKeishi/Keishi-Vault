@@ -4,14 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "b398a8e37772f375",
+        "id": "e0d342fa71053114",
         "type": "tabs",
+        "dimension": 69.11764705882352,
         "children": [
           {
-            "id": "c39af64e9a397321",
+            "id": "3713ac8370c18023",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "markdown",
+              "state": {
+                "file": "HUST/2022.2/Database/Chương III.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "d4e6482903856dcc",
+        "type": "tabs",
+        "dimension": 30.88235294117647,
+        "children": [
+          {
+            "id": "3861341422d10ac5",
+            "type": "leaf",
+            "state": {
+              "type": "mindmap",
               "state": {}
             }
           }
@@ -106,6 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "HUST/2022.2/Database/Chương III.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "HUST/2022.2/Database/Chương III.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +155,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "HUST/2022.2/Database/Chương III.md"
+              }
             }
           },
           {
@@ -163,10 +188,30 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "c39af64e9a397321",
+  "active": "3713ac8370c18023",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-07-26 17.56.52.excalidraw.md",
+    "HUST/2022.2/Database/Chương II.md",
+    "HUST/2022.2/Database/Chương III.md",
+    "HUST/2022.2/Database/Chương I.md",
+    "HUST/2022.2/Database/Mô hình dữ liệu quan hệ.md",
+    "HUST/2022.2/Database/Mô hình thực thể liên kết.md",
+    "Pasted image 20230726221052.png",
+    "Image Bank/Pasted image 20230726221019.png",
+    "HUST/2022.2/Database/Biến đổi sơ đồ thực thể liên kết sang sơ đồ quan hệ.md",
+    "Image Bank/Pasted image 20230726220826.png",
+    "Image Bank/Pasted image 20230726220812.png",
+    "Image Bank/Pasted image 20230726220722.png",
+    "Image Bank/Pasted image 20230726220701.png",
+    "Image Bank/Pasted image 20230726220642.png",
+    "Image Bank/Pasted image 20230726220609.png",
+    "Web Development/Frontend/HTML.md",
+    "Web Development/Frontend/CSS.md",
+    "Git.md",
+    "Image Bank/Sơ đồ quan hệ.png",
+    "Web Development/Backend.md",
+    "HUST/2022.2/Computer Architecture/Chapter 1 - Introduction.md",
     "Excalidraw/HandNote2023-07-26 17.58.55.excalidraw.md",
+    "Excalidraw/Drawing 2023-07-26 17.56.52.excalidraw.md",
     "Excalidraw/Drawing 2023-07-26 17.14.28.excalidraw.md",
     "Excalidraw/Drawing 2023-07-26 17.15.01.excalidraw.md",
     "Image Bank/ReLU.png",
@@ -177,25 +222,13 @@
     "HUST/2022.2/Scientific Computational/Chapter 7.md",
     "HUST/2022.2/Scientific Computational/Chapter 6.md",
     "HUST/2022.2/Scientific Computational/Chapter 3.md",
-    "Web Development/Frontend/HTML.md",
-    "Web Development/Frontend/CSS.md",
-    "Web Development/Backend.md",
     "Markdown syntax.md",
     "2023-07-26.md",
-    "Git.md",
-    "Image Bank/Unet.webp",
     "HUST/2022.2/Scientific Computational/Chapter 5.md",
     "Calendar/2023-07-27 Nhật.md",
-    "HUST/2022.2/Computer Architecture/Chapter 1 - Introduction.md",
-    "HUST/2022.2/Database/Chương I.md",
-    "HUST/2022.2/Database/Chương II.md",
     "Excalidraw",
-    "Calendar/a.md",
     "Calendar",
-    "2023-W30.md",
-    "HUST/2022.2/Calculus/Calculus III.md",
     "HUST/2022.2/Database",
-    "HUST/2022.2/Computer Architecture/MIPS Syscall.md",
     "HUST/2022.2/Calculus",
     "HUST/2022.2/Scientific Computational",
     "Image Bank",
