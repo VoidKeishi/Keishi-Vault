@@ -1,8 +1,8 @@
 {
-  "accentColor": "",
+  "accentColor": "#007bbd",
   "cssTheme": "Obsidianite",
   "translucency": false,
   "nativeMenus": false,
-  "baseFontSize": 18,
+  "baseFontSize": 17,
   "baseFontSizeAction": true
 }

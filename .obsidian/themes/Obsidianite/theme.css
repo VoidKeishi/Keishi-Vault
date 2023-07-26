@@ -53,11 +53,12 @@
   --text-sub-accent: #f4569d;
   --text-dim: #45aaff;
   --text-faint: #7aa2f7;
-  --text-title-h1: var(--text-accent);
-  --text-title-h2: #cbdbe5;
-  --text-title-h3: #cbdbe5;
-  --text-title-h4: #cbdbe5;
-  --text-title-h5: #cbdbe5;
+  --text-title-h1:#ff79c6;
+  --text-title-h2:#bd93f9;
+  --text-title-h3:#ff5555;
+  --text-title-h4:#ffb86c;
+  --text-title-h5:#50fa7b;
+  --text-title-h6:#27caef;
   --text-link: #b4b4b4;
   --text-a: #6bcafb;
   --text-a-hover: #6bcafb;
@@ -499,7 +500,7 @@ h6 {
   font-family: var(--default-font);
   font-weight: 600;
 }
-
+/*
 .HyperMD-header.HyperMD-header-2,
 .HyperMD-header.HyperMD-header-3,
 .HyperMD-header.HyperMD-header-4,
@@ -510,7 +511,7 @@ h6 {
   border-image-slice: 1;
   border-image-source: linear-gradient(to right, var(--text-sub-accent), #100e17, #100e17, #100e17);
 }
-
+*/
 .HyperMD-header {
   padding: 20px;
 }
