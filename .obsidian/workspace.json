@@ -14,8 +14,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HUST/2022.2/Calculus/Calculus III.md",
-                "mode": "preview",
+                "file": "HUST/2022.2/Database/Chương II.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "HUST/2022.2/Calculus/Calculus III.md",
+                "file": "HUST/2022.2/Database/Chương II.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HUST/2022.2/Calculus/Calculus III.md",
+                "file": "HUST/2022.2/Database/Chương II.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HUST/2022.2/Calculus/Calculus III.md",
+                "file": "HUST/2022.2/Database/Chương II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HUST/2022.2/Calculus/Calculus III.md"
+                "file": "HUST/2022.2/Database/Chương II.md"
               }
             }
           }
@@ -205,9 +205,12 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "25d6b588740dd61f",
+  "active": "c196d5f6a3c3787b",
   "lastOpenFiles": [
+    "HUST/2022.2/Database/Chương I.md",
+    "HUST/2022.2/Database/Chương II.md",
     "HUST/2022.2/Calculus/Calculus III.md",
+    "HUST/2022.2/Database",
     "HUST/2022.2/Computer Architecture/MIPS Syscall.md",
     "HUST/2022.2/Scientific Computational/Chapter 6.md",
     "HUST/2022.2/Calculus",
@@ -235,16 +238,13 @@
     "HUST/2022.2/Computer Architecture/Chapter 6 - Memory.md",
     "HUST/2022.2/Scientific Computational.md",
     "HUST/2022.2/Scientific Computational",
-    "Git.md",
     "Image Bank",
-    "Web Development/Frontend/HTML.md",
     "Web Development/Frontend",
     "Day Planners",
     "HUST/2022.2/Computer Architecture",
     "Untitled.canvas",
     "HUST/2022.2",
     "HUST",
-    "Web Development",
-    "AI"
+    "Web Development"
   ]
 }
