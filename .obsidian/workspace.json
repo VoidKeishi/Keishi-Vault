@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e0d342fa71053114",
+        "id": "f146639ded97e2a4",
         "type": "tabs",
-        "dimension": 69.11764705882352,
+        "dimension": 73.0837789661319,
         "children": [
           {
-            "id": "3713ac8370c18023",
+            "id": "764b1da2417cfab2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HUST/2022.2/Database/Chương III.md",
+                "file": "AI/Unet.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -24,16 +24,21 @@
         ]
       },
       {
-        "id": "d4e6482903856dcc",
+        "id": "a0289892d720a152",
         "type": "tabs",
-        "dimension": 30.88235294117647,
+        "dimension": 26.916221033868094,
         "children": [
           {
-            "id": "3861341422d10ac5",
+            "id": "3713ac8370c18023",
             "type": "leaf",
             "state": {
-              "type": "mindmap",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "AI/ReLU.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -127,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HUST/2022.2/Database/Chương III.md",
+                "file": "AI/Unet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HUST/2022.2/Database/Chương III.md",
+                "file": "AI/Unet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HUST/2022.2/Database/Chương III.md"
+                "file": "AI/Unet.md"
               }
             }
           },
@@ -188,44 +193,82 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "3713ac8370c18023",
+  "floating": {
+    "id": "8a0f29ab06b2746f",
+    "type": "floating",
+    "children": [
+      {
+        "id": "560b68795276cc59",
+        "type": "window",
+        "children": [
+          {
+            "id": "437d0a3f18715136",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a3ca17670e0c294d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "AI/Unet.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 303,
+        "y": 54,
+        "width": 603,
+        "height": 732,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "764b1da2417cfab2",
   "lastOpenFiles": [
-    "HUST/2022.2/Database/Chương II.md",
-    "HUST/2022.2/Database/Chương III.md",
+    "AI/Gradient descent.md",
+    "AI/Logistic regression.md",
+    "AI/Unet.md",
+    "Excalidraw/Drawing 2023-07-26 17.56.52.excalidraw.md",
+    "Excalidraw/HandNote2023-07-26 17.58.55.excalidraw.md",
+    "AI/ReLU.md",
+    "Image Bank/Pasted image 20230726220609.png",
+    "HUST/2022.2/Calculus/Calculus III.md",
+    "HUST/2022.2/Computer Architecture/Chapter 4 - Computer Arithmetic.md",
+    "Image Bank/ReLU.png",
+    "Image Bank/Unet.webp",
+    "HUST/2022.2/Scientific Computational/Table of content.md",
+    "HUST/2022.2/Scientific Computational/Chapter 8.md",
+    "HUST/2022.2/Scientific Computational/Chapter 7.md",
+    "HUST/2022.2/Scientific Computational/Chapter 6.md",
+    "HUST/2022.2/Scientific Computational/Chapter 5.md",
+    "HUST/2022.2/Scientific Computational/Chapter 4.md",
+    "HUST/2022.2/Scientific Computational/Chapter 3.md",
     "HUST/2022.2/Database/Chương I.md",
+    "HUST/2022.2/Database/Biến đổi sơ đồ thực thể liên kết sang sơ đồ quan hệ.md",
+    "HUST/2022.2/Computer Architecture/Computer Architecture.md",
+    "HUST/2022.2/Computer Architecture/Chapter 8 - Parallel Architectures.md",
+    "HUST/2022.2/Computer Architecture/Chapter 7 - I-O system.md",
+    "HUST/2022.2/Computer Architecture/Chapter 5 - Processor.md",
     "HUST/2022.2/Database/Mô hình dữ liệu quan hệ.md",
+    "HUST/2022.2/Database/Chương II.md",
+    "HUST/2022.2/Scientific Computational/Chapter 2.md",
     "HUST/2022.2/Database/Mô hình thực thể liên kết.md",
+    "HUST/2022.2/Database/Chương III.md",
     "Pasted image 20230726221052.png",
     "Image Bank/Pasted image 20230726221019.png",
-    "HUST/2022.2/Database/Biến đổi sơ đồ thực thể liên kết sang sơ đồ quan hệ.md",
     "Image Bank/Pasted image 20230726220826.png",
     "Image Bank/Pasted image 20230726220812.png",
     "Image Bank/Pasted image 20230726220722.png",
     "Image Bank/Pasted image 20230726220701.png",
     "Image Bank/Pasted image 20230726220642.png",
-    "Image Bank/Pasted image 20230726220609.png",
-    "Web Development/Frontend/HTML.md",
-    "Web Development/Frontend/CSS.md",
-    "Git.md",
-    "Image Bank/Sơ đồ quan hệ.png",
-    "Web Development/Backend.md",
-    "HUST/2022.2/Computer Architecture/Chapter 1 - Introduction.md",
-    "Excalidraw/HandNote2023-07-26 17.58.55.excalidraw.md",
-    "Excalidraw/Drawing 2023-07-26 17.56.52.excalidraw.md",
-    "Excalidraw/Drawing 2023-07-26 17.14.28.excalidraw.md",
-    "Excalidraw/Drawing 2023-07-26 17.15.01.excalidraw.md",
-    "Image Bank/ReLU.png",
-    "HUST/2022.2/Scientific Computational/Chapter 2.md",
-    "HUST/2022.2/Scientific Computational/Chapter 4.md",
-    "HUST/2022.2/Scientific Computational/Chapter 8.md",
-    "HUST/2022.2/Scientific Computational/Table of content.md",
-    "HUST/2022.2/Scientific Computational/Chapter 7.md",
-    "HUST/2022.2/Scientific Computational/Chapter 6.md",
-    "HUST/2022.2/Scientific Computational/Chapter 3.md",
-    "Markdown syntax.md",
-    "2023-07-26.md",
-    "HUST/2022.2/Scientific Computational/Chapter 5.md",
-    "Calendar/2023-07-27 Nhật.md",
     "Excalidraw",
     "Calendar",
     "HUST/2022.2/Database",
