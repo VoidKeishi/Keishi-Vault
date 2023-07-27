@@ -4,37 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f146639ded97e2a4",
+        "id": "ec43bd366ebb27ee",
         "type": "tabs",
-        "dimension": 73.0837789661319,
         "children": [
           {
-            "id": "764b1da2417cfab2",
+            "id": "93f70790897e72a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Unet.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "a0289892d720a152",
-        "type": "tabs",
-        "dimension": 26.916221033868098,
-        "children": [
-          {
-            "id": "3713ac8370c18023",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI/ReLU.md",
+                "file": "HUST/2022.2/Database/Chương III.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -132,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/Unet.md",
+                "file": "HUST/2022.2/Database/Chương III.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/Unet.md",
+                "file": "HUST/2022.2/Database/Chương III.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/Unet.md"
+                "file": "HUST/2022.2/Database/Chương III.md"
               }
             }
           },
@@ -193,13 +172,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "764b1da2417cfab2",
+  "active": "93f70790897e72a6",
   "lastOpenFiles": [
+    "Excalidraw/HandNote2023-07-26 17.58.55.excalidraw.md",
+    "AI/Unet.md",
     "AI/Gradient descent.md",
     "AI/Logistic regression.md",
-    "AI/Unet.md",
     "Excalidraw/Drawing 2023-07-26 17.56.52.excalidraw.md",
-    "Excalidraw/HandNote2023-07-26 17.58.55.excalidraw.md",
     "AI/ReLU.md",
     "Image Bank/Pasted image 20230726220609.png",
     "HUST/2022.2/Calculus/Calculus III.md",
