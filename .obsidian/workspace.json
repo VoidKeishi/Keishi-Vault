@@ -193,44 +193,6 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "floating": {
-    "id": "8a0f29ab06b2746f",
-    "type": "floating",
-    "children": [
-      {
-        "id": "560b68795276cc59",
-        "type": "window",
-        "children": [
-          {
-            "id": "437d0a3f18715136",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "a3ca17670e0c294d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "AI/Unet.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 303,
-        "y": 54,
-        "width": 603,
-        "height": 732,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "764b1da2417cfab2",
   "lastOpenFiles": [
     "AI/Gradient descent.md",
