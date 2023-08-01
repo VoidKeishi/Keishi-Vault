@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8132f6e99e014d47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HUST/2022.2/Statistics and Probability/Chương I.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -111,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Self/27-7-2023.md",
+                "file": "HUST/2022.2/Statistics and Probability/Chương I.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Self/27-7-2023.md",
+                "file": "HUST/2022.2/Statistics and Probability/Chương I.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Self/27-7-2023.md"
+                "file": "HUST/2022.2/Statistics and Probability/Chương I.md"
               }
             }
           },
@@ -172,11 +186,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "020eb9cc2f7e0a9e",
+  "active": "8132f6e99e014d47",
   "lastOpenFiles": [
+    "Pasted image 20230730200041.png",
+    "HUST/2022.2/Scientific Computational/Chương 1.md",
+    "HUST/2022.2/Scientific Computational/Table of content.md",
+    "HUST/2022.2/Scientific Computational/Chương 8.md",
+    "HUST/2022.2/Scientific Computational/Chương 3.md",
+    "HUST/2022.2/Scientific Computational/Chương 4.md",
+    "HUST/2022.2/Scientific Computational/Chương 5.md",
+    "HUST/2022.2/Scientific Computational/Chương 6.md",
+    "HUST/2022.2/Scientific Computational/Chương 7.md",
+    "HUST/2022.2/Scientific Computational/Chương 2.md",
+    "HUST/2022.2/Statistics and Probability/Chương I.md",
+    "Self/27-7-2023.md",
+    "HUST/2022.2/Statistics and Probability",
     "Self/Study plan.md",
     "Self/Viettel Digital Talent.md",
-    "Self/27-7-2023.md",
     "Image Bank/Pasted image 20230726221052.png",
     "Self",
     "HUST/2022.2/Database/Mô hình dữ liệu quan hệ.md",
@@ -192,19 +218,8 @@
     "AI/ReLU.md",
     "Image Bank/Pasted image 20230726220609.png",
     "HUST/2022.2/Calculus/Calculus III.md",
-    "HUST/2022.2/Computer Architecture/Chapter 4 - Computer Arithmetic.md",
     "Image Bank/ReLU.png",
     "Image Bank/Unet.webp",
-    "HUST/2022.2/Scientific Computational/Table of content.md",
-    "HUST/2022.2/Scientific Computational/Chapter 8.md",
-    "HUST/2022.2/Scientific Computational/Chapter 7.md",
-    "HUST/2022.2/Scientific Computational/Chapter 6.md",
-    "HUST/2022.2/Scientific Computational/Chapter 5.md",
-    "HUST/2022.2/Scientific Computational/Chapter 4.md",
-    "HUST/2022.2/Scientific Computational/Chapter 3.md",
-    "HUST/2022.2/Database/Chương I.md",
-    "HUST/2022.2/Computer Architecture/Computer Architecture.md",
-    "HUST/2022.2/Computer Architecture/Chapter 8 - Parallel Architectures.md",
     "Image Bank/Pasted image 20230726221019.png",
     "Image Bank/Pasted image 20230726220826.png",
     "Image Bank/Pasted image 20230726220812.png",
@@ -219,7 +234,6 @@
     "Image Bank",
     "Web Development/Frontend",
     "Day Planners",
-    "HUST/2022.2/Computer Architecture",
     "Untitled.canvas"
   ]
 }

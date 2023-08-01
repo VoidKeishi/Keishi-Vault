@@ -1,7 +1,7 @@
-[[Chapter 2]]: 
-[[Chapter 3]] : 
-[[Chapter 4]]
-[[Chapter 5]]
-[[Chapter 6]]
-[[Chapter 7]]
-[[Chapter 8]]
+[[Chương 2]]: 
+[[Chương 3]] : 
+[[Chương 4]]
+[[Chương 5]]
+[[Chương 6]]
+[[Chương 7]]
+[[Chương 8]]
