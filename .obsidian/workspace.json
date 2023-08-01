@@ -6,6 +6,7 @@
       {
         "id": "ec43bd366ebb27ee",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "020eb9cc2f7e0a9e",
@@ -13,28 +14,66 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Self/27-7-2023.md",
+                "file": "AI/Machine learning.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
-            }
+            },
+            "group": "36b411a66f52d186"
           },
           {
             "id": "8132f6e99e014d47",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HUST/2022.2/Statistics and Probability/Chương I.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "41e1e8c51073711f",
+        "type": "tabs",
+        "dimension": 50,
+        "children": [
+          {
+            "id": "965bf7f39f87d795",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "AI/Machine learning.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            },
+            "group": "36b411a66f52d186"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -125,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HUST/2022.2/Statistics and Probability/Chương I.md",
+                "file": "AI/Machine learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HUST/2022.2/Statistics and Probability/Chương I.md",
+                "file": "AI/Machine learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HUST/2022.2/Statistics and Probability/Chương I.md"
+                "file": "AI/Machine learning.md"
               }
             }
           },
@@ -186,8 +225,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "8132f6e99e014d47",
+  "active": "020eb9cc2f7e0a9e",
   "lastOpenFiles": [
+    "Residual Block.md",
+    "AI/Deep learning.md",
+    "AI/Gradient descent.md",
+    "Markdown syntax.md",
+    "AI/Linear regression.md",
+    "AI/Logistic regression.md",
+    "AI/Unet.md",
+    "AI/ReLU.md",
+    "HUST/2022.2/Database/Chương II.md",
+    "HUST/2022.2/Database/Chương III.md",
+    "AI/Machine learning.md",
+    "Self/27-7-2023.md",
+    "HUST/2022.2/Statistics and Probability/Chương I.md",
     "Pasted image 20230730200041.png",
     "HUST/2022.2/Scientific Computational/Chương 1.md",
     "HUST/2022.2/Scientific Computational/Table of content.md",
@@ -198,26 +250,14 @@
     "HUST/2022.2/Scientific Computational/Chương 6.md",
     "HUST/2022.2/Scientific Computational/Chương 7.md",
     "HUST/2022.2/Scientific Computational/Chương 2.md",
-    "HUST/2022.2/Statistics and Probability/Chương I.md",
-    "Self/27-7-2023.md",
     "HUST/2022.2/Statistics and Probability",
     "Self/Study plan.md",
     "Self/Viettel Digital Talent.md",
     "Image Bank/Pasted image 20230726221052.png",
     "Self",
     "HUST/2022.2/Database/Mô hình dữ liệu quan hệ.md",
-    "HUST/2022.2/Database/Chương II.md",
     "HUST/2022.2/Database/Biến đổi sơ đồ thực thể liên kết sang sơ đồ quan hệ.md",
-    "HUST/2022.2/Database/Chương III.md",
-    "HUST/2022.2/Database/Chương IV.md",
-    "Excalidraw/HandNote2023-07-26 17.58.55.excalidraw.md",
-    "AI/Unet.md",
-    "AI/Gradient descent.md",
-    "AI/Logistic regression.md",
-    "Excalidraw/Drawing 2023-07-26 17.56.52.excalidraw.md",
-    "AI/ReLU.md",
     "Image Bank/Pasted image 20230726220609.png",
-    "HUST/2022.2/Calculus/Calculus III.md",
     "Image Bank/ReLU.png",
     "Image Bank/Unet.webp",
     "Image Bank/Pasted image 20230726221019.png",
@@ -225,7 +265,6 @@
     "Image Bank/Pasted image 20230726220812.png",
     "Image Bank/Pasted image 20230726220722.png",
     "Image Bank/Pasted image 20230726220701.png",
-    "Image Bank/Pasted image 20230726220642.png",
     "Excalidraw",
     "Calendar",
     "HUST/2022.2/Database",

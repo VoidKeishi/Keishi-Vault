@@ -1,6 +1,7 @@
 # [[Computer Vision]]
 ## [[Unet]]
 
+[[Residual Block]]
 
 [[ReLU]]
 #Calculate_the_activation_of_a_neuron
