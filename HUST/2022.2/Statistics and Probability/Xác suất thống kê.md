@@ -49,9 +49,9 @@
                 - $0\leq P(A)\leq 1$ 
                 - $P(\Omega)=1; P(\empty)=0$ 
                 - $P(A)+P(\overline A)=1$ 
-        - Theo cổ điển : $P(A)=\frac{n_A}{n_\Omega}$ 
-        - Theo hình học : $P(A) = \frac{Độ \space miền\space A}{Độ \space miền \space \Omega}$ 
-        - Theo tần suất (thống kê) : $P(A)=\frac{Số \space lần\space ra \space A}{Số \space lần \space thử}$ (Với số lần thử lớn)
+- Theo cổ điển : $P(A)=\frac{n_A}{n_\Omega}$ 
+- Theo hình học : $P(A) = \frac{Độ \space miền\space A}{Độ \space miền \space \Omega}$ 
+- Theo tần suất (thống kê) : $P(A)=\frac{Số \space lần\space ra \space A}{Số \space lần \space thử}$ (Với số lần thử lớn)
     - Công thức tính xác suất
         - Công thức cộng
             - $P(A+B)=P(A)+P(B)-P(AB)$ 
