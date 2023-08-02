@@ -8,6 +8,11 @@
 	- Tổ hợp: $C^k_n=\frac{A^k_n}{k!}=\frac{n!}{k!(n-k)!}$
 	- ![[Pasted image 20230730200041.png]]
 ## Sự kiện và các phép toán
+- Sự kiện sơ cấp
+- Sự kiện chắc chắn
+- Sự kiện không thể
+- Sự kiện ngẫu nhiên
+- Phép thử ngẫu nhiên
 ## Các định nghĩa xác suất
 ## Một số công thức tính xác suất
 ## Công thức xác suất đầy đủ và Bayes
