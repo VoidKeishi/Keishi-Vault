@@ -206,8 +206,22 @@
                     "file": "HUST/2022.2/Statistics and Probability/Chapter2.pdf"
                   }
                 }
+              },
+              {
+                "id": "af4a19c17fd9f817",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "HUST/2022.2/Statistics and Probability/Xác suất thống kê.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
@@ -222,11 +236,11 @@
   },
   "active": "49f50e2f3dbd34f8",
   "lastOpenFiles": [
-    "HUST/2022.2/Statistics and Probability/Chương V.md",
-    "HUST/2022.2/Statistics and Probability/Chương II.md",
-    "HUST/2022.2/Statistics and Probability/Chapter2.pdf",
-    "HUST/2022.2/Statistics and Probability/chapter4.pdf",
     "HUST/2022.2/Statistics and Probability/Xác suất thống kê.md",
+    "HUST/2022.2/Statistics and Probability/Chapter2.pdf",
+    "HUST/2022.2/Statistics and Probability/Chương II.md",
+    "HUST/2022.2/Statistics and Probability/Chương V.md",
+    "HUST/2022.2/Statistics and Probability/chapter4.pdf",
     "HUST/2022.2/Statistics and Probability/Chương I.md",
     "HUST/2022.2/Statistics and Probability/Chapter1.pdf",
     "HUST/2022.2/Statistics and Probability/Chapter3.pdf",
@@ -253,7 +267,6 @@
     "HUST/2022.2/Scientific Computational/Chương 5.md",
     "HUST/2022.2/Scientific Computational/Chương 6.md",
     "HUST/2022.2/Scientific Computational/Chương 7.md",
-    "HUST/2022.2/Scientific Computational/Chương 2.md",
     "HUST/2022.2/Statistics and Probability",
     "Image Bank/Pasted image 20230726221052.png",
     "Self",

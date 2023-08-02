@@ -102,7 +102,6 @@
             - $P(X\in B) = \int_Bf(x)dx \space,\forall B\sub R$ 
             - $P(x\leq X \leq x+ \Delta_x) \approx \ f(x).\Delta_x$ 
         - Tính chất
-            - ![](local://C:/Users/APC/remnote/remnote-637a0260e28e896e4bc77d91/files/uxm3ps-fCK1GkhMnQ6KZrBjd4EqPNhyCOYkRrLJO2jUHLg3JpBHc15OYh8VWfTyx610LEmhuSirV1BjSoAypbWtZaxeKC55O2M610j4AlSfEDoHAoQzxdetwieGwpLSw.png) 
         - Tham số đặc trưng
     - Các luật phân phối xác suất
         - Biến ngẫu nhiên rời rạc
