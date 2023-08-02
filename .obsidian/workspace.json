@@ -6,72 +6,16 @@
       {
         "id": "ec43bd366ebb27ee",
         "type": "tabs",
-        "dimension": 50,
         "children": [
-          {
-            "id": "020eb9cc2f7e0a9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI/Machine learning.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            },
-            "group": "36b411a66f52d186"
-          },
           {
             "id": "8132f6e99e014d47",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "41e1e8c51073711f",
-        "type": "tabs",
-        "dimension": 50,
-        "children": [
-          {
-            "id": "965bf7f39f87d795",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
+              "type": "pdf",
               "state": {
-                "file": "AI/Machine learning.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
+                "file": "HUST/2022.2/Statistics and Probability/chapter5.pdf"
               }
-            },
-            "group": "36b411a66f52d186"
+            }
           }
         ]
       }
@@ -164,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/Machine learning.md",
+                "file": "HUST/2022.2/Statistics and Probability/chapter5.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/Machine learning.md",
+                "file": "HUST/2022.2/Statistics and Probability/chapter5.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/Machine learning.md"
+                "file": "HUST/2022.2/Statistics and Probability/chapter5.pdf"
               }
             }
           },
@@ -225,8 +169,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "020eb9cc2f7e0a9e",
+  "active": "8132f6e99e014d47",
   "lastOpenFiles": [
+    "HUST/2022.2/Statistics and Probability/chapter4.pdf",
+    "HUST/2022.2/Statistics and Probability/Chapter3.pdf",
+    "HUST/2022.2/Statistics and Probability/Chapter2.pdf",
+    "HUST/2022.2/Statistics and Probability/Chapter1.pdf",
+    "HUST/2022.2/Statistics and Probability/chapter5.pdf",
+    "HUST/2022.2/Statistics and Probability/Chương I.md",
+    "AI/Machine learning.md",
     "Residual Block.md",
     "AI/Deep learning.md",
     "AI/Gradient descent.md",
@@ -237,9 +188,7 @@
     "AI/ReLU.md",
     "HUST/2022.2/Database/Chương II.md",
     "HUST/2022.2/Database/Chương III.md",
-    "AI/Machine learning.md",
     "Self/27-7-2023.md",
-    "HUST/2022.2/Statistics and Probability/Chương I.md",
     "Pasted image 20230730200041.png",
     "HUST/2022.2/Scientific Computational/Chương 1.md",
     "HUST/2022.2/Scientific Computational/Table of content.md",
@@ -256,7 +205,6 @@
     "Image Bank/Pasted image 20230726221052.png",
     "Self",
     "HUST/2022.2/Database/Mô hình dữ liệu quan hệ.md",
-    "HUST/2022.2/Database/Biến đổi sơ đồ thực thể liên kết sang sơ đồ quan hệ.md",
     "Image Bank/Pasted image 20230726220609.png",
     "Image Bank/ReLU.png",
     "Image Bank/Unet.webp",
@@ -269,10 +217,6 @@
     "Calendar",
     "HUST/2022.2/Database",
     "HUST/2022.2/Calculus",
-    "HUST/2022.2/Scientific Computational",
-    "Image Bank",
-    "Web Development/Frontend",
-    "Day Planners",
     "Untitled.canvas"
   ]
 }
