@@ -21,6 +21,32 @@
             }
           }
         ]
+      },
+      {
+        "id": "789ed6cee71a7640",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bbb017b426af1408",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "HUST/2022.2/Statistics and Probability/chapter5.pdf"
+              }
+            }
+          },
+          {
+            "id": "5cab2bf7232dac23",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "HUST/2022.2/Statistics and Probability/Chapter2.pdf"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -188,29 +214,29 @@
   "active": "a2664a0125140a08",
   "lastOpenFiles": [
     "HUST/2022.2/Statistics and Probability/Chương IV.md",
+    "HUST/2022.2/Statistics and Probability/chapter5.pdf",
     "HUST/2022.2/Statistics and Probability/Chương V.md",
+    "HUST/2022.2/Statistics and Probability/chapter4.pdf",
+    "HUST/2022.2/Statistics and Probability/Chapter2.pdf",
+    "HUST/2022.2/Statistics and Probability/Chương II.md",
+    "AI/Machine learning.md",
+    "AI/Logistic regression.md",
+    "AI/ReLU.md",
+    "AI/Deep learning.md",
     "Tools/Git.md",
     "PLĐC.md",
     "Untitled",
-    "HUST/2022.2/Statistics and Probability/Chapter2.pdf",
     "Image Bank/Pasted image 20230730200041.png",
     "Tools",
     "AI/Residual Block.md",
-    "HUST/2022.2/Statistics and Probability/Chương II.md",
     "HUST/2022.2/Statistics and Probability/Xác suất thống kê.md",
-    "HUST/2022.2/Statistics and Probability/chapter4.pdf",
     "HUST/2022.2/Statistics and Probability/Chương I.md",
     "HUST/2022.2/Statistics and Probability/Chapter1.pdf",
     "HUST/2022.2/Statistics and Probability/Chapter3.pdf",
-    "HUST/2022.2/Statistics and Probability/chapter5.pdf",
-    "AI/Machine learning.md",
-    "AI/Deep learning.md",
     "AI/Gradient descent.md",
     "Markdown syntax.md",
     "AI/Linear regression.md",
-    "AI/Logistic regression.md",
     "AI/Unet.md",
-    "AI/ReLU.md",
     "HUST/2022.2/Database/Chương II.md",
     "HUST/2022.2/Database/Chương III.md",
     "Self/27-7-2023.md",
@@ -220,7 +246,6 @@
     "HUST/2022.2/Scientific Computational/Chương 3.md",
     "HUST/2022.2/Scientific Computational/Chương 4.md",
     "HUST/2022.2/Scientific Computational/Chương 5.md",
-    "HUST/2022.2/Scientific Computational/Chương 6.md",
     "HUST/2022.2/Statistics and Probability",
     "Image Bank/Pasted image 20230726221052.png",
     "Self",

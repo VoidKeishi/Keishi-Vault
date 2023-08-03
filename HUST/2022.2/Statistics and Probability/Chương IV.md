@@ -23,4 +23,7 @@
 - Ước lượng điểm
 # Ước lượng khoảng
 - Ước lượng khoảng cho kì vọng
+	- $\sigma$ đã biết
+		- 
+	- $\sigma$ không biết
 - Ước lượng khoảng cho tỉ lệ
