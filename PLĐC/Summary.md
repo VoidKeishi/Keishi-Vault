@@ -33,4 +33,4 @@
 	- Phân chia và quản lý dân cư theo lãnh thổ
 	- Mang chủ quyền quốc gia
 	- Ban hành pháp luật và có sức mạnh cưỡng chế
-	- Quy định và các loại thuế dưới hình thức bắt buộc
+	- Quy định và thu các loại thuế dưới hình thức bắt buộc

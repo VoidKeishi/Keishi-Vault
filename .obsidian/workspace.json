@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "ec43bd366ebb27ee",
+        "id": "585c58e8d791bc6f",
         "type": "tabs",
         "children": [
           {
-            "id": "49f50e2f3dbd34f8",
+            "id": "a2664a0125140a08",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools/Git.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a747e39b89c81473",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PLĐC.md",
+                "file": "HUST/2022.2/Statistics and Probability/Chương V.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PLĐC.md",
+                "file": "HUST/2022.2/Statistics and Probability/Chương V.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PLĐC.md",
+                "file": "HUST/2022.2/Statistics and Probability/Chương V.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PLĐC.md"
+                "file": "HUST/2022.2/Statistics and Probability/Chương V.md"
               }
             }
           },
@@ -199,56 +185,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "floating": {
-    "id": "5146d527175b2d9d",
-    "type": "floating",
-    "children": [
-      {
-        "id": "5e2102ef9cd9c9ac",
-        "type": "window",
-        "children": [
-          {
-            "id": "f919ab5435f073a8",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "070ff55948435bec",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "HUST/2022.2/Statistics and Probability/Chapter2.pdf"
-                  }
-                }
-              },
-              {
-                "id": "af4a19c17fd9f817",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "HUST/2022.2/Statistics and Probability/Xác suất thống kê.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -765,
-        "y": 103,
-        "width": 602,
-        "height": 776,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "a747e39b89c81473",
+  "active": "a2664a0125140a08",
   "lastOpenFiles": [
+    "HUST/2022.2/Statistics and Probability/Chương IV.md",
+    "HUST/2022.2/Statistics and Probability/Chương V.md",
     "Tools/Git.md",
     "PLĐC.md",
     "Untitled",
@@ -258,13 +198,11 @@
     "AI/Residual Block.md",
     "HUST/2022.2/Statistics and Probability/Chương II.md",
     "HUST/2022.2/Statistics and Probability/Xác suất thống kê.md",
-    "HUST/2022.2/Statistics and Probability/Chương V.md",
     "HUST/2022.2/Statistics and Probability/chapter4.pdf",
     "HUST/2022.2/Statistics and Probability/Chương I.md",
     "HUST/2022.2/Statistics and Probability/Chapter1.pdf",
     "HUST/2022.2/Statistics and Probability/Chapter3.pdf",
     "HUST/2022.2/Statistics and Probability/chapter5.pdf",
-    "HUST/2022.2/Statistics and Probability/Chương IV.md",
     "AI/Machine learning.md",
     "AI/Deep learning.md",
     "AI/Gradient descent.md",
