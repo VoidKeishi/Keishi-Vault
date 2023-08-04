@@ -4,41 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "789ed6cee71a7640",
+        "id": "6d7bb60740232621",
         "type": "tabs",
         "children": [
           {
-            "id": "bbb017b426af1408",
+            "id": "063c47b66dda2b43",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "HUST/2022.2/Statistics and Probability/chapter4.pdf"
-              }
-            }
-          },
-          {
-            "id": "5cab2bf7232dac23",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "HUST/2022.2/Statistics and Probability/chapter5.pdf"
-              }
-            }
-          },
-          {
-            "id": "24b7ccf337691b06",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "HUST/2022.2/Statistics and Probability/Chapter2.pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -143,7 +120,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HUST/2022.2/Statistics and Probability/chapter5.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +136,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HUST/2022.2/Statistics and Probability/chapter5.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,9 +146,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "HUST/2022.2/Statistics and Probability/chapter5.pdf"
-              }
+              "state": {}
             }
           },
           {
@@ -204,7 +177,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "5cab2bf7232dac23",
+  "active": "063c47b66dda2b43",
   "lastOpenFiles": [
     "HUST/2022.2/Statistics and Probability/chapter4.pdf",
     "HUST/2022.2/Statistics and Probability/chapter5.pdf",
