@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6d7bb60740232621",
+        "id": "3aee355b5291a3ec",
         "type": "tabs",
         "children": [
           {
-            "id": "063c47b66dda2b43",
+            "id": "7f56a76ae712dd36",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "HUST/2022.2/Scientific Computational/PDF/Chương-8-Quy-Hoạch-Tuyến-Tính.pdf"
+              }
             }
           }
         ]
@@ -92,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "aa7dde9fcd69895c",
@@ -120,6 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "HUST/2022.2/Scientific Computational/PDF/Chương-8-Quy-Hoạch-Tuyến-Tính.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,6 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "HUST/2022.2/Scientific Computational/PDF/Chương-8-Quy-Hoạch-Tuyến-Tính.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "HUST/2022.2/Scientific Computational/PDF/Chương-8-Quy-Hoạch-Tuyến-Tính.pdf"
+              }
             }
           },
           {
@@ -177,53 +182,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "063c47b66dda2b43",
+  "active": "7f56a76ae712dd36",
   "lastOpenFiles": [
-    "HUST/2022.2/Statistics and Probability/chapter4.pdf",
-    "HUST/2022.2/Statistics and Probability/chapter5.pdf",
+    "HUST/2022.2/Scientific Computational/PDF/Chương-7-Các-Phương-Pháp-Cực-Tiểu-Không-Ràng-Buộc.pdf",
+    "HUST/2022.2/Scientific Computational/PDF/Chương-6-Phương-Trình-Vi-Phân.pdf",
+    "HUST/2022.2/Scientific Computational/PDF/Chương-5-Tính-gần-đúng-Đạo-hàm-và-Tích-phân.pdf",
+    "HUST/2022.2/Scientific Computational/PDF/Chương-4-Giải-Phương-Trình-Phi-Tuyến.pdf",
+    "AI/Machine learning.md",
+    "HUST/2022.2/Scientific Computational/PDF/Chương-3-Đường-Cong-Khớp.pdf",
+    "HUST/2022.2/Scientific Computational/PDF/Chương-2-Giải-Hệ-Phương-Trình-Tuyến-Tính.pdf",
+    "HUST/2022.2/Scientific Computational/PDF/Chương-1-Matlab.pdf",
+    "HUST/2022.2/Computer Architecture/Computer Architecture.md",
+    "AI/Math/Algebra.md",
+    "HUST/2022.2/Scientific Computational/PDF/Computational Mathematic.pdf",
+    "HUST/2022.2/Scientific Computational/PDF/Chương-8-Quy-Hoạch-Tuyến-Tính.pdf",
+    "HUST/2022.2/Scientific Computational/PDF",
+    "AI/Deep learning.md",
+    "AI/Gradient descent.md",
+    "AI/Unet.md",
+    "HUST/2022.2/PLĐC/Summary.md",
+    "HUST/2022.2/PLĐC/359694512_692474162891800_9000393547690750778_n.jpg",
+    "HUST/2022.2/PLĐC/358337315_811112283977080_3116992063927894030_n.jpg",
+    "HUST/2022.2/PLĐC/358340284_240689552248770_7651400399360612553_n.jpg",
+    "Excalidraw/HandNote2023-07-26 17.58.55.excalidraw.md",
+    "Excalidraw/Drawing 2023-07-26 17.56.52.excalidraw.md",
+    "HUST/2022.2/Statistics and Probability/Chương II.md",
     "HUST/2022.2/Statistics and Probability/Chương IV.md",
     "HUST/2022.2/Statistics and Probability/Chương I.md",
-    "HUST/2022.2/Statistics and Probability/Chương II.md",
     "HUST/2022.2/Statistics and Probability/Chương V.md",
-    "HUST/2022.2/Statistics and Probability/Chapter2.pdf",
-    "AI/Machine learning.md",
     "AI/Logistic regression.md",
     "AI/ReLU.md",
-    "AI/Deep learning.md",
     "Tools/Git.md",
     "PLĐC.md",
-    "Untitled",
     "Image Bank/Pasted image 20230730200041.png",
-    "Tools",
     "AI/Residual Block.md",
     "HUST/2022.2/Statistics and Probability/Xác suất thống kê.md",
-    "HUST/2022.2/Statistics and Probability/Chapter1.pdf",
-    "HUST/2022.2/Statistics and Probability/Chapter3.pdf",
-    "AI/Gradient descent.md",
     "Markdown syntax.md",
     "AI/Linear regression.md",
-    "AI/Unet.md",
     "HUST/2022.2/Database/Chương II.md",
     "HUST/2022.2/Database/Chương III.md",
     "Self/27-7-2023.md",
     "HUST/2022.2/Scientific Computational/Chương 1.md",
-    "HUST/2022.2/Scientific Computational/Table of content.md",
-    "HUST/2022.2/Scientific Computational/Chương 8.md",
-    "HUST/2022.2/Scientific Computational/Chương 3.md",
-    "HUST/2022.2/Scientific Computational/Chương 4.md",
-    "HUST/2022.2/Scientific Computational/Chương 5.md",
-    "HUST/2022.2/Statistics and Probability",
     "Image Bank/Pasted image 20230726221052.png",
-    "Self",
     "Image Bank/Pasted image 20230726220609.png",
     "Image Bank/ReLU.png",
     "Image Bank/Unet.webp",
     "Image Bank/Pasted image 20230726221019.png",
     "Image Bank/Pasted image 20230726220826.png",
-    "Image Bank/Pasted image 20230726220812.png",
-    "Image Bank/Pasted image 20230726220722.png",
-    "Image Bank/Pasted image 20230726220701.png",
-    "Excalidraw",
     "Untitled.canvas"
   ]
 }
