@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3aee355b5291a3ec",
+        "id": "13b5638caba72114",
         "type": "tabs",
         "children": [
           {
-            "id": "7f56a76ae712dd36",
+            "id": "7b38874e11a1464c",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "HUST/2022.2/Scientific Computational/PDF/Chương-8-Quy-Hoạch-Tuyến-Tính.pdf"
+                "file": "HUST/2022.2/Scientific Computational/PDF/Chương-1-Matlab.pdf"
               }
             }
           }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HUST/2022.2/Scientific Computational/PDF/Chương-8-Quy-Hoạch-Tuyến-Tính.pdf",
+                "file": "HUST/2022.2/Scientific Computational/PDF/Chương-1-Matlab.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HUST/2022.2/Scientific Computational/PDF/Chương-8-Quy-Hoạch-Tuyến-Tính.pdf",
+                "file": "HUST/2022.2/Scientific Computational/PDF/Chương-1-Matlab.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HUST/2022.2/Scientific Computational/PDF/Chương-8-Quy-Hoạch-Tuyến-Tính.pdf"
+                "file": "HUST/2022.2/Scientific Computational/PDF/Chương-1-Matlab.pdf"
               }
             }
           },
@@ -182,20 +182,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "7f56a76ae712dd36",
+  "active": "7b38874e11a1464c",
   "lastOpenFiles": [
+    "HUST/2022.2/Scientific Computational/PDF/Chương-2-Giải-Hệ-Phương-Trình-Tuyến-Tính.pdf",
+    "HUST/2022.2/Scientific Computational/PDF/Chương-1-Matlab.pdf",
+    "HUST/2022.2/Computer Architecture/Chapter 1 - Introduction.md",
+    "HUST/2022.2/Scientific Computational/PDF/Chương-8-Quy-Hoạch-Tuyến-Tính.pdf",
     "HUST/2022.2/Scientific Computational/PDF/Chương-7-Các-Phương-Pháp-Cực-Tiểu-Không-Ràng-Buộc.pdf",
     "HUST/2022.2/Scientific Computational/PDF/Chương-6-Phương-Trình-Vi-Phân.pdf",
     "HUST/2022.2/Scientific Computational/PDF/Chương-5-Tính-gần-đúng-Đạo-hàm-và-Tích-phân.pdf",
     "HUST/2022.2/Scientific Computational/PDF/Chương-4-Giải-Phương-Trình-Phi-Tuyến.pdf",
     "AI/Machine learning.md",
     "HUST/2022.2/Scientific Computational/PDF/Chương-3-Đường-Cong-Khớp.pdf",
-    "HUST/2022.2/Scientific Computational/PDF/Chương-2-Giải-Hệ-Phương-Trình-Tuyến-Tính.pdf",
-    "HUST/2022.2/Scientific Computational/PDF/Chương-1-Matlab.pdf",
     "HUST/2022.2/Computer Architecture/Computer Architecture.md",
     "AI/Math/Algebra.md",
     "HUST/2022.2/Scientific Computational/PDF/Computational Mathematic.pdf",
-    "HUST/2022.2/Scientific Computational/PDF/Chương-8-Quy-Hoạch-Tuyến-Tính.pdf",
     "HUST/2022.2/Scientific Computational/PDF",
     "AI/Deep learning.md",
     "AI/Gradient descent.md",
@@ -222,7 +223,6 @@
     "HUST/2022.2/Database/Chương II.md",
     "HUST/2022.2/Database/Chương III.md",
     "Self/27-7-2023.md",
-    "HUST/2022.2/Scientific Computational/Chương 1.md",
     "Image Bank/Pasted image 20230726221052.png",
     "Image Bank/Pasted image 20230726220609.png",
     "Image Bank/ReLU.png",
