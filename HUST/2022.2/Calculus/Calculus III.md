@@ -1,6 +1,7 @@
 # Chuỗi
 ## Một số định nghĩa
 ### Chuỗi
+- $\sum\limits_{n=1}^{\infty}u_n=u_1+u_2+...u_n$
 ### Tổng riêng
 ### Phần dư
 ## Điều kiện cần

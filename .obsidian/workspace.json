@@ -4,17 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "13b5638caba72114",
+        "id": "86b3f0d182c5bea9",
         "type": "tabs",
+        "dimension": 84.8714069591528,
         "children": [
           {
-            "id": "7b38874e11a1464c",
+            "id": "ecf03d5f6a6cfdc0",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "HUST/2022.2/Scientific Computational/PDF/Chương-1-Matlab.pdf"
+                "file": "HUST/2022.2/Calculus/Calculus III.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
+            }
+          }
+        ]
+      },
+      {
+        "id": "a2a15e7d125843d5",
+        "type": "tabs",
+        "dimension": 15.128593040847202,
+        "children": [
+          {
+            "id": "844c69a4047a0577",
+            "type": "leaf",
+            "state": {
+              "type": "mindmap",
+              "state": {}
             }
           }
         ]
@@ -94,7 +113,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "aa7dde9fcd69895c",
@@ -121,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HUST/2022.2/Scientific Computational/PDF/Chương-1-Matlab.pdf",
+                "file": "HUST/2022.2/Calculus/Calculus III.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HUST/2022.2/Scientific Computational/PDF/Chương-1-Matlab.pdf",
+                "file": "HUST/2022.2/Calculus/Calculus III.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HUST/2022.2/Scientific Computational/PDF/Chương-1-Matlab.pdf"
+                "file": "HUST/2022.2/Calculus/Calculus III.md"
               }
             }
           },
@@ -182,10 +202,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "7b38874e11a1464c",
+  "active": "ecf03d5f6a6cfdc0",
   "lastOpenFiles": [
-    "HUST/2022.2/Scientific Computational/PDF/Chương-2-Giải-Hệ-Phương-Trình-Tuyến-Tính.pdf",
+    "HUST/2022.2/Statistics and Probability/Chương IV.md",
+    "HUST/2022.2/Calculus/Calculus III.md",
     "HUST/2022.2/Scientific Computational/PDF/Chương-1-Matlab.pdf",
+    "HUST/2022.2/Scientific Computational/PDF/Chương-2-Giải-Hệ-Phương-Trình-Tuyến-Tính.pdf",
     "HUST/2022.2/Computer Architecture/Chapter 1 - Introduction.md",
     "HUST/2022.2/Scientific Computational/PDF/Chương-8-Quy-Hoạch-Tuyến-Tính.pdf",
     "HUST/2022.2/Scientific Computational/PDF/Chương-7-Các-Phương-Pháp-Cực-Tiểu-Không-Ràng-Buộc.pdf",
@@ -208,7 +230,6 @@
     "Excalidraw/HandNote2023-07-26 17.58.55.excalidraw.md",
     "Excalidraw/Drawing 2023-07-26 17.56.52.excalidraw.md",
     "HUST/2022.2/Statistics and Probability/Chương II.md",
-    "HUST/2022.2/Statistics and Probability/Chương IV.md",
     "HUST/2022.2/Statistics and Probability/Chương I.md",
     "HUST/2022.2/Statistics and Probability/Chương V.md",
     "AI/Logistic regression.md",
