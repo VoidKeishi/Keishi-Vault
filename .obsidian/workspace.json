@@ -6,7 +6,6 @@
       {
         "id": "86b3f0d182c5bea9",
         "type": "tabs",
-        "dimension": 84.8714069591528,
         "children": [
           {
             "id": "ecf03d5f6a6cfdc0",
@@ -14,29 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HUST/2022.2/Calculus/Calculus III.md",
+                "file": "HUST/2022.2/Calculus/Lý thuyết.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d14212b206f4de57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HUST/2022.2/Calculus/Lý thuyết.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
-      },
-      {
-        "id": "a2a15e7d125843d5",
-        "type": "tabs",
-        "dimension": 15.128593040847202,
-        "children": [
-          {
-            "id": "844c69a4047a0577",
-            "type": "leaf",
-            "state": {
-              "type": "mindmap",
-              "state": {}
-            }
-          }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -141,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HUST/2022.2/Calculus/Calculus III.md",
+                "file": "HUST/2022.2/Calculus/Lý thuyết.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HUST/2022.2/Calculus/Calculus III.md",
+                "file": "HUST/2022.2/Calculus/Lý thuyết.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HUST/2022.2/Calculus/Calculus III.md"
+                "file": "HUST/2022.2/Calculus/Lý thuyết.md"
               }
             }
           },
@@ -202,10 +200,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "ecf03d5f6a6cfdc0",
+  "active": "d14212b206f4de57",
   "lastOpenFiles": [
+    "HUST/2022.2/Calculus/Bài tập.md",
+    "HUST/2022.2/Calculus/Lý thuyết.md",
     "HUST/2022.2/Statistics and Probability/Chương IV.md",
-    "HUST/2022.2/Calculus/Calculus III.md",
     "HUST/2022.2/Scientific Computational/PDF/Chương-1-Matlab.pdf",
     "HUST/2022.2/Scientific Computational/PDF/Chương-2-Giải-Hệ-Phương-Trình-Tuyến-Tính.pdf",
     "HUST/2022.2/Computer Architecture/Chapter 1 - Introduction.md",
@@ -243,7 +242,6 @@
     "AI/Linear regression.md",
     "HUST/2022.2/Database/Chương II.md",
     "HUST/2022.2/Database/Chương III.md",
-    "Self/27-7-2023.md",
     "Image Bank/Pasted image 20230726221052.png",
     "Image Bank/Pasted image 20230726220609.png",
     "Image Bank/ReLU.png",
