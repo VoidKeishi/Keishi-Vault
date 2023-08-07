@@ -4,25 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "dcefb32b18d69f1a",
-        "type": "tabs",
-        "dimension": 50,
-        "children": [
-          {
-            "id": "85a0fec196704bd9",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            },
-            "group": "bdb1e7f5618940b7"
-          }
-        ]
-      },
-      {
         "id": "1b4e273df2c5d4f1",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
             "id": "b1c77d30678a5e46",
@@ -30,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "HUST/2022.2/Calculus/Chuỗi.md",
+                "file": "HUST/2022.2/Calculus/Phương trình vi phân.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -57,8 +40,7 @@
                   "close": true
                 }
               }
-            },
-            "group": "bdb1e7f5618940b7"
+            }
           },
           {
             "id": "92e1bdf2bc856348",
@@ -72,8 +54,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6680c19c5c775aca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HUST/2022.2/Calculus/Phương trình vi phân.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -177,6 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "HUST/2022.2/Calculus/Phương trình vi phân.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,6 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "HUST/2022.2/Calculus/Phương trình vi phân.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +201,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "HUST/2022.2/Calculus/Phương trình vi phân.md"
+              }
             }
           },
           {
@@ -234,13 +234,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "85a0fec196704bd9",
+  "active": "6680c19c5c775aca",
   "lastOpenFiles": [
+    "HUST/2022.2/Calculus/Laplace.md",
+    "HUST/2022.2/Calculus/Phương trình vi phân.md",
     "HUST/2022.2/Calculus/Chuỗi.md",
     "HUST/2022.2/Calculus/Chuỗi dương.md",
     "HUST/2022.2/Calculus/Bài tập.md",
-    "HUST/2022.2/Calculus/Phương trình vi phân.md",
-    "HUST/2022.2/Calculus/Laplace.md",
     "HUST/2022.2/Calculus/Chuỗi lũy thừa.md",
     "HUST/2022.2/Calculus/Chuỗi hàm.md",
     "HUST/2022.2/Calculus/Chuỗi Maclaurin.md",
