@@ -47,12 +47,24 @@
 - $u=\int{P(x,y)dx+C(y)}$
 - $u'_y=Q\rightarrow C(y)=?$
 # Phương trình vi phân cấp II
+- $f(x,y,y',y'')=0$
 ## Phương trình khuyết
-### Khuyết y
 ### Khuyết x
+- $f(y,y',y'')=0$
+- Đặt $y'=u\rightarrow y''=\frac{du}{dy}u$
+### Khuyết y
+- $f(x,y',y'')=0$
+- Đặt $y'=u\rightarrow f(x,u,u')=0$
+- Giải ra $u\rightarrow y' \rightarrow y$ 
 ## Phương trình tuyến tính cấp II
 ### Thuần nhất
+- $y''+p(x)y'+q(x)y=0$
 ### Không thuần nhất
+- $y''+p(x)y'+q(x)y=f(x)$
 ### Hệ số hằng
+- $y''+ay'+by=f(x)$
 ### Phương trình Euler
 # Hệ phương trình vi phân
+## Hệ PTVP tuyến tính
+- Đưa về PTVP cấp 2
+## Hệ PTVP phi tuyến
