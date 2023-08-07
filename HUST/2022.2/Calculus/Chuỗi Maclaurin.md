@@ -1,0 +1,7 @@
+- $e^x=\sum\limits_{n=0}^{+\infty}\frac{x^n}{n!}$, $x\in{R}$
+- $sin(x)=\sum\limits_{n=0}^{+\infty}\frac{(-1)^n.x^{2n+1}}{(2n+1)!}$, $x\in{R}$
+- $cos(x)=\sum\limits_{n=0}^{+\infty}\frac{(-1)^n.x^{2n}}{(2n)!}$, $x\in{R}$
+- $ln(1+x)=\sum\limits_{n=1}^{+\infty}\frac{x^n.(-1)^{n-1}}{n}$, $x\in(-1;1)$
+- $(1+x)^\alpha=1+\alpha.x+\frac{\alpha.(\alpha-1)}{2!}.x^2+...+\frac{\alpha.(\alpha-1)...(\alpha-n+1)}{n!}.x^n$
+- $\frac{1}{1-x}=\sum\limits_{n=0}^{+\infty}x^n$, $\frac{1}{1+x}=\sum\limits_{n=0}^{+\infty}(-1)^n.x^n$
+- Suy ra arcsin,arccos,arctan

@@ -1,8 +1,8 @@
 {
   "splitDirection": "vertical",
   "nodeMinHeight": 16,
-  "lineHeight": "1em",
-  "spacingVertical": 5,
-  "spacingHorizontal": 40,
-  "paddingX": 20
+  "lineHeight": "2em",
+  "spacingVertical": 10,
+  "spacingHorizontal": 20,
+  "paddingX": 8
 }

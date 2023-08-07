@@ -1,3 +1,3 @@
-# Chuỗi
-# Phương trình vi phân
-# Laplace
+# [[Chuỗi]]
+# [[Phương trình vi phân]]
+# [[Laplace]]

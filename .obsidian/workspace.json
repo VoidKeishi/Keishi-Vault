@@ -4,37 +4,76 @@
     "type": "split",
     "children": [
       {
-        "id": "86b3f0d182c5bea9",
+        "id": "dcefb32b18d69f1a",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
-            "id": "ecf03d5f6a6cfdc0",
+            "id": "85a0fec196704bd9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "graph",
+              "state": {}
+            },
+            "group": "bdb1e7f5618940b7"
+          }
+        ]
+      },
+      {
+        "id": "1b4e273df2c5d4f1",
+        "type": "tabs",
+        "dimension": 50,
+        "children": [
+          {
+            "id": "b1c77d30678a5e46",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
               "state": {
-                "file": "HUST/2022.2/Calculus/Lý thuyết.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "HUST/2022.2/Calculus/Chuỗi.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
               }
-            }
+            },
+            "group": "bdb1e7f5618940b7"
           },
           {
-            "id": "d14212b206f4de57",
+            "id": "92e1bdf2bc856348",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HUST/2022.2/Calculus/Lý thuyết.md",
+                "file": "HUST/2022.2/Calculus/Phương trình vi phân.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,8 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "aa7dde9fcd69895c",
@@ -139,7 +177,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HUST/2022.2/Calculus/Lý thuyết.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +193,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HUST/2022.2/Calculus/Lý thuyết.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,9 +203,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "HUST/2022.2/Calculus/Lý thuyết.md"
-              }
+              "state": {}
             }
           },
           {
@@ -200,10 +234,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "d14212b206f4de57",
+  "active": "85a0fec196704bd9",
   "lastOpenFiles": [
+    "HUST/2022.2/Calculus/Chuỗi.md",
+    "HUST/2022.2/Calculus/Chuỗi dương.md",
     "HUST/2022.2/Calculus/Bài tập.md",
-    "HUST/2022.2/Calculus/Lý thuyết.md",
+    "HUST/2022.2/Calculus/Phương trình vi phân.md",
+    "HUST/2022.2/Calculus/Laplace.md",
+    "HUST/2022.2/Calculus/Chuỗi lũy thừa.md",
+    "HUST/2022.2/Calculus/Chuỗi hàm.md",
+    "HUST/2022.2/Calculus/Chuỗi Maclaurin.md",
+    "HUST/2022.2/Calculus/Chuỗi Fourier.md",
+    "HUST/2022.2/Calculus/Chuỗi có dấu bất kỳ.md",
     "HUST/2022.2/Statistics and Probability/Chương IV.md",
     "HUST/2022.2/Scientific Computational/PDF/Chương-1-Matlab.pdf",
     "HUST/2022.2/Scientific Computational/PDF/Chương-2-Giải-Hệ-Phương-Trình-Tuyến-Tính.pdf",
@@ -233,15 +275,7 @@
     "HUST/2022.2/Statistics and Probability/Chương V.md",
     "AI/Logistic regression.md",
     "AI/ReLU.md",
-    "Tools/Git.md",
-    "PLĐC.md",
     "Image Bank/Pasted image 20230730200041.png",
-    "AI/Residual Block.md",
-    "HUST/2022.2/Statistics and Probability/Xác suất thống kê.md",
-    "Markdown syntax.md",
-    "AI/Linear regression.md",
-    "HUST/2022.2/Database/Chương II.md",
-    "HUST/2022.2/Database/Chương III.md",
     "Image Bank/Pasted image 20230726221052.png",
     "Image Bank/Pasted image 20230726220609.png",
     "Image Bank/ReLU.png",

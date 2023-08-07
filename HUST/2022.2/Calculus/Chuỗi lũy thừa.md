@@ -1,0 +1,8 @@
+- Dạng $\sum\limits_{n=0}^{+\infty}a_n.x^n$, $a_n\in{R}$ 
+- Định lý Abel: $\sum\limits_{n=0}^{+\infty}a_n.x^n$ hội tụ tại $x_0$ thì hội tụ tuyệt đối tại mọi $|x|<|x_0|$
+- Bán kính hội tụ: $R=\lim\limits_{n\rightarrow+\infty}|\frac{a_n}{a_{n+1}}|$ hoặc $R=\lim\limits_{n\rightarrow+\infty}\frac{1}{\sqrt[n]{|a_n|}}$
+- Tìm miền hội tụ:
+	- Tìm bán kính hội tụ $R$
+	- Xét $R,-R$ để biết lấy đầu mút không
+	- Kết luận
+- Tính chất: Chuỗi lũy thừa hội tụ đều trên mọi khoảng con $[a,b]$ của miền hội tụ
