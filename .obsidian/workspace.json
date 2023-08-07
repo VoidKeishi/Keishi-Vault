@@ -8,41 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b1c77d30678a5e46",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "HUST/2022.2/Calculus/Bài tập.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": true
-                }
-              }
-            }
-          },
-          {
             "id": "92e1bdf2bc856348",
             "type": "leaf",
             "state": {
@@ -61,15 +26,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HUST/2022.2/Calculus/Bài tập.md",
+                "file": "HUST/2022.2/Calculus/Chuỗi có dấu bất kỳ.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -173,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HUST/2022.2/Calculus/Bài tập.md",
+                "file": "HUST/2022.2/Calculus/Phương trình vi phân.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HUST/2022.2/Calculus/Bài tập.md",
+                "file": "HUST/2022.2/Calculus/Phương trình vi phân.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HUST/2022.2/Calculus/Bài tập.md"
+                "file": "HUST/2022.2/Calculus/Phương trình vi phân.md"
               }
             }
           },
@@ -234,18 +198,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "6680c19c5c775aca",
+  "active": "92e1bdf2bc856348",
   "lastOpenFiles": [
     "HUST/2022.2/Calculus/Laplace.md",
+    "HUST/2022.2/Calculus/Chuỗi Maclaurin.md",
+    "HUST/2022.2/Calculus/Chuỗi lũy thừa.md",
+    "HUST/2022.2/Calculus/Chuỗi hàm.md",
+    "HUST/2022.2/Calculus/Chuỗi Fourier.md",
     "HUST/2022.2/Calculus/Phương trình vi phân.md",
     "HUST/2022.2/Calculus/Chuỗi.md",
     "HUST/2022.2/Calculus/Chuỗi dương.md",
-    "HUST/2022.2/Calculus/Bài tập.md",
-    "HUST/2022.2/Calculus/Chuỗi lũy thừa.md",
-    "HUST/2022.2/Calculus/Chuỗi hàm.md",
-    "HUST/2022.2/Calculus/Chuỗi Maclaurin.md",
-    "HUST/2022.2/Calculus/Chuỗi Fourier.md",
     "HUST/2022.2/Calculus/Chuỗi có dấu bất kỳ.md",
+    "HUST/2022.2/Calculus/Bài tập.md",
     "HUST/2022.2/Statistics and Probability/Chương IV.md",
     "HUST/2022.2/Scientific Computational/PDF/Chương-1-Matlab.pdf",
     "HUST/2022.2/Scientific Computational/PDF/Chương-2-Giải-Hệ-Phương-Trình-Tuyến-Tính.pdf",
