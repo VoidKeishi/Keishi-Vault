@@ -11,8 +11,13 @@
             "id": "fddb27ec852008cc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "HUST/2022.2/Computer Architecture/Chapter 1 - Introduction.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -92,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "aa7dde9fcd69895c",
@@ -119,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HUST/2022.2/Scientific Computational/Table of content.md",
+                "file": "HUST/2022.2/Computer Architecture/Chapter 1 - Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HUST/2022.2/Scientific Computational/Table of content.md",
+                "file": "HUST/2022.2/Computer Architecture/Chapter 1 - Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HUST/2022.2/Scientific Computational/Table of content.md"
+                "file": "HUST/2022.2/Computer Architecture/Chapter 1 - Introduction.md"
               }
             }
           },
@@ -180,8 +186,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "25d6b588740dd61f",
+  "active": "fddb27ec852008cc",
   "lastOpenFiles": [
+    "HUST/2022.2/Computer Architecture/Chapter 2 - Computer system.md",
+    "HUST/2022.2/Computer Architecture/Chapter 1 - Introduction.md",
     "Excalidraw/HandNote2023-08-08 08.24.08.excalidraw.md",
     "HUST/2022.2/Scientific Computational/Table of content.md",
     "Excalidraw/HandNote2023-08-08 00.33.51.excalidraw.md",
@@ -207,7 +215,6 @@
     "HUST/2022.2/Calculus/Chuỗi có dấu bất kỳ.md",
     "HUST/2022.2/Calculus/Bài tập.md",
     "HUST/2022.2/Statistics and Probability/Chương IV.md",
-    "HUST/2022.2/Computer Architecture/Chapter 1 - Introduction.md",
     "AI/Machine learning.md",
     "HUST/2022.2/Computer Architecture/Computer Architecture.md",
     "AI/Math/Algebra.md",
@@ -220,7 +227,6 @@
     "HUST/2022.2/PLĐC/359694512_692474162891800_9000393547690750778_n.jpg",
     "HUST/2022.2/PLĐC/358337315_811112283977080_3116992063927894030_n.jpg",
     "HUST/2022.2/PLĐC/358340284_240689552248770_7651400399360612553_n.jpg",
-    "Excalidraw/HandNote2023-07-26 17.58.55.excalidraw.md",
     "Image Bank/Pasted image 20230730200041.png",
     "Image Bank/Pasted image 20230726221052.png",
     "Image Bank/Pasted image 20230726220609.png",
