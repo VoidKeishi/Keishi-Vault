@@ -4,49 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "25bc361f66861642",
+        "id": "ddc94fce177d7bae",
         "type": "tabs",
-        "dimension": 51.27345844504021,
         "children": [
           {
-            "id": "ea5de221f6d3a29b",
+            "id": "fddb27ec852008cc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HUST/2022.2/Scientific Computational/Table of content.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c4c36c7f07cd1335",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/HandNote2023-08-08 08.24.08.excalidraw.md"
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "1ede18e02b1d8f5b",
-        "type": "tabs",
-        "dimension": 48.72654155495979,
-        "children": [
-          {
-            "id": "e89ec03e405356eb",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "HUST/2022.2/Scientific Computational/PDF/Chương-8-Quy-Hoạch-Tuyến-Tính.pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -153,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/HandNote2023-08-08 08.24.08.excalidraw.md",
+                "file": "HUST/2022.2/Scientific Computational/Table of content.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/HandNote2023-08-08 08.24.08.excalidraw.md",
+                "file": "HUST/2022.2/Scientific Computational/Table of content.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/HandNote2023-08-08 08.24.08.excalidraw.md"
+                "file": "HUST/2022.2/Scientific Computational/Table of content.md"
               }
             }
           },
@@ -214,10 +180,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "c4c36c7f07cd1335",
+  "active": "25d6b588740dd61f",
   "lastOpenFiles": [
-    "HUST/2022.2/Scientific Computational/Table of content.md",
     "Excalidraw/HandNote2023-08-08 08.24.08.excalidraw.md",
+    "HUST/2022.2/Scientific Computational/Table of content.md",
     "Excalidraw/HandNote2023-08-08 00.33.51.excalidraw.md",
     "Excalidraw/HandNote2023-08-08 00.45.18.excalidraw.md",
     "HUST/2022.2/Scientific Computational/PDF/Chương-8-Quy-Hoạch-Tuyến-Tính.pdf",
