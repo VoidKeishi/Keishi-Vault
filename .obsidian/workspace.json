@@ -4,37 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "ddc94fce177d7bae",
+        "id": "f4f62dd585971dc2",
         "type": "tabs",
         "children": [
           {
-            "id": "fddb27ec852008cc",
+            "id": "c4a51416c9d58574",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HUST/2022.2/Computer Architecture/Chapter 1 - Introduction.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7290b03f8cbd1d50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kĩ năng mềm.md",
+                "file": "HUST/2022.2/Computer Architecture/Chapter 5 - Processor.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "0eddd7bd9fbaecf6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3de7750b401c93ea",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "HUST/2022.2/Computer Architecture/PDF/CH5 Bộ xử lý.pdf"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kĩ năng mềm.md",
+                "file": "HUST/2022.2/Computer Architecture/PDF/CH5 Bộ xử lý.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kĩ năng mềm.md",
+                "file": "HUST/2022.2/Computer Architecture/PDF/CH5 Bộ xử lý.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kĩ năng mềm.md"
+                "file": "HUST/2022.2/Computer Architecture/PDF/CH5 Bộ xử lý.pdf"
               }
             }
           },
@@ -199,24 +201,43 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "7290b03f8cbd1d50",
+  "active": "25d6b588740dd61f",
   "lastOpenFiles": [
-    "HUST/2022.2/Computer Architecture/Chapter 1 - Introduction.md",
-    "Kĩ năng mềm.md",
+    "HUST/2022.2/Computer Architecture/Chapter 5 - Processor.md",
+    "HUST/2022.2/Computer Architecture/PDF/CH5 Bộ xử lý.pdf",
+    "HUST/2022.2/Computer Architecture/PDF/CH6 Bộ nhớ máy tính.pdf",
+    "HUST/2022.2/Computer Architecture/PDF/CH7 Hệ thống vào-ra.pdf",
+    "HUST/2022.2/Computer Architecture/PDF/CH8 Các kiến trúc song song.pdf",
+    "HUST/2022.2/Computer Architecture/PDF/CH2 Hệ thống máy tính.pdf",
+    "HUST/2022.2/Computer Architecture/PDF/CH3 Kiến trúc tập lệnh.pdf",
+    "HUST/2022.2/Computer Architecture/PDF/CH4 Số học máy tính.pdf",
+    "HUST/2022.2/Computer Architecture/Test.md",
+    "HUST/2022.2/Computer Architecture/Chapter 6 - Memory.md",
     "HUST/2022.2/Computer Architecture/Chapter 2 - Computer system.md",
+    "HUST/2022.2/Computer Architecture/Chapter 3 - Instructions architecture.md",
+    "HUST/2022.2/Computer Architecture/Chapter 4 - Computer Arithmetic.md",
+    "Pasted image 20230810155003.png",
+    "HUST/2022.2/Computer Architecture/Chapter 1 - Introduction.md",
+    "Pasted image 20230810142845.png",
+    "Pasted image 20230810140140.png",
+    "Pasted image 20230810140129.png",
+    "Pasted image 20230810140117.png",
+    "Pasted image 20230810140103.png",
+    "Pasted image 20230810140023.png",
+    "Pasted image 20230810140007.png",
+    "Pasted image 20230810135952.png",
+    "Pasted image 20230810135933.png",
+    "HUST/2022.2/Computer Architecture/Chapter 8 - Parallel Architectures.md",
+    "HUST/2022.2/Computer Architecture/Chapter 7 - I-O system.md",
+    "HUST/2022.2/Computer Architecture/PDF/CH1 Giới thiệu chung.pdf",
+    "Kĩ năng mềm.md",
     "Excalidraw/HandNote2023-08-08 08.24.08.excalidraw.md",
     "HUST/2022.2/Scientific Computational/Table of content.md",
     "Excalidraw/HandNote2023-08-08 00.33.51.excalidraw.md",
     "Excalidraw/HandNote2023-08-08 00.45.18.excalidraw.md",
     "HUST/2022.2/Scientific Computational/PDF/Chương-8-Quy-Hoạch-Tuyến-Tính.pdf",
     "HUST/2022.2/Scientific Computational/PDF/Chương-7-Các-Phương-Pháp-Cực-Tiểu-Không-Ràng-Buộc.pdf",
-    "HUST/2022.2/Scientific Computational/PDF/Chương-6-Phương-Trình-Vi-Phân.pdf",
-    "HUST/2022.2/Scientific Computational/PDF/Chương-5-Tính-gần-đúng-Đạo-hàm-và-Tích-phân.pdf",
-    "HUST/2022.2/Scientific Computational/PDF/Chương-4-Giải-Phương-Trình-Phi-Tuyến.pdf",
-    "HUST/2022.2/Scientific Computational/PDF/Chương-3-Đường-Cong-Khớp.pdf",
-    "HUST/2022.2/Scientific Computational/PDF/Chương-2-Giải-Hệ-Phương-Trình-Tuyến-Tính.pdf",
     "HUST/2022.2/Scientific Computational/Chương 2.md",
-    "HUST/2022.2/Scientific Computational/PDF/Chương-1-Matlab.pdf",
     "HUST/2022.2/Scientific Computational/Chương 1.md",
     "HUST/2022.2/Calculus/Phương trình vi phân.md",
     "HUST/2022.2/Calculus/Laplace.md",
@@ -227,26 +248,6 @@
     "HUST/2022.2/Calculus/Chuỗi.md",
     "HUST/2022.2/Calculus/Chuỗi dương.md",
     "HUST/2022.2/Calculus/Chuỗi có dấu bất kỳ.md",
-    "HUST/2022.2/Calculus/Bài tập.md",
-    "HUST/2022.2/Statistics and Probability/Chương IV.md",
-    "AI/Machine learning.md",
-    "HUST/2022.2/Computer Architecture/Computer Architecture.md",
-    "AI/Math/Algebra.md",
-    "HUST/2022.2/Scientific Computational/PDF/Computational Mathematic.pdf",
-    "HUST/2022.2/Scientific Computational/PDF",
-    "AI/Deep learning.md",
-    "AI/Gradient descent.md",
-    "AI/Unet.md",
-    "HUST/2022.2/PLĐC/359694512_692474162891800_9000393547690750778_n.jpg",
-    "HUST/2022.2/PLĐC/358337315_811112283977080_3116992063927894030_n.jpg",
-    "HUST/2022.2/PLĐC/358340284_240689552248770_7651400399360612553_n.jpg",
-    "Image Bank/Pasted image 20230730200041.png",
-    "Image Bank/Pasted image 20230726221052.png",
-    "Image Bank/Pasted image 20230726220609.png",
-    "Image Bank/ReLU.png",
-    "Image Bank/Unet.webp",
-    "Image Bank/Pasted image 20230726221019.png",
-    "Image Bank/Pasted image 20230726220826.png",
     "Untitled.canvas"
   ]
 }
