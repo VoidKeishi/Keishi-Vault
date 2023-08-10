@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7290b03f8cbd1d50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kĩ năng mềm.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,8 +111,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "aa7dde9fcd69895c",
@@ -125,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HUST/2022.2/Computer Architecture/Chapter 1 - Introduction.md",
+                "file": "Kĩ năng mềm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HUST/2022.2/Computer Architecture/Chapter 1 - Introduction.md",
+                "file": "Kĩ năng mềm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HUST/2022.2/Computer Architecture/Chapter 1 - Introduction.md"
+                "file": "Kĩ năng mềm.md"
               }
             }
           },
@@ -186,10 +199,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "fddb27ec852008cc",
+  "active": "7290b03f8cbd1d50",
   "lastOpenFiles": [
-    "HUST/2022.2/Computer Architecture/Chapter 2 - Computer system.md",
     "HUST/2022.2/Computer Architecture/Chapter 1 - Introduction.md",
+    "Kĩ năng mềm.md",
+    "HUST/2022.2/Computer Architecture/Chapter 2 - Computer system.md",
     "Excalidraw/HandNote2023-08-08 08.24.08.excalidraw.md",
     "HUST/2022.2/Scientific Computational/Table of content.md",
     "Excalidraw/HandNote2023-08-08 00.33.51.excalidraw.md",
@@ -223,7 +237,6 @@
     "AI/Deep learning.md",
     "AI/Gradient descent.md",
     "AI/Unet.md",
-    "HUST/2022.2/PLĐC/Summary.md",
     "HUST/2022.2/PLĐC/359694512_692474162891800_9000393547690750778_n.jpg",
     "HUST/2022.2/PLĐC/358337315_811112283977080_3116992063927894030_n.jpg",
     "HUST/2022.2/PLĐC/358340284_240689552248770_7651400399360612553_n.jpg",
