@@ -4,25 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "f4f62dd585971dc2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c4a51416c9d58574",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HUST/2022.2/Computer Architecture/Chapter 5 - Processor.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "0eddd7bd9fbaecf6",
         "type": "tabs",
         "children": [
@@ -32,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "HUST/2022.2/Computer Architecture/PDF/CH5 Bộ xử lý.pdf"
+                "file": "HUST/2022.2/Computer Architecture/PDF/CH8 Các kiến trúc song song.pdf"
               }
             }
           }
@@ -140,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HUST/2022.2/Computer Architecture/PDF/CH5 Bộ xử lý.pdf",
+                "file": "HUST/2022.2/Computer Architecture/PDF/CH8 Các kiến trúc song song.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HUST/2022.2/Computer Architecture/PDF/CH5 Bộ xử lý.pdf",
+                "file": "HUST/2022.2/Computer Architecture/PDF/CH8 Các kiến trúc song song.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HUST/2022.2/Computer Architecture/PDF/CH5 Bộ xử lý.pdf"
+                "file": "HUST/2022.2/Computer Architecture/PDF/CH8 Các kiến trúc song song.pdf"
               }
             }
           },
@@ -201,12 +182,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "25d6b588740dd61f",
+  "active": "3de7750b401c93ea",
   "lastOpenFiles": [
-    "HUST/2022.2/Computer Architecture/Chapter 5 - Processor.md",
-    "HUST/2022.2/Computer Architecture/PDF/CH5 Bộ xử lý.pdf",
-    "HUST/2022.2/Computer Architecture/PDF/CH6 Bộ nhớ máy tính.pdf",
     "HUST/2022.2/Computer Architecture/PDF/CH7 Hệ thống vào-ra.pdf",
+    "HUST/2022.2/Computer Architecture/PDF/CH6 Bộ nhớ máy tính.pdf",
+    "HUST/2022.2/Computer Architecture/PDF/CH5 Bộ xử lý.pdf",
+    "HUST/2022.2/Computer Architecture/Chapter 5 - Processor.md",
     "HUST/2022.2/Computer Architecture/PDF/CH8 Các kiến trúc song song.pdf",
     "HUST/2022.2/Computer Architecture/PDF/CH2 Hệ thống máy tính.pdf",
     "HUST/2022.2/Computer Architecture/PDF/CH3 Kiến trúc tập lệnh.pdf",
