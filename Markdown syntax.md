@@ -5,5 +5,7 @@
 ##### Header 5
 ###### Header 6
 
-Math mode: [Writing Mathematic Fomulars in Markdown | csrgxtu](https://csrgxtu.github.io/2015/03/20/Writing-Mathematic-Fomulars-in-Markdown/)
+- Link: [text](url)
+
+- Math mode: [Writing Mathematic Fomulars in Markdown | csrgxtu](https://csrgxtu.github.io/2015/03/20/Writing-Mathematic-Fomulars-in-Markdown/)
 	- Go between $$
