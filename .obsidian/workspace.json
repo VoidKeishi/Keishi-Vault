@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Machine learning.md",
+                "file": "AI/Math/Algebra.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/Machine learning.md",
+                "file": "AI/Math/Algebra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/Machine learning.md",
+                "file": "AI/Math/Algebra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/Machine learning.md"
+                "file": "AI/Math/Algebra.md"
               }
             }
           },
@@ -227,8 +227,8 @@
   },
   "active": "d649b55729dace0d",
   "lastOpenFiles": [
-    "Numpy.md",
     "AI/Machine learning.md",
+    "Numpy.md",
     "AI/Math/Algebra.md",
     "AI/Math/Statistics&Probability.md",
     "AI/Math/Calculus.md",
