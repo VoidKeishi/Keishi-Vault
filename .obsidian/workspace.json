@@ -8,20 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "205833aa3c8aba1d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI/Index.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0f2266afc227e75a",
+            "id": "a721060965857f81",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,25 +21,12 @@
             }
           },
           {
-            "id": "a721060965857f81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI/Index.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d649b55729dace0d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Math/Algebra.md",
+                "file": "AI/Math/Statistics&Probability.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -60,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/Math/Algebra.md",
+                "file": "AI/Math/Statistics&Probability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/Math/Algebra.md",
+                "file": "AI/Math/Statistics&Probability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/Math/Algebra.md"
+                "file": "AI/Math/Statistics&Probability.md"
               }
             }
           },
@@ -227,13 +201,14 @@
   },
   "active": "d649b55729dace0d",
   "lastOpenFiles": [
+    "AI/Math/Calculus.md",
+    "AI/Index.md",
+    "AI/Math/Statistics&Probability.md",
+    "AI/Gradient descent.md",
+    "AI/Math/Algebra.md",
     "AI/Machine learning.md",
     "Numpy.md",
-    "AI/Math/Algebra.md",
-    "AI/Math/Statistics&Probability.md",
-    "AI/Math/Calculus.md",
     "AI/Deep learning.md",
-    "AI/Index.md",
     "Tutorial",
     "AI/Algorithm/Ensemble methods.md",
     "AI/Algorithm/Random Forests.md",
@@ -271,7 +246,6 @@
     "HUST/2022.2/Computer Architecture/Chapter 6 - Memory.md",
     "HUST/2022.2/Computer Architecture/Chapter 2 - Computer system.md",
     "HUST/2022.2/Computer Architecture/Chapter 3 - Instructions architecture.md",
-    "HUST/2022.2/Computer Architecture/Chapter 4 - Computer Arithmetic.md",
     "HUST/2022.2/Computer Architecture/PDF/CH1 Giới thiệu chung.pdf",
     "Untitled.canvas"
   ]

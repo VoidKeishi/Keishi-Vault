@@ -1,15 +1,55 @@
-# Vectors
-- Sum
-- Difference
-- Distance
-- Multiplying by a scalar
-- Dot product
-# Matrix
-## Singular vs Nonsingular
-## Linear Dependence & Independence
-## Determinant
-## Rank
-## Forms
-### Row echelon form
-#### Reduced row echelon form
-# Linear transformation
+# Terms
+- Singular and Nonsingular matrix: Ma trận suy biến và không suy biến
+- Determinant: Định thức
+- Linear dependence & independence: Phụ thuộc tuyến tính & Độc lập tuyến tính
+- Coefficients: Hệ số/ trọng số
+- Scalar: Đại lượng vô hướng (Một số)
+- Row echelon form: Ma trận bậc thang (Dạng hàng)
+- Norm of a vector: Độ dài vector
+- Dot product: Tích vô hướng
+- Linear transformation: Ánh xạ tuyến tính
+- Identity matrix: Ma trận đơn vị
+- Matrix inverse: Nghịch đảo của ma trận
+- Principal Component Analysis: Phép phân tích thành phần chính
+- Basis: Cơ sở
+- Eigen_
+	- Eigenbasis: Cơ sở riêng
+	- Eigenvalue: Trị riêng
+	- Eigenvector: Vector riêng
+- Null space of a matrix: Không gian con không
+- Orthogonal: Trực giao
+# Week 1
+- Example of systems of sentences
+- Systems of equation
+- Linear dependence & independence
+- Singular and non-singular matrices
+- Determinants and singularity
+# Week 2
+- Solving system of equations
+- System of equations to Matrix
+- Row operations that preserve singularity
+	- Switching rows
+	- Multiplying rows by a scalar
+	- Adding row to another row
+- Rank of Matrix
+	- Compressing image = Reducing rank of image matrix
+	- Rank and singularity
+- Row echelon form
+	- Reduced form
+# Week 3
+- Vector
+	- Norm
+	- Direction
+	- Sum, difference
+	- Distance
+	- Multiplying by a scalar
+	- Dot product
+- Linear transformations
+- Multiplying matrices
+# Week 4
+- Singular and non-singular transformations
+- Rank of linear transformation
+- Determinant as an area
+- Bases
+- Span
+- Eigenvalues & Eigenvectors
