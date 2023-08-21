@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Math/Statistics&Probability.md",
+                "file": "AI/Unet.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/Math/Statistics&Probability.md",
+                "file": "AI/Math/Calculus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/Math/Statistics&Probability.md",
+                "file": "AI/Math/Calculus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/Math/Statistics&Probability.md"
+                "file": "AI/Math/Calculus.md"
               }
             }
           },
@@ -199,15 +199,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "d649b55729dace0d",
+  "active": "25d6b588740dd61f",
   "lastOpenFiles": [
-    "AI/Math/Calculus.md",
+    "Tutorial/Git.md",
+    "Numpy.md",
     "AI/Math/Statistics&Probability.md",
+    "AI/Math/Calculus.md",
     "AI/Math/Algebra.md",
     "AI/Index.md",
     "AI/Gradient descent.md",
     "AI/Machine learning.md",
-    "Numpy.md",
     "AI/Deep learning.md",
     "Tutorial",
     "AI/Algorithm/Ensemble methods.md",
@@ -245,7 +246,6 @@
     "HUST/2022.2/Computer Architecture/Test.md",
     "HUST/2022.2/Computer Architecture/Chapter 6 - Memory.md",
     "HUST/2022.2/Computer Architecture/Chapter 2 - Computer system.md",
-    "HUST/2022.2/Computer Architecture/Chapter 3 - Instructions architecture.md",
     "HUST/2022.2/Computer Architecture/PDF/CH1 Giới thiệu chung.pdf",
     "Untitled.canvas"
   ]
