@@ -36,7 +36,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ubuntu rice.md",
+                "file": "AI/Libraries/Numpy.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "07689e6d1142d19b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HUST/2023.1/OOP.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -44,7 +57,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -148,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ubuntu rice.md",
+                "file": "HUST/2023.1/OOP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ubuntu rice.md",
+                "file": "HUST/2023.1/OOP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ubuntu rice.md"
+                "file": "HUST/2023.1/OOP.md"
               }
             }
           },
@@ -209,10 +222,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b995ce62852e9852",
+  "active": "07689e6d1142d19b",
   "lastOpenFiles": [
+    "HUST/2023.1/OOP.md",
+    "HUST/2023.1",
+    "AI/Libraries",
+    "AI/Libraries/Numpy.md",
+    "Linux",
+    "Linux/Ubuntu rice.md",
     "AI/Math/Algebra.md",
-    "Ubuntu rice.md",
     "AI/Math/Calculus.md",
     "Web Development/Backend.md",
     "HUST/2022.2/Computer Architecture/Test.md",
@@ -221,7 +239,6 @@
     "HUST/2022.2/Computer Architecture/PDF/CH4 Số học máy tính.pdf",
     "HUST/2022.2/Computer Architecture/PDF/CH3 Kiến trúc tập lệnh.pdf",
     "Tutorial/Git.md",
-    "Numpy.md",
     "AI/Math/Statistics&Probability.md",
     "AI/Index.md",
     "AI/Gradient descent.md",
@@ -240,7 +257,6 @@
     "AI/Algorithm/Linear&Polynomial Regression.md",
     "AI/Algorithm/Logistic regression.md",
     "AI/Linear regression.md",
-    "Tutorial/Installing Arch Linux.md",
     "Image Bank/Pasted image 20230810135237.png",
     "Image Bank/Pasted image 20230810155003.png",
     "Image Bank/Pasted image 20230810142845.png",
@@ -253,10 +269,6 @@
     "Image Bank/Pasted image 20230810135952.png",
     "HUST/2022.2/Computer Architecture/PDF/CH8 Các kiến trúc song song.pdf",
     "HUST/2022.2/Computer Architecture/PDF/CH7 Hệ thống vào-ra.pdf",
-    "HUST/2022.2/Computer Architecture/PDF/CH6 Bộ nhớ máy tính.pdf",
-    "HUST/2022.2/Computer Architecture/Chapter 5 - Processor.md",
-    "HUST/2022.2/Computer Architecture/PDF/CH2 Hệ thống máy tính.pdf",
-    "HUST/2022.2/Computer Architecture/PDF/CH1 Giới thiệu chung.pdf",
     "Untitled.canvas"
   ]
 }
