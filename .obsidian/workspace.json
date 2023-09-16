@@ -11,12 +11,9 @@
             "id": "a721060965857f81",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "AI/Math/Calculus.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "HUST/2022.2/Computer Architecture/PDF/CH5 Bộ xử lý.pdf"
               }
             }
           },
@@ -26,7 +23,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tutorial/Markdown syntax.md",
+                "file": "AI/Math/Algebra.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b995ce62852e9852",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ubuntu rice.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -138,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/Math/Calculus.md",
+                "file": "Ubuntu rice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/Math/Calculus.md",
+                "file": "Ubuntu rice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/Math/Calculus.md"
+                "file": "Ubuntu rice.md"
               }
             }
           },
@@ -196,16 +206,23 @@
       "command-palette:Open command palette": false,
       "templates:Insert template": true,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": true
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "25d6b588740dd61f",
+  "active": "b995ce62852e9852",
   "lastOpenFiles": [
+    "AI/Math/Algebra.md",
+    "Ubuntu rice.md",
     "AI/Math/Calculus.md",
+    "Web Development/Backend.md",
+    "HUST/2022.2/Computer Architecture/Test.md",
+    "Tutorial/Markdown syntax.md",
+    "HUST/2022.2/Computer Architecture/PDF/CH5 Bộ xử lý.pdf",
+    "HUST/2022.2/Computer Architecture/PDF/CH4 Số học máy tính.pdf",
+    "HUST/2022.2/Computer Architecture/PDF/CH3 Kiến trúc tập lệnh.pdf",
     "Tutorial/Git.md",
     "Numpy.md",
     "AI/Math/Statistics&Probability.md",
-    "AI/Math/Algebra.md",
     "AI/Index.md",
     "AI/Gradient descent.md",
     "AI/Machine learning.md",
@@ -224,7 +241,6 @@
     "AI/Algorithm/Logistic regression.md",
     "AI/Linear regression.md",
     "Tutorial/Installing Arch Linux.md",
-    "Tutorial/Markdown syntax.md",
     "Image Bank/Pasted image 20230810135237.png",
     "Image Bank/Pasted image 20230810155003.png",
     "Image Bank/Pasted image 20230810142845.png",
@@ -238,14 +254,8 @@
     "HUST/2022.2/Computer Architecture/PDF/CH8 Các kiến trúc song song.pdf",
     "HUST/2022.2/Computer Architecture/PDF/CH7 Hệ thống vào-ra.pdf",
     "HUST/2022.2/Computer Architecture/PDF/CH6 Bộ nhớ máy tính.pdf",
-    "HUST/2022.2/Computer Architecture/PDF/CH5 Bộ xử lý.pdf",
     "HUST/2022.2/Computer Architecture/Chapter 5 - Processor.md",
     "HUST/2022.2/Computer Architecture/PDF/CH2 Hệ thống máy tính.pdf",
-    "HUST/2022.2/Computer Architecture/PDF/CH3 Kiến trúc tập lệnh.pdf",
-    "HUST/2022.2/Computer Architecture/PDF/CH4 Số học máy tính.pdf",
-    "HUST/2022.2/Computer Architecture/Test.md",
-    "HUST/2022.2/Computer Architecture/Chapter 6 - Memory.md",
-    "HUST/2022.2/Computer Architecture/Chapter 2 - Computer system.md",
     "HUST/2022.2/Computer Architecture/PDF/CH1 Giới thiệu chung.pdf",
     "Untitled.canvas"
   ]
