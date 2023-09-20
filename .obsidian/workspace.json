@@ -55,9 +55,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2faa17457e3dbf19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HUST/2023.1/LSĐ/Chương I 1930-1945.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -161,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Ubuntu rice.md",
+                "file": "HUST/2022.2/Computer Architecture/PDF/CH5 Bộ xử lý.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Ubuntu rice.md",
+                "file": "HUST/2022.2/Computer Architecture/PDF/CH5 Bộ xử lý.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Ubuntu rice.md"
+                "file": "HUST/2022.2/Computer Architecture/PDF/CH5 Bộ xử lý.pdf"
               }
             }
           },
@@ -222,14 +235,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "07689e6d1142d19b",
+  "active": "25d6b588740dd61f",
   "lastOpenFiles": [
+    "HUST/2023.1/OOP",
     "HUST/2023.1/OOP.md",
+    "HUST/2023.1/LSĐ/Chương I 1930-1945.md",
+    "Linux/Ubuntu rice.md",
+    "HUST/2023.1/LSĐ",
     "HUST/2023.1",
     "AI/Libraries",
     "AI/Libraries/Numpy.md",
     "Linux",
-    "Linux/Ubuntu rice.md",
     "AI/Math/Algebra.md",
     "AI/Math/Calculus.md",
     "Web Development/Backend.md",
@@ -256,7 +272,6 @@
     "AI/Algorithm",
     "AI/Algorithm/Linear&Polynomial Regression.md",
     "AI/Algorithm/Logistic regression.md",
-    "AI/Linear regression.md",
     "Image Bank/Pasted image 20230810135237.png",
     "Image Bank/Pasted image 20230810155003.png",
     "Image Bank/Pasted image 20230810142845.png",
@@ -268,7 +283,6 @@
     "Image Bank/Pasted image 20230810140007.png",
     "Image Bank/Pasted image 20230810135952.png",
     "HUST/2022.2/Computer Architecture/PDF/CH8 Các kiến trúc song song.pdf",
-    "HUST/2022.2/Computer Architecture/PDF/CH7 Hệ thống vào-ra.pdf",
     "Untitled.canvas"
   ]
 }
