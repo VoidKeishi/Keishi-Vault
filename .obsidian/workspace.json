@@ -8,69 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a721060965857f81",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "HUST/2022.2/Computer Architecture/PDF/CH5 Bộ xử lý.pdf"
-              }
-            }
-          },
-          {
-            "id": "d649b55729dace0d",
+            "id": "03cdc33b7c2033fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Math/Algebra.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b995ce62852e9852",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI/Libraries/Numpy.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "07689e6d1142d19b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/Ubuntu rice.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2faa17457e3dbf19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HUST/2023.1/LSĐ/Chương I 1930-1945.md",
+                "file": "HUST/2023.1/OS/Tổng quan về hệ điều hành.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -174,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HUST/2022.2/Computer Architecture/PDF/CH5 Bộ xử lý.pdf",
+                "file": "HUST/2023.1/OS/Tổng quan về hệ điều hành.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HUST/2022.2/Computer Architecture/PDF/CH5 Bộ xử lý.pdf",
+                "file": "HUST/2023.1/OS/Tổng quan về hệ điều hành.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HUST/2022.2/Computer Architecture/PDF/CH5 Bộ xử lý.pdf"
+                "file": "HUST/2023.1/OS/Tổng quan về hệ điều hành.md"
               }
             }
           },
@@ -235,8 +185,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "25d6b588740dd61f",
+  "active": "03cdc33b7c2033fb",
   "lastOpenFiles": [
+    "HUST/2023.1/OS/Quản lý tiến trình.md",
+    "HUST/2023.1/OS/Quản lý vào ra.md",
+    "HUST/2023.1/OS/Quản lý hệ thống file.md",
+    "HUST/2023.1/OS/Quản lý bộ nhớ.md",
+    "HUST/2023.1/OS/Tổng quan về hệ điều hành.md",
+    "HUST/2022.2/Computer Architecture/PDF/CH5 Bộ xử lý.pdf",
+    "HUST/2023.1/OS",
     "HUST/2023.1/OOP",
     "HUST/2023.1/OOP.md",
     "HUST/2023.1/LSĐ/Chương I 1930-1945.md",
@@ -251,7 +208,6 @@
     "Web Development/Backend.md",
     "HUST/2022.2/Computer Architecture/Test.md",
     "Tutorial/Markdown syntax.md",
-    "HUST/2022.2/Computer Architecture/PDF/CH5 Bộ xử lý.pdf",
     "HUST/2022.2/Computer Architecture/PDF/CH4 Số học máy tính.pdf",
     "HUST/2022.2/Computer Architecture/PDF/CH3 Kiến trúc tập lệnh.pdf",
     "Tutorial/Git.md",
@@ -267,11 +223,6 @@
     "AI/Algorithm/Support Vector Machines.md",
     "AI/ReLU.md",
     "AI/Unet.md",
-    "AI/Residual Block.md",
-    "AI/Algorithm/k-Nearest Neighbors.md",
-    "AI/Algorithm",
-    "AI/Algorithm/Linear&Polynomial Regression.md",
-    "AI/Algorithm/Logistic regression.md",
     "Image Bank/Pasted image 20230810135237.png",
     "Image Bank/Pasted image 20230810155003.png",
     "Image Bank/Pasted image 20230810142845.png",
@@ -282,7 +233,6 @@
     "Image Bank/Pasted image 20230810140023.png",
     "Image Bank/Pasted image 20230810140007.png",
     "Image Bank/Pasted image 20230810135952.png",
-    "HUST/2022.2/Computer Architecture/PDF/CH8 Các kiến trúc song song.pdf",
     "Untitled.canvas"
   ]
 }
