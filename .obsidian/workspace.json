@@ -52,7 +52,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HUST/2023.1/Nhập môn kỹ thuật truyền thông/Lecture 1.md",
+                "file": "Nháp.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7ad0ed72880d37d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI/Machine learning.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -60,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -164,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HUST/2023.1/Nhập môn kỹ thuật truyền thông/Lecture 1.md",
+                "file": "AI/Machine learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HUST/2023.1/Nhập môn kỹ thuật truyền thông/Lecture 1.md",
+                "file": "AI/Machine learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HUST/2023.1/Nhập môn kỹ thuật truyền thông/Lecture 1.md"
+                "file": "AI/Machine learning.md"
               }
             }
           },
@@ -225,12 +238,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "79169bfcdfe927d2",
+  "active": "7ad0ed72880d37d4",
   "lastOpenFiles": [
-    "HUST/2023.1/Nhập môn kỹ thuật truyền thông/Giới thiệu.md",
-    "HUST/2023.1/Nhập môn kỹ thuật truyền thông/Lecture 1.md",
-    "HUST/2023.1/Nhập môn kỹ thuật truyền thông",
+    "Hands-On ML.md",
     "Nháp.md",
+    "HUST/2023.1/Nhập môn kỹ thuật truyền thông/Lecture 1.md",
+    "HUST/2023.1/Nhập môn kỹ thuật truyền thông/Giới thiệu.md",
+    "HUST/2023.1/Nhập môn kỹ thuật truyền thông",
     "HUST/2023.1/OS/Tổng quan về hệ điều hành.md",
     "HUST/2023.1/OS/Quản lý tiến trình.md",
     "HUST/2023.1/OS/Quản lý vào ra.md",
@@ -262,7 +276,6 @@
     "AI/Deep learning.md",
     "AI/Algorithm/Ensemble methods.md",
     "AI/Algorithm/Random Forests.md",
-    "AI/Algorithm/Decision Trees.md",
     "Image Bank/Pasted image 20230810135237.png",
     "Image Bank/Pasted image 20230810155003.png",
     "Image Bank/Pasted image 20230810142845.png",
