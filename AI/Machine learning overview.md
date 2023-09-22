@@ -1,0 +1,8 @@
+- Definition
+	- "Machine learning is the field of study that gives computers the ability to learn without being explicitly programmed." - Arthur Samuel, 1959
+ - Benefits
+	- Thay thế cho list quy tắc, thuật toán, đơn giản hóa code và perform tốt hơn
+	- Giải được vấn đề phức tạp mà thuật toán thông thường không giải được
+	- Thích ứng được với data mới
+	- Hiểu sâu vấn đề và lượng data lớn
+- [[Types of algorithm in ML]]

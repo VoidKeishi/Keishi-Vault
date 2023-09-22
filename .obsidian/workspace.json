@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Machine learning.md",
+                "file": "AI/Types of algorithm in ML.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/Machine learning.md",
+                "file": "AI/Types of algorithm in ML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/Machine learning.md",
+                "file": "AI/Types of algorithm in ML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/Machine learning.md"
+                "file": "AI/Types of algorithm in ML.md"
               }
             }
           },
@@ -240,6 +240,9 @@
   },
   "active": "7ad0ed72880d37d4",
   "lastOpenFiles": [
+    "AI/Machine learning overview.md",
+    "AI/Types of algorithm in ML.md",
+    "[Types of algorithm in ML.md",
     "Hands-On ML.md",
     "Nháp.md",
     "HUST/2023.1/Nhập môn kỹ thuật truyền thông/Lecture 1.md",
@@ -270,12 +273,9 @@
     "HUST/2022.2/Computer Architecture/PDF/CH3 Kiến trúc tập lệnh.pdf",
     "Tutorial/Git.md",
     "AI/Math/Statistics&Probability.md",
-    "AI/Index.md",
     "AI/Gradient descent.md",
-    "AI/Machine learning.md",
     "AI/Deep learning.md",
     "AI/Algorithm/Ensemble methods.md",
-    "AI/Algorithm/Random Forests.md",
     "Image Bank/Pasted image 20230810135237.png",
     "Image Bank/Pasted image 20230810155003.png",
     "Image Bank/Pasted image 20230810142845.png",
