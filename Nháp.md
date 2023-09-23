@@ -1,5 +1,0 @@
-- Test checkpoint mới nhất vs giọng Toàn và Quỳnh
-	- Giọng Quỳnh tốt rồi nhưng hơi rung
-	- Giọng Toàn khó chuyển nam sang nữ
-- Thêm tokenizer vào VITS vẫn lỗi: sigabrt
-- VITS train các checkpoint sau thì nghe k tốt bằng
