@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Ubuntu rice.md",
+                "file": "Nháp.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Ubuntu rice.md",
+                "file": "Nháp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Ubuntu rice.md",
+                "file": "Nháp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Ubuntu rice.md"
+                "file": "Nháp.md"
               }
             }
           },
@@ -240,8 +240,8 @@
   },
   "active": "7ad0ed72880d37d4",
   "lastOpenFiles": [
-    "Nháp.md",
     "Linux/Ubuntu rice.md",
+    "Nháp.md",
     "AI/Types of algorithm in ML.md",
     "AI/Machine learning overview.md",
     "[Types of algorithm in ML.md",
