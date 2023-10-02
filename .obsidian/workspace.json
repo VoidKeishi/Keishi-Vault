@@ -86,14 +86,30 @@
             "id": "2632011ddbc9350c",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.14"
+                "file": "HUST/2023.1/LSĐ/Chương I 1930-1945.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b388706bdf7b6181",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HUST/2023.1/LSĐ/Chương I 1930-1945.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -197,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/HandNote2023-09-30 16.14.21.excalidraw.md",
+                "file": "HUST/2023.1/LSĐ/Chương I 1930-1945.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +230,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/HandNote2023-09-30 16.14.21.excalidraw.md",
+                "file": "HUST/2023.1/LSĐ/Chương I 1930-1945.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/HandNote2023-09-30 16.14.21.excalidraw.md"
+                "file": "HUST/2023.1/LSĐ/Chương I 1930-1945.md"
               }
             }
           },
@@ -258,8 +274,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2632011ddbc9350c",
+  "active": "b388706bdf7b6181",
   "lastOpenFiles": [
+    "Untitled.md",
+    "HUST/2023.1/LSĐ/Chương I 1930-1945.md",
     "Nháp.md",
     "Excalidraw/HandNote2023-09-30 16.14.21.excalidraw.md",
     "Excalidraw",
@@ -280,7 +298,6 @@
     "HUST/2023.1/OS",
     "HUST/2023.1/OOP",
     "HUST/2023.1/OOP.md",
-    "HUST/2023.1/LSĐ/Chương I 1930-1945.md",
     "HUST/2023.1/LSĐ",
     "HUST/2023.1",
     "AI/Libraries",
@@ -295,7 +312,6 @@
     "Tutorial/Git.md",
     "AI/Math/Statistics&Probability.md",
     "AI/Gradient descent.md",
-    "AI/Deep learning.md",
     "Image Bank/Pasted image 20230810135237.png",
     "Image Bank/Pasted image 20230810155003.png",
     "Image Bank/Pasted image 20230810142845.png",
