@@ -71,9 +71,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e4f2b8821eaaa856",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/HandNote2023-09-30 16.14.21.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "2632011ddbc9350c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -177,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nháp.md",
+                "file": "Excalidraw/HandNote2023-09-30 16.14.21.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nháp.md",
+                "file": "Excalidraw/HandNote2023-09-30 16.14.21.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nháp.md"
+                "file": "Excalidraw/HandNote2023-09-30 16.14.21.excalidraw.md"
               }
             }
           },
@@ -238,10 +258,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7ad0ed72880d37d4",
+  "active": "2632011ddbc9350c",
   "lastOpenFiles": [
-    "Linux/Ubuntu rice.md",
     "Nháp.md",
+    "Excalidraw/HandNote2023-09-30 16.14.21.excalidraw.md",
+    "Excalidraw",
+    "Linux/Ubuntu rice.md",
     "AI/Types of algorithm in ML.md",
     "AI/Machine learning overview.md",
     "[Types of algorithm in ML.md",
@@ -270,12 +292,10 @@
     "HUST/2022.2/Computer Architecture/Test.md",
     "Tutorial/Markdown syntax.md",
     "HUST/2022.2/Computer Architecture/PDF/CH4 Số học máy tính.pdf",
-    "HUST/2022.2/Computer Architecture/PDF/CH3 Kiến trúc tập lệnh.pdf",
     "Tutorial/Git.md",
     "AI/Math/Statistics&Probability.md",
     "AI/Gradient descent.md",
     "AI/Deep learning.md",
-    "AI/Algorithm/Ensemble methods.md",
     "Image Bank/Pasted image 20230810135237.png",
     "Image Bank/Pasted image 20230810155003.png",
     "Image Bank/Pasted image 20230810142845.png",
