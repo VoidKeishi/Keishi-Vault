@@ -88,7 +88,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HUST/2023.1/LSĐ/Chương I 1930-1945.md",
+                "file": "HUST/2023.1/LSĐ/Chương I - ĐCSVN ra đời và lãnh đạo chính quyền 1930-1945.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -101,7 +101,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HUST/2023.1/LSĐ/Chương I 1930-1945.md",
+                "file": "HUST/2023.1/LSĐ/Chương I - ĐCSVN ra đời và lãnh đạo chính quyền 1930-1945.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "807db703c51e8e53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HUST/2023.1/LSĐ/Chương I - ĐCSVN ra đời và lãnh đạo chính quyền 1930-1945.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -109,7 +122,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -213,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HUST/2023.1/LSĐ/Chương I 1930-1945.md",
+                "file": "HUST/2023.1/LSĐ/Chương I - ĐCSVN ra đời và lãnh đạo chính quyền 1930-1945.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HUST/2023.1/LSĐ/Chương I 1930-1945.md",
+                "file": "HUST/2023.1/LSĐ/Chương I - ĐCSVN ra đời và lãnh đạo chính quyền 1930-1945.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +255,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HUST/2023.1/LSĐ/Chương I 1930-1945.md"
+                "file": "HUST/2023.1/LSĐ/Chương I - ĐCSVN ra đời và lãnh đạo chính quyền 1930-1945.md"
               }
             }
           },
@@ -274,10 +287,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b388706bdf7b6181",
+  "active": "807db703c51e8e53",
   "lastOpenFiles": [
+    "HUST/2023.1/LSĐ/Chương II -.md",
+    "HUST/2023.1/LSĐ/Chương I - ĐCSVN ra đời và lãnh đạo chính quyền 1930-1945.md",
     "Untitled.md",
-    "HUST/2023.1/LSĐ/Chương I 1930-1945.md",
     "Nháp.md",
     "Excalidraw/HandNote2023-09-30 16.14.21.excalidraw.md",
     "Excalidraw",
@@ -311,7 +325,6 @@
     "HUST/2022.2/Computer Architecture/PDF/CH4 Số học máy tính.pdf",
     "Tutorial/Git.md",
     "AI/Math/Statistics&Probability.md",
-    "AI/Gradient descent.md",
     "Image Bank/Pasted image 20230810135237.png",
     "Image Bank/Pasted image 20230810155003.png",
     "Image Bank/Pasted image 20230810142845.png",
