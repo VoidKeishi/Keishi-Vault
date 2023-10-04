@@ -120,9 +120,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fb58e45d00b4b5d2",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/HandNote2023-10-04 20.58.55.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -226,7 +236,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HUST/2023.1/LSĐ/Chương I - ĐCSVN ra đời và lãnh đạo chính quyền 1930-1945.md",
+                "file": "Excalidraw/HandNote2023-10-04 20.58.55.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +253,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HUST/2023.1/LSĐ/Chương I - ĐCSVN ra đời và lãnh đạo chính quyền 1930-1945.md",
+                "file": "Excalidraw/HandNote2023-10-04 20.58.55.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,7 +265,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HUST/2023.1/LSĐ/Chương I - ĐCSVN ra đời và lãnh đạo chính quyền 1930-1945.md"
+                "file": "Excalidraw/HandNote2023-10-04 20.58.55.excalidraw.md"
               }
             }
           },
@@ -287,10 +297,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "807db703c51e8e53",
+  "active": "fb58e45d00b4b5d2",
   "lastOpenFiles": [
-    "HUST/2023.1/LSĐ/Chương II -.md",
+    "Image Bank/Pasted Image 20231004205926_821.png",
     "HUST/2023.1/LSĐ/Chương I - ĐCSVN ra đời và lãnh đạo chính quyền 1930-1945.md",
+    "Excalidraw/HandNote2023-10-04 20.58.55.excalidraw.md",
+    "HUST/2023.1/LSĐ/Chương II -.md",
     "Untitled.md",
     "Nháp.md",
     "Excalidraw/HandNote2023-09-30 16.14.21.excalidraw.md",
@@ -323,8 +335,6 @@
     "HUST/2022.2/Computer Architecture/Test.md",
     "Tutorial/Markdown syntax.md",
     "HUST/2022.2/Computer Architecture/PDF/CH4 Số học máy tính.pdf",
-    "Tutorial/Git.md",
-    "AI/Math/Statistics&Probability.md",
     "Image Bank/Pasted image 20230810135237.png",
     "Image Bank/Pasted image 20230810155003.png",
     "Image Bank/Pasted image 20230810142845.png",
