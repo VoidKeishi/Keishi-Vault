@@ -4,135 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "0eddd7bd9fbaecf6",
+        "id": "cd325cc7d6ee34f2",
         "type": "tabs",
         "children": [
           {
-            "id": "03cdc33b7c2033fb",
+            "id": "3d9c19d542aa8e62",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "40026e5b97e9e487",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HUST/2023.1/OS/Tổng quan về hệ điều hành.md",
+                "file": "Kế toán tài chính.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "3c9cbfb360a615c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nháp.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9b3a88119b5f0026",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HUST/2023.1/Nhập môn kỹ thuật truyền thông/Giới thiệu.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "79169bfcdfe927d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nháp.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7ad0ed72880d37d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nháp.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e4f2b8821eaaa856",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/HandNote2023-09-30 16.14.21.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "2632011ddbc9350c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HUST/2023.1/LSĐ/Chương I - ĐCSVN ra đời và lãnh đạo chính quyền 1930-1945.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b388706bdf7b6181",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HUST/2023.1/LSĐ/Chương I - ĐCSVN ra đời và lãnh đạo chính quyền 1930-1945.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "807db703c51e8e53",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HUST/2023.1/LSĐ/Chương I - ĐCSVN ra đời và lãnh đạo chính quyền 1930-1945.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fb58e45d00b4b5d2",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/HandNote2023-10-04 20.58.55.excalidraw.md"
               }
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -236,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/HandNote2023-10-04 20.58.55.excalidraw.md",
+                "file": "Kế toán tài chính.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -253,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/HandNote2023-10-04 20.58.55.excalidraw.md",
+                "file": "Kế toán tài chính.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -265,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/HandNote2023-10-04 20.58.55.excalidraw.md"
+                "file": "Kế toán tài chính.md"
               }
             }
           },
@@ -297,15 +194,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fb58e45d00b4b5d2",
+  "active": "40026e5b97e9e487",
   "lastOpenFiles": [
-    "Image Bank/Pasted Image 20231004205926_821.png",
+    "Kế toán tài chính.md",
+    "HUST/2023.1/OS/Tổng quan về hệ điều hành.md",
+    "Nháp.md",
+    "HUST/2023.1/Nhập môn kỹ thuật truyền thông/Giới thiệu.md",
+    "Excalidraw/HandNote2023-09-30 16.14.21.excalidraw.md",
     "HUST/2023.1/LSĐ/Chương I - ĐCSVN ra đời và lãnh đạo chính quyền 1930-1945.md",
     "Excalidraw/HandNote2023-10-04 20.58.55.excalidraw.md",
+    "Image Bank/Pasted Image 20231004205926_821.png",
     "HUST/2023.1/LSĐ/Chương II -.md",
-    "Untitled.md",
-    "Nháp.md",
-    "Excalidraw/HandNote2023-09-30 16.14.21.excalidraw.md",
     "Excalidraw",
     "Linux/Ubuntu rice.md",
     "AI/Types of algorithm in ML.md",
@@ -313,9 +212,7 @@
     "[Types of algorithm in ML.md",
     "Hands-On ML.md",
     "HUST/2023.1/Nhập môn kỹ thuật truyền thông/Lecture 1.md",
-    "HUST/2023.1/Nhập môn kỹ thuật truyền thông/Giới thiệu.md",
     "HUST/2023.1/Nhập môn kỹ thuật truyền thông",
-    "HUST/2023.1/OS/Tổng quan về hệ điều hành.md",
     "HUST/2023.1/OS/Quản lý tiến trình.md",
     "HUST/2023.1/OS/Quản lý vào ra.md",
     "HUST/2023.1/OS/Quản lý hệ thống file.md",
@@ -344,7 +241,6 @@
     "Image Bank/Pasted image 20230810140103.png",
     "Image Bank/Pasted image 20230810140023.png",
     "Image Bank/Pasted image 20230810140007.png",
-    "Image Bank/Pasted image 20230810135952.png",
     "Untitled.canvas"
   ]
 }
