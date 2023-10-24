@@ -27,9 +27,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3b3870d910761c73",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -194,7 +204,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "40026e5b97e9e487",
+  "active": "3b3870d910761c73",
   "lastOpenFiles": [
     "Kế toán tài chính.md",
     "HUST/2023.1/OS/Tổng quan về hệ điều hành.md",
