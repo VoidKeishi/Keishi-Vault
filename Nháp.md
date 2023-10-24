@@ -1,3 +1,0 @@
-- Xác định đúng tiêu đề
-- Đặt câu hỏi về quá trình chuẩn bị (muốn phối hợp)
-- Làm video: Cắt ghép từ phim tài liệu có sẵn
