@@ -21,7 +21,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tutorial/Installing & Ricing Arch Linux.md",
+                "file": "HUST/2023.1/LSĐ/Chương I - ĐCSVN ra đời và lãnh đạo chính quyền 1930-1945.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "53f1b2755c04bc4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wifi.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -29,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -133,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tutorial/Installing & Ricing Arch Linux.md",
+                "file": "Wifi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tutorial/Installing & Ricing Arch Linux.md",
+                "file": "Wifi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tutorial/Installing & Ricing Arch Linux.md"
+                "file": "Wifi.md"
               }
             }
           },
@@ -194,20 +207,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3b3870d910761c73",
+  "active": "53f1b2755c04bc4e",
   "lastOpenFiles": [
+    "HUST/2023.1/LSĐ/Chương I - ĐCSVN ra đời và lãnh đạo chính quyền 1930-1945.md",
+    "Wifi.md",
+    "HUST/2023.1/LSĐ/Chương II -.md",
+    "HUST/2023.1/OS/Quản lý vào ra.md",
+    "HUST/2023.1/OS/Quản lý hệ thống file.md",
+    "HUST/2023.1/OS/Quản lý bộ nhớ.md",
+    "Linux/Ubuntu rice.md",
     "Tutorial/Git.md",
     "Kế toán tài chính.md",
     "Nháp.md",
     "HUST/2023.1/OS/Tổng quan về hệ điều hành.md",
     "HUST/2023.1/Nhập môn kỹ thuật truyền thông/Giới thiệu.md",
     "Excalidraw/HandNote2023-09-30 16.14.21.excalidraw.md",
-    "HUST/2023.1/LSĐ/Chương I - ĐCSVN ra đời và lãnh đạo chính quyền 1930-1945.md",
     "Excalidraw/HandNote2023-10-04 20.58.55.excalidraw.md",
     "Image Bank/Pasted Image 20231004205926_821.png",
-    "HUST/2023.1/LSĐ/Chương II -.md",
     "Excalidraw",
-    "Linux/Ubuntu rice.md",
     "AI/Types of algorithm in ML.md",
     "AI/Machine learning overview.md",
     "[Types of algorithm in ML.md",
@@ -215,9 +232,6 @@
     "HUST/2023.1/Nhập môn kỹ thuật truyền thông/Lecture 1.md",
     "HUST/2023.1/Nhập môn kỹ thuật truyền thông",
     "HUST/2023.1/OS/Quản lý tiến trình.md",
-    "HUST/2023.1/OS/Quản lý vào ra.md",
-    "HUST/2023.1/OS/Quản lý hệ thống file.md",
-    "HUST/2023.1/OS/Quản lý bộ nhớ.md",
     "HUST/2022.2/Computer Architecture/PDF/CH5 Bộ xử lý.pdf",
     "HUST/2023.1/OS",
     "HUST/2023.1/OOP",
@@ -231,7 +245,6 @@
     "AI/Math/Calculus.md",
     "Web Development/Backend.md",
     "HUST/2022.2/Computer Architecture/Test.md",
-    "Tutorial/Markdown syntax.md",
     "HUST/2022.2/Computer Architecture/PDF/CH4 Số học máy tính.pdf",
     "Image Bank/Pasted image 20230810135237.png",
     "Image Bank/Pasted image 20230810155003.png",
