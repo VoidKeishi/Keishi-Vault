@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Wifi.md",
+                "file": "Linux/Config link.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Wifi.md",
+                "file": "Linux/Config link.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Wifi.md",
+                "file": "Linux/Config link.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Wifi.md"
+                "file": "Linux/Config link.md"
               }
             }
           },
@@ -245,11 +245,11 @@
   },
   "active": "2bb59774411ed130",
   "lastOpenFiles": [
+    "Linux/Wifi.md",
     "Linux/Config link.md",
     "Untitled/Untitled.md",
     "Untitled/Untitled 1.md",
     "Excalidraw/HandNote2023-09-30 16.14.21.excalidraw.md",
-    "Linux/Wifi.md",
     "Untitled",
     "Linux/Installing-Ricing-Arch-Linux.md",
     "HUST/2023.1/LSĐ/Chương I - ĐCSVN ra đời và lãnh đạo chính quyền 1930-1945.md",
