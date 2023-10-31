@@ -81,9 +81,12 @@
             "id": "be9f19f335689ea6",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/HandNote2023-10-30 22.21.41.excalidraw.md"
+                "file": "Linux/Wifi.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -192,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/HandNote2023-10-30 22.21.41.excalidraw.md",
+                "file": "Linux/Wifi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +212,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/HandNote2023-10-30 22.21.41.excalidraw.md",
+                "file": "Linux/Wifi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/HandNote2023-10-30 22.21.41.excalidraw.md"
+                "file": "Linux/Wifi.md"
               }
             }
           },
@@ -255,20 +258,20 @@
   },
   "active": "be9f19f335689ea6",
   "lastOpenFiles": [
+    "Linux/Ubuntu rice.md",
+    "Linux/Installing-Ricing-Arch-Linux.md",
     "Linux/Config link.md",
-    "Excalidraw/HandNote2023-10-30 22.21.41.excalidraw.md",
     "Linux/Wifi.md",
+    "Excalidraw/HandNote2023-10-30 22.21.41.excalidraw.md",
     "Untitled/Untitled.md",
     "Untitled/Untitled 1.md",
     "Excalidraw/HandNote2023-09-30 16.14.21.excalidraw.md",
     "Untitled",
-    "Linux/Installing-Ricing-Arch-Linux.md",
     "HUST/2023.1/LSĐ/Chương I - ĐCSVN ra đời và lãnh đạo chính quyền 1930-1945.md",
     "HUST/2023.1/LSĐ/Chương II -.md",
     "HUST/2023.1/OS/Quản lý vào ra.md",
     "HUST/2023.1/OS/Quản lý hệ thống file.md",
     "HUST/2023.1/OS/Quản lý bộ nhớ.md",
-    "Linux/Ubuntu rice.md",
     "Tutorial/Git.md",
     "Kế toán tài chính.md",
     "Nháp.md",
