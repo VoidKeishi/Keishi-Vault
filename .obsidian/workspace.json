@@ -76,9 +76,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "be9f19f335689ea6",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/HandNote2023-10-30 22.21.41.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -182,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Config link.md",
+                "file": "Excalidraw/HandNote2023-10-30 22.21.41.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Config link.md",
+                "file": "Excalidraw/HandNote2023-10-30 22.21.41.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Config link.md"
+                "file": "Excalidraw/HandNote2023-10-30 22.21.41.excalidraw.md"
               }
             }
           },
@@ -243,10 +253,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2bb59774411ed130",
+  "active": "be9f19f335689ea6",
   "lastOpenFiles": [
-    "Linux/Wifi.md",
     "Linux/Config link.md",
+    "Excalidraw/HandNote2023-10-30 22.21.41.excalidraw.md",
+    "Linux/Wifi.md",
     "Untitled/Untitled.md",
     "Untitled/Untitled 1.md",
     "Excalidraw/HandNote2023-09-30 16.14.21.excalidraw.md",
@@ -280,7 +291,6 @@
     "HUST/2023.1/LSĐ",
     "HUST/2023.1",
     "AI/Libraries",
-    "AI/Libraries/Numpy.md",
     "Linux",
     "Image Bank/Pasted image 20230810135237.png",
     "Image Bank/Pasted image 20230810155003.png",
