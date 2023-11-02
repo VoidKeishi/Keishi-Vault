@@ -96,7 +96,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HUST/2023.1/Computer Network/Data-link.md",
+                "file": "Linux/Linux note.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -208,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HUST/2023.1/Computer Network/Data-link.md",
+                "file": "Linux/Linux note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,7 +225,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HUST/2023.1/Computer Network/Data-link.md",
+                "file": "Linux/Linux note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -237,7 +237,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HUST/2023.1/Computer Network/Data-link.md"
+                "file": "Linux/Linux note.md"
               }
             }
           },
@@ -271,11 +271,11 @@
   },
   "active": "a1464560ade9e361",
   "lastOpenFiles": [
+    "Linux/Installing-Ricing-Arch-Linux.md",
     "Linux/Linux note.md",
     "HUST/2023.1/Computer Network/Data-link.md",
     "HUST/2023.1/Computer Network",
     "Linux/Config link.md",
-    "Linux/Installing-Ricing-Arch-Linux.md",
     "Linux/Ubuntu rice.md",
     "Excalidraw/HandNote2023-10-30 22.21.41.excalidraw.md",
     "Untitled/Untitled.md",
