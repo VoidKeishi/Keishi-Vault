@@ -89,9 +89,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a1464560ade9e361",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HUST/2023.1/Computer Network/Data-link.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -195,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Linux note.md",
+                "file": "HUST/2023.1/Computer Network/Data-link.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +225,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Linux note.md",
+                "file": "HUST/2023.1/Computer Network/Data-link.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +237,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Linux note.md"
+                "file": "HUST/2023.1/Computer Network/Data-link.md"
               }
             }
           },
@@ -256,11 +269,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "be9f19f335689ea6",
+  "active": "a1464560ade9e361",
   "lastOpenFiles": [
+    "Linux/Linux note.md",
+    "HUST/2023.1/Computer Network/Data-link.md",
+    "HUST/2023.1/Computer Network",
     "Linux/Config link.md",
     "Linux/Installing-Ricing-Arch-Linux.md",
-    "Linux/Linux note.md",
     "Linux/Ubuntu rice.md",
     "Excalidraw/HandNote2023-10-30 22.21.41.excalidraw.md",
     "Untitled/Untitled.md",
@@ -290,11 +305,9 @@
     "HUST/2022.2/Computer Architecture/PDF/CH5 Bộ xử lý.pdf",
     "HUST/2023.1/OS",
     "HUST/2023.1/OOP",
-    "HUST/2023.1/OOP.md",
     "HUST/2023.1/LSĐ",
     "HUST/2023.1",
     "AI/Libraries",
-    "Linux",
     "Image Bank/Pasted image 20230810135237.png",
     "Image Bank/Pasted image 20230810155003.png",
     "Image Bank/Pasted image 20230810142845.png",
