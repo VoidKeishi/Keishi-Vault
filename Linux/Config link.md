@@ -1,2 +1,0 @@
-- SDDM theme: /usr/share/sddm/themes
-- SDDM config: /usr/lib/sddm/sddm.conf.d/sddm.conf

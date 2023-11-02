@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Wifi.md",
+                "file": "Linux/Linux note.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -195,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Wifi.md",
+                "file": "Linux/Linux note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +212,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Wifi.md",
+                "file": "Linux/Linux note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Wifi.md"
+                "file": "Linux/Linux note.md"
               }
             }
           },
@@ -258,10 +258,10 @@
   },
   "active": "be9f19f335689ea6",
   "lastOpenFiles": [
-    "Linux/Ubuntu rice.md",
-    "Linux/Installing-Ricing-Arch-Linux.md",
     "Linux/Config link.md",
-    "Linux/Wifi.md",
+    "Linux/Installing-Ricing-Arch-Linux.md",
+    "Linux/Linux note.md",
+    "Linux/Ubuntu rice.md",
     "Excalidraw/HandNote2023-10-30 22.21.41.excalidraw.md",
     "Untitled/Untitled.md",
     "Untitled/Untitled 1.md",
