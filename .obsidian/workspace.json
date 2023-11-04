@@ -19,12 +19,9 @@
             "id": "60e954612a3c0418",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Gaussian density function.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Excalidraw/HandNote2023-09-30 16.14.21.excalidraw.md"
               }
             }
           },
@@ -221,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gaussian density function.md",
+                "file": "Excalidraw/HandNote2023-09-30 16.14.21.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gaussian density function.md",
+                "file": "Excalidraw/HandNote2023-09-30 16.14.21.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -250,7 +247,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gaussian density function.md"
+                "file": "Excalidraw/HandNote2023-09-30 16.14.21.excalidraw.md"
               }
             }
           },
