@@ -11,14 +11,6 @@
             "id": "bf39647f4091a5eb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "d9a2f5961ef518ff",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "HUST/2023.1/Applied Algorithm/Untitled.md",
@@ -28,8 +20,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,7 +185,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "25d6b588740dd61f",
+  "active": "bf39647f4091a5eb",
   "lastOpenFiles": [
     "Gaussian density function.md",
     "HUST/2023.1/Applied Algorithm/Untitled.md",
