@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cd325cc7d6ee34f2",
+        "id": "b07a6c22ed99b1bd",
         "type": "tabs",
         "children": [
           {
-            "id": "3d9c19d542aa8e62",
+            "id": "bf39647f4091a5eb",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -16,97 +16,12 @@
             }
           },
           {
-            "id": "60e954612a3c0418",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/HandNote2023-09-30 16.14.21.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "3b3870d910761c73",
+            "id": "d9a2f5961ef518ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HUST/2023.1/LSĐ/Chương I - ĐCSVN ra đời và lãnh đạo chính quyền 1930-1945.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "53f1b2755c04bc4e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/HandNote2023-09-30 16.14.21.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "97c60ed901174963",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled/Untitled.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a5634f7ba880d769",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled/Untitled 1.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2bb59774411ed130",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/Config link.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "be9f19f335689ea6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/Linux note.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a1464560ade9e361",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/Linux note.md",
+                "file": "HUST/2023.1/Applied Algorithm/Untitled.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -218,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/HandNote2023-09-30 16.14.21.excalidraw.md",
+                "file": "HUST/2023.1/Applied Algorithm/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/HandNote2023-09-30 16.14.21.excalidraw.md",
+                "file": "HUST/2023.1/Applied Algorithm/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -247,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/HandNote2023-09-30 16.14.21.excalidraw.md"
+                "file": "HUST/2023.1/Applied Algorithm/Untitled.md"
               }
             }
           },
@@ -279,9 +194,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "60e954612a3c0418",
+  "active": "25d6b588740dd61f",
   "lastOpenFiles": [
     "Gaussian density function.md",
+    "HUST/2023.1/Applied Algorithm/Untitled.md",
+    "Untitled/Untitled 1.md",
+    "Untitled/Untitled.md",
+    "HUST/2023.1/Applied Algorithm",
+    "Excalidraw/HandNote2023-09-30 16.14.21.excalidraw.md",
     "Linux/Linux note.md",
     "HUST/2023.1/OS/Quản lý tiến trình.md",
     "HUST/2023.1/OS/Quản lý vào ra.md",
@@ -291,9 +211,6 @@
     "Linux/Config link.md",
     "Linux/Ubuntu rice.md",
     "Excalidraw/HandNote2023-10-30 22.21.41.excalidraw.md",
-    "Untitled/Untitled.md",
-    "Untitled/Untitled 1.md",
-    "Excalidraw/HandNote2023-09-30 16.14.21.excalidraw.md",
     "Untitled",
     "HUST/2023.1/LSĐ/Chương I - ĐCSVN ra đời và lãnh đạo chính quyền 1930-1945.md",
     "HUST/2023.1/LSĐ/Chương II -.md",
@@ -310,14 +227,12 @@
     "AI/Types of algorithm in ML.md",
     "AI/Machine learning overview.md",
     "[Types of algorithm in ML.md",
-    "Hands-On ML.md",
     "HUST/2023.1/Nhập môn kỹ thuật truyền thông",
     "HUST/2022.2/Computer Architecture/PDF/CH5 Bộ xử lý.pdf",
     "HUST/2023.1/OS",
     "HUST/2023.1/OOP",
     "HUST/2023.1/LSĐ",
     "HUST/2023.1",
-    "AI/Libraries",
     "Image Bank/Pasted image 20230810135237.png",
     "Image Bank/Pasted image 20230810155003.png",
     "Image Bank/Pasted image 20230810142845.png",
