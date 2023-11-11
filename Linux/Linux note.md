@@ -1,4 +1,3 @@
-
 # Wifi
 nmcli device wifi list
 nmcli device wifi connect {name} password {password}
@@ -6,4 +5,4 @@ nmcli device wifi connect {name} password {password}
 ~/.local/share/fonts/
 # SDDM
 - SDDM theme: /usr/share/sddm/themes
-- SDDM config: /usr/lib/sddm/sddm.conf.d/default.conf
+- SDDM config: /etc/sddm/default.conf
