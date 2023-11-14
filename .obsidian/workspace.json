@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Linux note.md",
+                "file": "HUST/2023.1/Applied Algorithm/Untitled.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Linux note.md",
+                "file": "HUST/2023.1/Applied Algorithm/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Linux note.md",
+                "file": "HUST/2023.1/Applied Algorithm/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Linux note.md"
+                "file": "HUST/2023.1/Applied Algorithm/Untitled.md"
               }
             }
           },
@@ -187,8 +187,8 @@
   },
   "active": "bf39647f4091a5eb",
   "lastOpenFiles": [
-    "Linux/Config link.md",
     "Linux/Linux note.md",
+    "Linux/Config link.md",
     "Linux/Ubuntu rice.md",
     "Linux/Installing-Ricing-Arch-Linux.md",
     "HUST/2023.1/Applied Algorithm/Untitled.md",
