@@ -4,23 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "b07a6c22ed99b1bd",
+        "id": "f9720561ab27ad5d",
         "type": "tabs",
         "children": [
           {
-            "id": "bf39647f4091a5eb",
+            "id": "68e9d361e11c28fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HUST/2023.1/Applied Algorithm/Untitled.md",
+                "file": "HUST/2023.1/Applied Algorithm/Giới thiệu chung.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8e66b9a3557225ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HUST/2023.1/Applied Algorithm/Data type.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -124,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HUST/2023.1/Applied Algorithm/Untitled.md",
+                "file": "HUST/2023.1/Applied Algorithm/Data type.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HUST/2023.1/Applied Algorithm/Untitled.md",
+                "file": "HUST/2023.1/Applied Algorithm/Data type.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HUST/2023.1/Applied Algorithm/Untitled.md"
+                "file": "HUST/2023.1/Applied Algorithm/Data type.md"
               }
             }
           },
@@ -185,13 +199,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bf39647f4091a5eb",
+  "active": "8e66b9a3557225ef",
   "lastOpenFiles": [
+    "HUST/2023.1/Applied Algorithm/Giới thiệu chung.md",
+    "HUST/2023.1/Applied Algorithm/Data type.md",
+    "HUST/2023.1/Applied Algorithm/Steven-Halim_-Felix-Halim-Competitive-Programming-3_-The-New-Lower-Bound-of-Programming-Contests-Lulu.com-_2013_.pdf",
     "Linux/Linux note.md",
     "Linux/Config link.md",
     "Linux/Ubuntu rice.md",
     "Linux/Installing-Ricing-Arch-Linux.md",
-    "HUST/2023.1/Applied Algorithm/Untitled.md",
     "Gaussian density function.md",
     "Untitled/Untitled 1.md",
     "Untitled/Untitled.md",
@@ -217,13 +233,11 @@
     "Excalidraw",
     "AI/Types of algorithm in ML.md",
     "AI/Machine learning overview.md",
-    "[Types of algorithm in ML.md",
     "HUST/2023.1/Nhập môn kỹ thuật truyền thông",
     "HUST/2022.2/Computer Architecture/PDF/CH5 Bộ xử lý.pdf",
     "HUST/2023.1/OS",
     "HUST/2023.1/OOP",
     "HUST/2023.1/LSĐ",
-    "HUST/2023.1",
     "Image Bank/Pasted image 20230810135237.png",
     "Image Bank/Pasted image 20230810155003.png",
     "Image Bank/Pasted image 20230810142845.png",
