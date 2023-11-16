@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HUST/2023.1/Applied Algorithm/Data type.md",
+                "file": "HUST/2023.1/Computer Network/Data-link.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HUST/2023.1/Applied Algorithm/Data type.md",
+                "file": "HUST/2023.1/Computer Network/Data-link.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HUST/2023.1/Applied Algorithm/Data type.md",
+                "file": "HUST/2023.1/Computer Network/Data-link.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HUST/2023.1/Applied Algorithm/Data type.md"
+                "file": "HUST/2023.1/Computer Network/Data-link.md"
               }
             }
           },
@@ -201,8 +201,8 @@
   },
   "active": "8e66b9a3557225ef",
   "lastOpenFiles": [
-    "HUST/2023.1/Applied Algorithm/Giới thiệu chung.md",
     "HUST/2023.1/Applied Algorithm/Data type.md",
+    "HUST/2023.1/Applied Algorithm/Giới thiệu chung.md",
     "HUST/2023.1/Applied Algorithm/Steven-Halim_-Felix-Halim-Competitive-Programming-3_-The-New-Lower-Bound-of-Programming-Contests-Lulu.com-_2013_.pdf",
     "Linux/Linux note.md",
     "Linux/Config link.md",
