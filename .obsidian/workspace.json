@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "39b4b95381d15542",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HUST/2023.1/Computer Network/Network level.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -138,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HUST/2023.1/Computer Network/Data-link.md",
+                "file": "HUST/2023.1/Computer Network/Network level.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HUST/2023.1/Computer Network/Data-link.md",
+                "file": "HUST/2023.1/Computer Network/Network level.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HUST/2023.1/Computer Network/Data-link.md"
+                "file": "HUST/2023.1/Computer Network/Network level.md"
               }
             }
           },
@@ -199,8 +212,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8e66b9a3557225ef",
+  "active": "39b4b95381d15542",
   "lastOpenFiles": [
+    "HUST/2023.1/Computer Network/Data-link.md",
+    "HUST/2023.1/Computer Network/Network level.md",
     "HUST/2023.1/Applied Algorithm/Data type.md",
     "HUST/2023.1/Applied Algorithm/Giới thiệu chung.md",
     "HUST/2023.1/Applied Algorithm/Steven-Halim_-Felix-Halim-Competitive-Programming-3_-The-New-Lower-Bound-of-Programming-Contests-Lulu.com-_2013_.pdf",
@@ -215,7 +230,6 @@
     "Excalidraw/HandNote2023-09-30 16.14.21.excalidraw.md",
     "HUST/2023.1/OS/Quản lý tiến trình.md",
     "HUST/2023.1/OS/Quản lý vào ra.md",
-    "HUST/2023.1/Computer Network/Data-link.md",
     "HUST/2023.1/Computer Network",
     "Excalidraw/HandNote2023-10-30 22.21.41.excalidraw.md",
     "Untitled",
@@ -232,7 +246,6 @@
     "Image Bank/Pasted Image 20231004205926_821.png",
     "Excalidraw",
     "AI/Types of algorithm in ML.md",
-    "AI/Machine learning overview.md",
     "HUST/2023.1/Nhập môn kỹ thuật truyền thông",
     "HUST/2022.2/Computer Architecture/PDF/CH5 Bộ xử lý.pdf",
     "HUST/2023.1/OS",
