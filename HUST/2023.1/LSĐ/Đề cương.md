@@ -16,8 +16,8 @@
 	- Chỉ rõ bản chất của chủ nghĩa đế quốc là ăn cướp và giết người
 	- Kêu gọi, thức tỉnh nhân dân lao động đứng lên đấu tranh tự giải phóng
 	- Xác định chủ nghĩa thực dân là kẻ thù chung với nhân dân thuộc địa cũng như nhân dân lao động trên toàn thế giới
-- Cách mạng ở thuộc địa và cách mạng vô sản ở chính quốc có mối quan hệ chặt chẽ song cách mạng ở thuộc địa có tính chủ động, không phụ thuộc vào cách mạng ở chính quốc và có khả năng giành thắng lợi trước cách mạng ở chính quốc
-- Giới thiệu tính chất và kinh nghiệm các cuộc cách mạng trên thế giới và khẳng định cách mạng tháng Mười Nga là triệt để nhất
+	- Cách mạng ở thuộc địa và cách mạng vô sản ở chính quốc có mối quan hệ chặt chẽ song cách mạng ở thuộc địa có tính chủ động, không phụ thuộc vào cách mạng ở chính quốc và có khả năng giành thắng lợi trước cách mạng ở chính quốc
+	- Giới thiệu tính chất và kinh nghiệm các cuộc cách mạng trên thế giới và khẳng định cách mạng tháng Mười Nga là triệt để nhất
 ### Sự chuẩn bị về chính trị
 - Người đã phác thảo những vấn đề cơ bản về đường lối cứu nước, thể hiện tập trung trong tác phẩm "Đường Kách mệnh"
 	- Mục tiêu: Đánh đuổi thực dân Pháp và phong kiến tay sai, giải phóng dân tộc gắn với giải phóng nhân dân lao động
