@@ -9,5 +9,10 @@
 # Debug run
 - Debug tutorial, no requirement
 # Reorganize project
-- Requirement, Design, ReadingAssignment inside the rootfolder of AimsProject, next to src and bin
+- AimsProject
+	- bin
+	- src
+	- Requirement
+	- Design
+	- ReadingAssignment
 - 
