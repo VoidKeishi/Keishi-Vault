@@ -8,41 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "45485e8062de75e1",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "1127b29030bc34b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HUST/2023.1/OOP/Lab 3.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d5c21876db927890",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Linux note.md",
+                "file": "HUST/2023.1/Nhập môn kỹ thuật truyền thông/Lecture 1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Linux note.md",
+                "file": "HUST/2023.1/Nhập môn kỹ thuật truyền thông/Lecture 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Linux note.md",
+                "file": "HUST/2023.1/Nhập môn kỹ thuật truyền thông/Lecture 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Linux note.md"
+                "file": "HUST/2023.1/Nhập môn kỹ thuật truyền thông/Lecture 1.md"
               }
             }
           },
@@ -209,10 +187,11 @@
   },
   "active": "d5c21876db927890",
   "lastOpenFiles": [
-    "Linux/Installing-Ricing-Arch-Linux.md",
-    "Linux/Linux note.md",
-    "HUST/2023.1/Nhập môn kỹ thuật truyền thông/Lecture 1.md",
     "HUST/2023.1/OOP/Lab 3.md",
+    "HUST/2023.1/Nhập môn kỹ thuật truyền thông/Lecture 1.md",
+    "HUST/2023.1/Nhập môn kỹ thuật truyền thông/Giới thiệu.md",
+    "Linux/Linux note.md",
+    "Linux/Installing-Ricing-Arch-Linux.md",
     "HUST/2023.1/OOP/Untitled.md",
     "HUST/2023.1/LSĐ/Đề cương.md",
     "Excalidraw/HandNote2023-11-18 17.13.36.excalidraw.md",
@@ -238,7 +217,6 @@
     "Untitled",
     "HUST/2023.1/OS/Quản lý hệ thống file.md",
     "HUST/2023.1/OS/Quản lý bộ nhớ.md",
-    "Tutorial/Git.md",
     "Image Bank/Pasted Image 20231004205926_821.png",
     "Excalidraw",
     "HUST/2023.1/Nhập môn kỹ thuật truyền thông",

@@ -4,5 +4,6 @@
   "translucency": false,
   "nativeMenus": false,
   "baseFontSize": 21,
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "textFontFamily": "Times New Roman"
 }
