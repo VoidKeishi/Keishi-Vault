@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HUST/2023.1/OS/Quản lý tiến trình.md",
+                "file": "HUST/2023.1/OS/Tổng quan về hệ điều hành.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HUST/2023.1/OS/Quản lý tiến trình.md",
+                "file": "HUST/2023.1/OS/Tổng quan về hệ điều hành.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HUST/2023.1/OS/Quản lý tiến trình.md",
+                "file": "HUST/2023.1/OS/Tổng quan về hệ điều hành.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HUST/2023.1/OS/Quản lý tiến trình.md"
+                "file": "HUST/2023.1/OS/Tổng quan về hệ điều hành.md"
               }
             }
           },
@@ -187,10 +187,10 @@
   },
   "active": "d5c21876db927890",
   "lastOpenFiles": [
-    "HUST/2023.1/OS/Quản lý vào ra.md",
     "HUST/2023.1/OS/Quản lý bộ nhớ.md",
-    "HUST/2023.1/OS/Quản lý hệ thống file.md",
     "HUST/2023.1/OS/Quản lý tiến trình.md",
+    "HUST/2023.1/OS/Quản lý vào ra.md",
+    "HUST/2023.1/OS/Quản lý hệ thống file.md",
     "HUST/2023.1/OS/Tổng quan về hệ điều hành.md",
     "HUST/2023.1/Nhập môn kỹ thuật truyền thông/Lecture 1.md",
     "HUST/2023.1/OOP/Lab 3.md",

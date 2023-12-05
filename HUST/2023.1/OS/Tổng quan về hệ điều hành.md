@@ -55,3 +55,12 @@
 	- Xử lý thời gian thực
 	- Song song
 	- Phân tán
+# Các khái niệm trong hệ điều hành
+- Tiến trình: 
+	- Là một chương trình đang thực hiện - trạng thái động của chương trình
+	- Gồm: Code, data, stack, pointer, thanh ghi, thông tin cần thiết
+- Luồng:
+	- Là chuỗi lệnh được thực hiện trong tiến trình
+	- Gồm: Code, data, stack, pointer, thanh ghi riêng
+	- Một tiến trình có thể chứa nhiều luồng
+- Tài nguyên hệ thống
