@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Linux note.md",
+                "file": "HUST/2023.1/Computer Network/Tầng liên kết dữ liệu.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,12 +21,38 @@
             }
           },
           {
-            "id": "7e778e322b094c92",
+            "id": "c579a2505a7fd0b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problem Tree.md",
+                "file": "HUST/2023.1/Computer Network/Tổng quan.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1377376d975aaadd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HUST/2023.1/Computer Network/Tầng vật lý.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "feaf06776269e478",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HUST/2023.1/Computer Network/Tầng vật lý.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -138,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Problem Tree.md",
+                "file": "HUST/2023.1/Computer Network/Tầng vật lý.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Problem Tree.md",
+                "file": "HUST/2023.1/Computer Network/Tầng vật lý.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Problem Tree.md"
+                "file": "HUST/2023.1/Computer Network/Tầng vật lý.md"
               }
             }
           },
@@ -199,12 +225,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "25d6b588740dd61f",
+  "active": "feaf06776269e478",
   "lastOpenFiles": [
+    "HUST/2023.1/Computer Network/Tầng liên mạng.md",
+    "HUST/2023.1/Computer Network/Untitled 1.md",
+    "HUST/2023.1/Computer Network/Tầng liên kết dữ liệu.md",
+    "HUST/2023.1/Computer Network/Tầng vật lý.md",
+    "HUST/2023.1/Computer Network/Tổng quan.md",
+    "Problem Tree.md",
     "Image Bank/Pasted image 20231208111118.png",
     "Image Bank/Pasted image 20231208111051.png",
     "Image Bank/Pasted image 20231208104438.png",
-    "Problem Tree.md",
     "Linux/Linux note.md",
     "Linux/Installing-Ricing-Arch-Linux.md",
     "HUST/2023.1/OS/Tổng quan về hệ điều hành.md",
@@ -218,18 +249,14 @@
     "HUST/2023.1/OOP/Untitled.md",
     "HUST/2023.1/LSĐ/Đề cương.md",
     "Excalidraw/HandNote2023-11-18 17.13.36.excalidraw.md",
-    "HUST/2023.1/Computer Network/Data-link.md",
     "HUST/2023.1/Applied Algorithm/Giới thiệu chung.md",
     "HUST/2023.1/LSĐ/Untitled 1.md",
     "HUST/2023.1/LSĐ/Chương II -.md",
     "HUST/2023.1/LSĐ/Chương I - ĐCSVN ra đời và lãnh đạo chính quyền 1930-1945.md",
-    "HUST/2023.1/Computer Network/Network level.md",
     "HUST/2023.1/Applied Algorithm/Data type.md",
     "HUST/2023.1/Applied Algorithm/Steven-Halim_-Felix-Halim-Competitive-Programming-3_-The-New-Lower-Bound-of-Programming-Contests-Lulu.com-_2013_.pdf",
     "Linux/Config link.md",
     "Linux/Ubuntu rice.md",
-    "Gaussian density function.md",
-    "Untitled/Untitled 1.md",
     "HUST/2023.1/Applied Algorithm",
     "HUST/2023.1/Computer Network",
     "Untitled",
@@ -246,7 +273,6 @@
     "Image Bank/Pasted image 20230810140140.png",
     "Image Bank/Pasted image 20230810140129.png",
     "Image Bank/Pasted image 20230810140117.png",
-    "Image Bank/Pasted image 20230810140103.png",
     "Untitled.canvas"
   ]
 }

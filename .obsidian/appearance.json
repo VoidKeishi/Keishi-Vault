@@ -3,7 +3,7 @@
   "cssTheme": "Obsidianite",
   "translucency": false,
   "nativeMenus": false,
-  "baseFontSize": 21,
+  "baseFontSize": 13,
   "baseFontSizeAction": true,
   "textFontFamily": "Arial"
 }
