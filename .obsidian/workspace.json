@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HUST/2023.1/Computer Network/Tầng vật lý.md",
+                "file": "HUST/2023.1/Applied Algorithm/Giới thiệu chung.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HUST/2023.1/Computer Network/Tầng vật lý.md",
+                "file": "HUST/2023.1/Applied Algorithm/Giới thiệu chung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HUST/2023.1/Computer Network/Tầng vật lý.md",
+                "file": "HUST/2023.1/Applied Algorithm/Giới thiệu chung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HUST/2023.1/Computer Network/Tầng vật lý.md"
+                "file": "HUST/2023.1/Applied Algorithm/Giới thiệu chung.md"
               }
             }
           },
@@ -227,10 +227,11 @@
   },
   "active": "feaf06776269e478",
   "lastOpenFiles": [
+    "HUST/2023.1/Applied Algorithm/Data type.md",
+    "HUST/2023.1/Computer Network/Tầng vật lý.md",
     "HUST/2023.1/Computer Network/Tầng liên mạng.md",
     "HUST/2023.1/Computer Network/Untitled 1.md",
     "HUST/2023.1/Computer Network/Tầng liên kết dữ liệu.md",
-    "HUST/2023.1/Computer Network/Tầng vật lý.md",
     "HUST/2023.1/Computer Network/Tổng quan.md",
     "Problem Tree.md",
     "Image Bank/Pasted image 20231208111118.png",
@@ -253,7 +254,6 @@
     "HUST/2023.1/LSĐ/Untitled 1.md",
     "HUST/2023.1/LSĐ/Chương II -.md",
     "HUST/2023.1/LSĐ/Chương I - ĐCSVN ra đời và lãnh đạo chính quyền 1930-1945.md",
-    "HUST/2023.1/Applied Algorithm/Data type.md",
     "HUST/2023.1/Applied Algorithm/Steven-Halim_-Felix-Halim-Competitive-Programming-3_-The-New-Lower-Bound-of-Programming-Contests-Lulu.com-_2013_.pdf",
     "Linux/Config link.md",
     "Linux/Ubuntu rice.md",

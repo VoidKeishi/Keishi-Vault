@@ -16,3 +16,5 @@
 - Test chương trình
 - Gõ nhanh
 - Thực hành
+# Dạng bài
+- Adhoc: Làm đúng như mô tả
