@@ -110,6 +110,7 @@ pacman -S grub efibootmgr dosftools mtools
 nano /etc/default/grub
 ```
 - Uncomment GRUB_DISABLE_OS_PROBER=false
+- Mount the EFI system
 ```shell
 pacman -S os-prober
 grub-install --target=x86_64-efi --bootloader-id=grub_uefi --recheck
@@ -142,3 +143,4 @@ reboot
 - feh
 - neofetch
 - zsh
+- Ibusbamboo

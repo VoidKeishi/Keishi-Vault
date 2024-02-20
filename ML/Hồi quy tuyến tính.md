@@ -1,0 +1,10 @@
+- Loại: Học có giám sát, cụ thể là hồi quy
+- Nhiệm vụ (T): Dự đoán kết quả thuộc miền liên tục dựa trên 1 hay nhiều thuộc tính đầu vào
+- Biểu diễn mô hình : $f(x)=w_0+w_1x_1+...+w_nx_n$
+- Phép đánh giá (P)
+	- Hàm loss
+		- Với mỗi đầu vào x: $r(x)=[c_x-f(x)]^2$
+		- Với toàn bộ không gian: $E=E_x[r(x)]=E_x[c_x-f(x)]^2$
+		- Mục tiêu là tối thiểu hàm loss với toàn bộ không gian, tuy nhiên thực tế không thể tính được cho toàn bộ -> Tính lỗi thực nghiệm và cực tiểu hóa nó
+		- Lỗi thực nghiệm là trung bình lỗi trên tập D (dữ liệu huấn luyện)
+- Kinh nghiệm (E)
