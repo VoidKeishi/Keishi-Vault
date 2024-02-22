@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Hồi quy tuyến tính.md",
+                "file": "KTCT/Overview.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -57,32 +57,6 @@
             }
           },
           {
-            "id": "c2545735dd0368af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HUST/2022.2/Statistics and Probability/Chương IV.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b9d0e745823cfb76",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HUST/2022.2/Computer Architecture/Chapter 1 - Introduction.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "25d6b588740dd61f",
             "type": "leaf",
             "state": {
@@ -93,7 +67,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -124,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Hồi quy tuyến tính.md",
+                "file": "KTCT/Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Hồi quy tuyến tính.md",
+                "file": "KTCT/Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Hồi quy tuyến tính.md"
+                "file": "KTCT/Overview.md"
               }
             }
           },
@@ -187,16 +161,21 @@
   },
   "active": "842dd7db315aa4d4",
   "lastOpenFiles": [
+    "Linux/Installing-Ricing-Arch-Linux.md",
+    "KTCT/Overview.md",
+    "HUST/2022.2/Computer Architecture/Chapter 1 - Introduction.md",
+    "HUST/2022.2/Statistics and Probability/Chương IV.md",
+    "Image Bank/Pasted image 20230726220609.png",
+    "ML/Hồi quy tuyến tính.md",
+    "KTCT",
     "ML/Tiền xử lý dữ liệu.md",
     "ML/Overview.md",
-    "ML/Hồi quy tuyến tính.md",
     "ML/Đề xuất đề tài.md",
     "HUST/2023.1/Computer Network/Tầng liên kết dữ liệu.md",
     "ML/Untitled 3.md",
     "Linux/Linux note.md",
     "ML",
     "Image Bank/L1-Intro.pdf",
-    "Linux/Installing-Ricing-Arch-Linux.md",
     "Excalidraw/HandNote2023-09-30 16.14.21.excalidraw.md",
     "Excalidraw/HandNote2023-10-30 22.21.41.excalidraw.md",
     "Excalidraw/HandNote2023-11-18 17.13.36.excalidraw.md",
@@ -215,9 +194,6 @@
     "HUST/2023.1/OS/Quản lý bộ nhớ.md",
     "HUST/2023.1/OS/Quản lý tiến trình.md",
     "HUST/2023.1/OS/Quản lý vào ra.md",
-    "HUST/2023.1/OS/Quản lý hệ thống file.md",
-    "HUST/2023.1/Nhập môn kỹ thuật truyền thông/Lecture 1.md",
-    "HUST/2023.1/OOP/Lab 3.md",
     "HUST/2023.1/Applied Algorithm/Steven-Halim_-Felix-Halim-Competitive-Programming-3_-The-New-Lower-Bound-of-Programming-Contests-Lulu.com-_2013_.pdf",
     "HUST/2023.1/Applied Algorithm",
     "HUST/2023.1/Computer Network",
@@ -226,13 +202,11 @@
     "HUST/2023.1/Nhập môn kỹ thuật truyền thông",
     "HUST/2022.2/Computer Architecture/PDF/CH5 Bộ xử lý.pdf",
     "HUST/2023.1/OS",
-    "HUST/2023.1/OOP",
     "Image Bank/Pasted image 20230810135237.png",
     "Image Bank/Pasted image 20230810155003.png",
     "Image Bank/Pasted image 20230810142845.png",
     "Image Bank/Pasted image 20230810140140.png",
     "Image Bank/Pasted image 20230810140129.png",
-    "Image Bank/Pasted image 20230810140117.png",
     "Untitled.canvas"
   ]
 }
