@@ -13,28 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HUST/2023.2/UX-UI/Intro.md",
-                "mode": "source",
+                "file": "ML/Phân cụm.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "c0afe7710c7f5845",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "e332fafe94db3d8f",
+            "id": "c87a02739ab34cad",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ML/Phân cụm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,6 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ML/Phân cụm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ML/Phân cụm.md"
+              }
             }
           },
           {
@@ -149,11 +150,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,26 +170,36 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e332fafe94db3d8f",
+  "active": "c87a02739ab34cad",
   "lastOpenFiles": [
-    "HUST/2022.2/Scientific Computational/Chương 2.md",
-    "HUST/2023.2/UX-UI/Intro.md",
-    "HUST/2022.2/Scientific Computational/Chương 5.md",
+    "ML/Phân loại và đánh giá hiệu năng.md",
+    "ML/Hồi quy tuyến tính.md",
+    "ML/Đề xuất đề tài.md",
+    "ML/Phân cụm.md",
     "ML/Overview.md",
+    "ML/Tiền xử lý dữ liệu.md",
+    "Image Bank/Pasted image 20240228132555.png",
+    "Image Bank/Pasted image 20240228132446.png",
+    "Image Bank/Pasted image 20240228132424.png",
+    "Image Bank/Pasted image 20240228132210.png",
+    "Image Bank/Pasted image 20240228125922.png",
+    "Image Bank/Pasted image 20240228125859.png",
+    "Image Bank/Pasted image 20240228125731.png",
+    "Image Bank/Pasted image 20240228125716.png",
+    "Image Bank/Pasted image 20240228104735.png",
+    "Image Bank/Pasted image 20240228103657.png",
+    "HUST/2023.2/UX-UI/Intro.md",
+    "HUST/2022.2/Scientific Computational/Chương 2.md",
+    "HUST/2022.2/Scientific Computational/Chương 5.md",
     "HUST/2023.2/UX-UI/Untitled.md",
     "Untitled.md",
     "HUST/2023.2/UX-UI",
-    "ML/Hồi quy tuyến tính.md",
-    "ML/Tiền xử lý dữ liệu.md",
-    "ML/Untitled 3.md",
     "HUST/2023.2/KTCT/Overview.md",
     "HUST/2023.2",
     "Linux/Installing-Ricing-Arch-Linux.md",
     "HUST/2022.2/Computer Architecture/Chapter 1 - Introduction.md",
     "HUST/2022.2/Statistics and Probability/Chương IV.md",
-    "Image Bank/Pasted image 20230726220609.png",
     "HUST/2023.2/KTCT",
-    "ML/Đề xuất đề tài.md",
     "HUST/2023.1/Computer Network/Tầng liên kết dữ liệu.md",
     "Linux/Linux note.md",
     "ML",
@@ -199,22 +212,11 @@
     "HUST/2023.1/Applied Algorithm/Data type.md",
     "HUST/2023.1/Computer Network/Tầng vật lý.md",
     "HUST/2023.1/Computer Network/Tầng liên mạng.md",
-    "HUST/2023.1/Computer Network/Untitled 1.md",
-    "HUST/2023.1/Computer Network/Tổng quan.md",
-    "Image Bank/Pasted image 20231208111118.png",
-    "Image Bank/Pasted image 20231208111051.png",
-    "Image Bank/Pasted image 20231208104438.png",
     "HUST/2023.1/Applied Algorithm/Steven-Halim_-Felix-Halim-Competitive-Programming-3_-The-New-Lower-Bound-of-Programming-Contests-Lulu.com-_2013_.pdf",
     "HUST/2023.1/Applied Algorithm",
     "HUST/2023.1/Computer Network",
-    "Image Bank/Pasted Image 20231004205926_821.png",
     "Excalidraw",
     "HUST/2023.1/Nhập môn kỹ thuật truyền thông",
-    "Image Bank/Pasted image 20230810135237.png",
-    "Image Bank/Pasted image 20230810155003.png",
-    "Image Bank/Pasted image 20230810142845.png",
-    "Image Bank/Pasted image 20230810140140.png",
-    "Image Bank/Pasted image 20230810140129.png",
     "Untitled.canvas"
   ]
 }

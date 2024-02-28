@@ -3,7 +3,7 @@
   "cssTheme": "Catppuccin",
   "translucency": false,
   "nativeMenus": false,
-  "baseFontSize": 19,
+  "baseFontSize": 20,
   "baseFontSizeAction": true,
   "textFontFamily": "Arial"
 }

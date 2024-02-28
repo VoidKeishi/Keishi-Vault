@@ -1,0 +1,34 @@
+- Đánh giá hiệu năng hệ thông học máy
+	- Phân loại
+		- Đánh giá lý thuyết
+			- Tốc độ học, thời gian học
+			- Lượng ví dụ
+			- Độ chính xác
+			- Khả năng chống nhiễu
+		- Đánh giá thực nghiệm
+			- Tổng hợp đánh giá từ các quan sát
+	- Bài toán đánh giá: Đánh giá hiệu năng của phương pháp A chỉ dựa trên bộ dữ liệu D
+	- Phương pháp đánh giá
+		- Chia đôi
+			- Chia thành 2 tập con không giao nhau: Tập train và tập test
+			- Tỉ lệ thường dùng: 2/3 train 1/3 test
+			- Phù hợp khi D lớn
+		- Lấy mẫu phân tầng
+			- Áp dụng cho bài toán phân lớp có D nhỏ và không cân xứng
+			- Tỉ lệ các lớp trong train và test phải xấp xỉ như trong D
+		- Chia đôi nhiều lần
+			- Mỗi bước lặp chọn một tỉ lệ nhất định của D để train
+			- Giá trị lỗi ghi nhận được trong từng bước lặp sẽ lấy trung bình cộng để xác định giá trị lỗi tổng thể
+			- Mỗi bước lặp dùng tập test khác nhau, một số quan sát được sử dụng nhiều lần trong tập test này 
+		- Đánh giá chéo
+			- K-fold
+				- Chia thành k tập con không giao nhau
+				- Lặp k lần, mỗi lần dùng một tập con làm kiểm thử, (k-1) tập còn lại dùng để train
+				- Tính trung bình k giá trị lỗi -> lỗi tổng thể
+				- Phù hợp với tập D vừa và nhỏ
+			- Leave-one-out
+				- Là K-fold với k = |D|
+				- Phù hợp với tập D rất nhỏ
+		- Bootstrap: Lấy mẫu có lặp lại để tạo nên tập train
+	- Lựa chọn tham số
+	- Đánh giá và lựa chọn mô hình
