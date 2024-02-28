@@ -4,7 +4,7 @@
 	- Cụm là tập các quan sát tương tự với nhau hoặc khác biệt với các quan sát của cụm khác
 - Giải thuật phân cụm
 	- Dựa trên phân hoạch
-	- Dựa trên tích tụ phân cấp a
+	- Dựa trên tích tụ phân cấp
 	- Bản đồ tự tổ chức
 	- Mô hình hỗn hợp
 	- Deep clustering
