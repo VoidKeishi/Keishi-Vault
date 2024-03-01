@@ -1,3 +1,4 @@
-# Opening
-## P
-### e
+- Hypertext: Text contain link to other text
+- Markup: Mark text as a specific type
+- HTML: Hypertext markup language
+- ]
