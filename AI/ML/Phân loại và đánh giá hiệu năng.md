@@ -1,4 +1,4 @@
-- Đánh giá hiệu năng hệ thông học máy
+- Đánh giá hiệu năng hệ thống học máy
 	- Phân loại
 		- Đánh giá lý thuyết
 			- Tốc độ học, thời gian học
