@@ -52,3 +52,6 @@
 			- Gộp trùng lặp
 			- Tên actor là vai trò
 	- Usecase: Mô tả một chuỗi sự kiện thực hiện bởi phần mềm, tạo ra kết quả có giá trị cho actor
+		- Cách tìm kiếm usecase
+			- Tìm động từ
+			- Đảm bảo liên kết với actor
