@@ -9,4 +9,18 @@
 		- Yêu cầu về mặt pháp lý
 		- Các ràng buộc
 	- Yêu cầu chất lượng
-- Mục đích
+- Vai trò
+	- Tạo ra một thỏa thuận, nhất trí về hệ thống để xây dựng hợp đồng
+	- Lập kế hoạch phát triển
+	- Là đầu vào cho hoạt động phát triển
+	- Cơ sở kiểm chứng, đánh giá sản phẩm
+- Kỹ nghệ yêu cầu phần mềm (Software Requirement Engineering)
+	- Quá trình đi từ mô tả phần mềm của stakeholder thành yêu cầu phần mềm
+	- Các giai đoạn
+		- Khởi đầu: -> Giới hạn/phạm vi
+		- Phát triển yêu cầu
+			- Khám phá yêu cầu
+			- Phân tích
+			- Đặc tả
+			- Xác nhận
+		- 
