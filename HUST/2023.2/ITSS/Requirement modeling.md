@@ -31,4 +31,13 @@
 - Mô hình yêu cầu
 	- Mô hình luồng dữ liệu (DFD)
 	- Mô hình dữ liệu: mô hình thực thể liên kết (Entity Relationship Diagram)
-	- Mô hình 
+	- Mô hình hành vi tương tác (Usecase model)
+### Usecase diagram
+- Mô hình hóa khía cạnh động - dynamic view
+- Thể hiện yêu cầu chức năng
+- Usecase khác chức năng (?)
+- Lợi ích
+	- Giao tiếp bằng quy chuẩn thống nhất
+	- Xác định các thành phần cần có
+	- Kiểm tra lại sau khi lập trình
+- 
