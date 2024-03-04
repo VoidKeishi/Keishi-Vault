@@ -29,4 +29,6 @@
 	- Biểu diễn trực quan 
 	- Đặc tả
 - Mô hình yêu cầu
-	- Luồng du
+	- Mô hình luồng dữ liệu (DFD)
+	- Mô hình dữ liệu: mô hình thực thể liên kết (Entity Relationship Diagram)
+	- Mô hình 
