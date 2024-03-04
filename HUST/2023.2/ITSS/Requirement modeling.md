@@ -47,4 +47,8 @@
 			- Cung cấp thông tin
 			- Nhận thông tin
 		- Bên ngoài hệ thống
+		- Cách tìm actor từ mô tả
+			- Tìm danh từ là chủ thể hành động
+			- Gộp trùng lặp
+			- Tên actor là vai trò
 	- Usecase: Mô tả một chuỗi sự kiện thực hiện bởi phần mềm, tạo ra kết quả có giá trị cho actor
