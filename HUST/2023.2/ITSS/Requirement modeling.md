@@ -1,0 +1,12 @@
+- No single model is sufficient
+### Yêu cầu
+- Những vấn đề/đặc tính của phần mềm/hệ thống được đặt ra/nêu ra với khách hàng/người dùng
+- Phân loại
+	- Yêu cầu chức năng
+	- Yêu cầu phi chức năng
+		- Hiệu năng
+		- An toàn bảo mật
+		- Yêu cầu về mặt pháp lý
+		- Các ràng buộc
+	- Yêu cầu chất lượng
+- Mục đích
