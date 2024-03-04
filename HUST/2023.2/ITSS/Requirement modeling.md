@@ -55,3 +55,13 @@
 		- Cách tìm kiếm usecase
 			- Tìm động từ
 			- Đảm bảo liên kết với actor
+	- Relationships
+		- Actor-Actor
+			- Generalization
+			- Association
+		- Actor-Usecase
+			- Association
+		- Usecase-Usecase
+			- Generalization
+			- Include
+			- Extend
