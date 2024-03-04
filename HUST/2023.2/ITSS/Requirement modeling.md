@@ -1,4 +1,4 @@
-- No single model is sufficient
+- No single model is sufficient - một mô hình không thể bao quát mọi khía cạnh
 ### Yêu cầu
 - Những vấn đề/đặc tính của phần mềm/hệ thống được đặt ra/nêu ra với khách hàng/người dùng
 - Phân loại
@@ -20,7 +20,13 @@
 		- Khởi đầu: -> Giới hạn/phạm vi
 		- Phát triển yêu cầu
 			- Khám phá yêu cầu
-			- Phân tích
-			- Đặc tả
-			- Xác nhận
-		- 
+			- Phân tích: Xây dựng mô hình cho yêu cầu
+			- Đặc tả: Ghi nhận thành tài liệu -> SRS
+			- Kiểm chứng
+		- Quản lý yêu cầu
+### Mô hình yêu cầu
+- Mô hình 
+	- Biểu diễn trực quan 
+	- Đặc tả
+- Mô hình yêu cầu
+	- Luồng du
