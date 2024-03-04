@@ -40,4 +40,11 @@
 	- Giao tiếp bằng quy chuẩn thống nhất
 	- Xác định các thành phần cần có
 	- Kiểm tra lại sau khi lập trình
-- 
+- Khái niệm thành phần
+	- Actor: Bất cứ thứ gì tương tác với hệ thống
+		- Thể hiện vai trò
+		- Tương tác
+			- Cung cấp thông tin
+			- Nhận thông tin
+		- Bên ngoài hệ thống
+	- Usecase: Mô tả một chuỗi sự kiện thực hiện bởi phần mềm, tạo ra kết quả có giá trị cho actor
