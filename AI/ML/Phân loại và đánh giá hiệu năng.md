@@ -17,7 +17,7 @@
 			- Nếu các 
 			- Chỉ phù hợp với D lớn
 		- Lấy mẫu phân tầng (Stratified sampling)
-			- Áp dụng cho bài toán phân lớp có D nhỏ và không cân xứng
+			- Áp dụng cho bài toán phân lớp có D nhỏ và không cân xứng giữa các nhãn
 			- Tỉ lệ các lớp trong train và test phải xấp xỉ như trong D
 		- Chia đôi nhiều lần
 			- Mỗi bước lặp chọn một tỉ lệ nhất định của D để train
