@@ -16,3 +16,4 @@ Tập dữ liệu sử dụng
 	- Code
 	- README.txt
 # Đánh giá
+- Lựa chọn phương pháp nên đi từ intuition
