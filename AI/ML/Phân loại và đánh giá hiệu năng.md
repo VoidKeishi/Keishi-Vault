@@ -33,4 +33,6 @@
 			- Là K-fold với k = |D|
 			- Phù hợp với tập D rất nhỏ
 	- Bootstrap: Lấy mẫu có lặp lại để tạo nên tập train
-- K-fold
+- K-fold với K = 5 -> 1 2 3 4 5
+	- D lần 1 = 2 3 4 5, test lần 1 là 1
+		- D lần 2
