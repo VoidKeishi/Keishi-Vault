@@ -13,7 +13,9 @@
 			- Chia thành 2 tập con không giao nhau: Tập train và tập test
 			- Tỉ lệ thường dùng: 2/3 train 1/3 test
 				- Khi D rất lớn thì cần giảm tỉ lệ test đi đáng kể để tận dụng D tốt hơn
-			- Khi D bé 
+			- Khi D bé ->  Tập test bé -> Đánh giá không chính xác
+			- Nếu các 
+			- Chỉ phù hợp với D lớn
 		- Lấy mẫu phân tầng (Stratified sampling)
 			- Áp dụng cho bài toán phân lớp có D nhỏ và không cân xứng
 			- Tỉ lệ các lớp trong train và test phải xấp xỉ như trong D
