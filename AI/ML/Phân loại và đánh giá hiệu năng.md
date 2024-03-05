@@ -33,6 +33,5 @@
 			- Là K-fold với k = |D|
 			- Phù hợp với tập D rất nhỏ
 	- Bootstrap: Lấy mẫu có lặp lại để tạo nên tập train
-- K-fold với K = 5 -> 1 2 3 4 5
-	- D lần 1 = 2 3 4 5, test lần 1 là 1
-		- D lần 2
+- Lựa chọn tham số
+	- Từ một tập học D, cần lựa chọn bộ tham số (model)  trong phương pháp học A sao cho hệ thống được huấn luyện tốt nhất từ D
