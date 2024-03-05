@@ -12,8 +12,8 @@
 		- Chia đôi (Hold-out)
 			- Chia thành 2 tập con không giao nhau: Tập train và tập test
 			- Tỉ lệ thường dùng: 2/3 train 1/3 test
-				- Khi D rất lớn thì tỉ lệ test giảm đi đáng kể
-			- Phù hợp khi D lớn
+				- Khi D rất lớn thì cần giảm tỉ lệ test đi đáng kể để tận dụng D tốt hơn
+			- Khi D bé 
 		- Lấy mẫu phân tầng (Stratified sampling)
 			- Áp dụng cho bài toán phân lớp có D nhỏ và không cân xứng
 			- Tỉ lệ các lớp trong train và test phải xấp xỉ như trong D
