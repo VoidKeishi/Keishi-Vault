@@ -8,3 +8,20 @@
 	- Vấn đề trong ML
 		- Overfit vs Underfit
 - Data mining
+	- Dữ liệu vs thông tin vs tri thức
+	- Giới thiệu một số vấn đề trong KDD-Knowledge Discovery in Database
+- Preprocess
+	- Đặt vấn đề: Tại sao cần tiền xử lý
+	- Quy trình tiền xử lý
+		- Làm sạch
+		- Tích hợp
+		- Chuyển đổi
+		- Giảm chiều
+- Linear regression
+	- Hàm hồi quy
+	- Hàm lỗi
+	- OLS
+	- Ridge
+	- Lasso
+- Clustering
+	- 
