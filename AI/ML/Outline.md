@@ -49,3 +49,4 @@
 	- Ưu nhược điểm
 - Random Forests
 	- Decision tree
+		- ID3
