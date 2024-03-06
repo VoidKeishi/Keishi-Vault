@@ -28,13 +28,6 @@
 	- Online K-means
 - Model assessment
 	- Đánh giá lý thuyết vs thực nghiệm
-		- KNN
-			- Giải thuật
-			- Hàm khoảng cách
-			- Chuẩn hóa miền giá trị thuộc tính
-			- Trọng số của các thuộc tính
-			- Khoảng cách của các láng giềng
-			- Ưu nhược điểm
 	- Các phương pháp chia bộ dữ liệu
 		- Hold out & Repeated hold out
 		- Stratified sampling
@@ -46,7 +39,13 @@
 		- Ma trận nhầm lẫn
 		- Precision and Recall
 		- F1
-		- 
+- KNN
+	- Giải thuật
+	- Hàm khoảng cách
+	- Chuẩn hóa miền giá trị thuộc tính
+	- Trọng số của các thuộc tính
+	- Khoảng cách của các láng giềng
+	- Ưu nhược điểm
 - Random Forests
 	- Decision tree
 		- ID3
@@ -56,5 +55,5 @@
 			- Reduced-error pruning
 			- Rule post pruning
 	- Random forests
-	- Online K-means
-- Pro
+- Probability model
+	- 
