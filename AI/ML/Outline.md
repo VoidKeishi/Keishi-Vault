@@ -1,0 +1,10 @@
+- Introduction
+	- ML vs DM
+	- Data type
+	- Methodology
+	- ML overview
+		- (T,P,E)
+		- Phân loại
+	- Vấn đề trong ML
+		- Overfit vs Underfit
+- Data mining
