@@ -24,4 +24,28 @@
 	- Ridge
 	- Lasso
 - Clustering
-	- 
+	- K-means
+	- Online K-means
+- Model assessment
+	- Đánh giá lý thuyết vs thực nghiệm
+	- Các phương pháp chia bộ dữ liệu
+		- Hold out & Repeated hold out
+		- Stratified sampling
+		- Cross-validation
+		- Bootstrap sampling
+	- Lựa chọn tham số và mô hình
+	- Tiêu chí đánh giá
+		- Tính chính xác
+		- Ma trận nhầm lẫn
+		- Precision and Recall
+		- F1
+		- 
+- KNN
+	- Giải thuật
+	- Hàm khoảng cách
+	- Chuẩn hóa miền giá trị thuộc tính
+	- Trọng số của các thuộc tính
+	- Khoảng cách của các láng giềng
+	- Ưu nhược điểm
+- Random Forests
+	- Decision tree
