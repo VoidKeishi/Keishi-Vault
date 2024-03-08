@@ -27,3 +27,4 @@
 ## Cảm xúc
 - 
 # Các đặc tính của máy tính
+BTVN: Mô tả tương tác với 1 editor  theo cả 2 chu trình
