@@ -24,4 +24,6 @@
 	- Rule-based: Áp dụng máy móc
 	- Knowledge-based: Dùng tri thức sai để suy luận và hành động
 	- Memory-lapse: Đãng trí
+## Cảm xúc
+- 
 # Các đặc tính của máy tính
