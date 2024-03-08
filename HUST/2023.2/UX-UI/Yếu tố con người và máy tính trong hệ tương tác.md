@@ -18,9 +18,10 @@
 - Lý thuyết không gian bài toán
 ## Lỗi
 - Sơ suất
-	- Action-based
-	- Memory-lapse
+	- Action-based: Tư duy đúng hành động sai
+	- Memory-lapse: Đãng trí
 - Sai sót
-	- Rule-based
-	- Knowledge
+	- Rule-based: Áp dụng máy móc
+	- Knowledge-based: Dùng tri thức sai để suy luận và hành động
+	- Memory-lapse: Đãng trí
 # Các đặc tính của máy tính
