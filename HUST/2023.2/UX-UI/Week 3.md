@@ -1,4 +1,0 @@
-- Tính tương tự
-- Tính gần nhau
-- Tính lên tục
-- Tính đóng
