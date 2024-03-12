@@ -1,0 +1,34 @@
+## ANN
+- Mô phỏng hệ thống neuron sinh học
+- Mỗi neuron
+	- Có một đặc tính vào/ra
+	- Là một hàm cục bộ
+- Giá trị đầu ra của neuron xác định bởi
+	- Đặc tính vào/ra
+	- Liên kết với neuron khác
+	- Các đầu vào bổ sung
+- ANN - Cấu trúc xử lý thông tin phân tán và song song ở mức cao
+	- Khả năng
+		- Học
+		- Nhớ lại
+		- Khái quát hóa
+	- Phụ thuộc vào
+		- Kiến trúc
+		- Đặc tính vào/ra
+		- Thuật toán học
+		- Dữ liệu học
+	- Cấu trúc hoạt động một neuron![[Pasted image 20240312231138.png]]
+		- Đầu vào tổng thể
+			- Thường là hàm tuyến tính
+		- Hàm tác động
+			- Giới hạn cứng
+			- Logic ngưỡng
+			- Sigmoid
+			- Hyperbolic tangent
+			- ReLU
+- Kiến trúc mạng                             ![[Pasted image 20240312231656.png]]
+	- Số lượng tín hiệu đầu vào và đầu ra
+	- Số lượng các tầng
+	- Số lượng neuron mỗi tầng
+	- Số lượng liên kết với mỗi neuron
+	- Cách liên kết neuron trong một tầng
