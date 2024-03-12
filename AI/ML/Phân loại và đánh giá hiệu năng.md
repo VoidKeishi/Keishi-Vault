@@ -14,7 +14,7 @@
 		- Chia thành 2 tập con không giao nhau: Tập train và tập test
 			- Khi D rất lớn thì cần giảm tỉ lệ test đi đáng kể để tận dụng D tốt hơn
 		- Khi D bé ->  Tập test bé -> Đánh giá không chính xác
-		- Chỉ phù hợp với D rất lớns
+		- Chỉ phù hợp với D rất lớn
 	- Chia đôi nhiều lần
 		- Mỗi bước lặp chọn một tỉ lệ nhất định của D để train, có thể dùng lấy mẫu phân tầng
 		- Giá trị lỗi ghi nhận được trong từng bước lặp sẽ lấy trung bình cộng để xác định giá trị lỗi tổng thể
