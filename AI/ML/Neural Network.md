@@ -27,8 +27,34 @@
 			- Hyperbolic tangent
 			- ReLU
 - Kiến trúc mạng                             ![[Pasted image 20240312231656.png]]
-	- Số lượng tín hiệu đầu vào và đầu ra
-	- Số lượng các tầng
-	- Số lượng neuron mỗi tầng
-	- Số lượng liên kết với mỗi neuron
-	- Cách liên kết neuron trong một tầng
+	- Kiến trúc mạng phụ thuộc vào
+		- Số lượng tín hiệu đầu vào và đầu ra
+		- Số lượng các tầng
+		- Số lượng neuron mỗi tầng
+		- Số lượng liên kết với mỗi neuron
+		- Cách liên kết neuron trong một tầng
+	- Liên kết đầy đủ
+	- Feed forward vs Feedback network 
+	- Recurrent networks
+- Cách huấn luyện
+	- Học tham số
+		- Cực tiểu hóa hàm lỗi
+		- Phương pháp dựa trên Gradient
+			- Backpropagation
+			- SGD
+			- Adam
+			- AdaGrad
+	- Học cấu trúc
+- Perceptron
+	- Chỉ gồm 1 neuron
+	- Dùng hàm tác động giới hạn chặt
+	- Đầu ra 1/-1
+	- Hàm lỗi                                ![[Pasted image 20240312234136.png]]
+	- Tối thiểu hóa = Gradient
+- ANN-BP
+	- BP biểu diễn bởi một hàm phân tách phi tuyến phức tạp
+	- Điều kiện sử dụng BP
+		- Cấu trúc mạng cố định
+		- Hàm tác động phải có đạo hàm liên tục
+	- Áp dụng GD để cập nhật trọng số
+	- Giải Gi
