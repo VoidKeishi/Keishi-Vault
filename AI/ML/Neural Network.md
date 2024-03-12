@@ -57,4 +57,9 @@
 		- Cấu trúc mạng cố định
 		- Hàm tác động phải có đạo hàm liên tục
 	- Áp dụng GD để cập nhật trọng số
-	- Giải Gi
+	- Giải thuật BP
+		- Lan truyền tiến tín hiệu
+		- Lan truyền ngược lỗi
+			- Tính lỗi
+			- Lan truyền ngược lỗi
+			- Tính giá trị gradient cục bộ
