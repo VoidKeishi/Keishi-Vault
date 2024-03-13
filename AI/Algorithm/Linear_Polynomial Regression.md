@@ -1,3 +1,0 @@
-[[Gradient descent]]
-[[Mean]]
-
