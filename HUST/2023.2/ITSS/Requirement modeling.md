@@ -5,7 +5,6 @@
 	- Yêu cầu chức năng
 	- Yêu cầu phi chức năng
 		- Hiệu năng
-		- 
 		- An toàn bảo mật
 		- Yêu cầu về mặt pháp lý
 		- Các ràng buộc

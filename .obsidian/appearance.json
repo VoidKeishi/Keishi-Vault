@@ -3,7 +3,7 @@
   "cssTheme": "Tokyo Night",
   "translucency": false,
   "nativeMenus": false,
-  "baseFontSize": 17,
+  "baseFontSize": 21,
   "baseFontSizeAction": true,
   "textFontFamily": "Arial"
 }
