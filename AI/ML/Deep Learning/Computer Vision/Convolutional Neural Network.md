@@ -5,3 +5,4 @@
 - Tổng quát: Là phép toán giữa 2 hàm số có đối số thực
 	- Ví dụ                                                 ![[Pasted image 20240319221149.png]]
 - Trong ứng dụng học máy
+	- ![[Pasted image 20240319221817.png]]
