@@ -4,10 +4,10 @@
 	- Instance-based/Model based learning
 # Supervised/Unsupervised
 ## Supervised learning
-- k-Nearest Neighbors
 - Linear Regression
 - Logistic Regression
 - Support Vector Machines (SVMs)
+- k-Nearest Neighbors
 - Decision Trees
 - Random Forests
 - Neural Network (Can be unsupervised - like autoenconders)
