@@ -1,7 +1,6 @@
-- 3 cách phân loại
-	- Supervised/Unsupervised
-	- Batch/Online learning
-	- Instance-based/Model based learning
+- Supervised/Unsupervised
+- Batch/Online learning
+- Instance-based/Model based learning
 # Supervised/Unsupervised
 ## Supervised learning
 - Linear Regression

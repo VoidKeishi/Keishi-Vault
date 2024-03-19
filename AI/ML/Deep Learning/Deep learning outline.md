@@ -1,0 +1,25 @@
+- Processing multimodal data
+- Neural network
+	- Architecture
+	- Component
+	- Training process
+	- Vanishing/Exploding Gradients
+	- Activation function
+	- Early stopping
+	- Batch-optimization
+	- Adam Optimization
+	- Exponentially weighted average
+	- Gradient Descent with momentum
+- Multi-layer perceptron
+- Convolutional Neural Network
+	- Padding, Convolution, Pooling
+	- ResNet
+	- Transfer learning, data augmentation
+	- YOLO
+	- Siamese Network
+- Sequential Model
+	- Word2Vec
+	- RNN, LSTM
+	- Beam search
+	- Attention model, Transformers
+- Evaluation/ Benchmark
