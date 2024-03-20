@@ -7,9 +7,9 @@
 	- Activation function
 	- Early stopping
 	- Batch-optimization
-	- Adam Optimization
-	- Exponentially weighted average
 	- Gradient Descent with momentum
+	- RMSProp, Adam Optimization
+	- Exponentially weighted average
 - Multi-layer perceptron
 - Convolutional Neural Network
 	- Padding, Convolution, Pooling
@@ -18,8 +18,8 @@
 	- YOLO
 	- Siamese Network
 - Sequential Model
-	- Word2Vec
 	- RNN, LSTM
+	- Word2Vec
 	- Beam search
 	- Attention model, Transformers
 - Evaluation/ Benchmark
