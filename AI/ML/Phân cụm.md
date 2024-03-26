@@ -57,3 +57,4 @@
 	- So sánh tốc độ hội tụ![[Pasted image 20240228132555.png]]
 	- Coordinate descent
 	- C -means
+	- Hirarchical clustering
