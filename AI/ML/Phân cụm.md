@@ -55,3 +55,4 @@
 					- Điều kiện của hệ số $\gamma$     ![[Pasted image 20240228132210.png]]
 					- Hay dùng![[Pasted image 20240228132446.png]]
 	- So sánh tốc độ hội tụ![[Pasted image 20240228132555.png]]
+	- Coordinate descent
