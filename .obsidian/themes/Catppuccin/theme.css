@@ -172,12 +172,12 @@ body {
   --graph-node-attachment: var(--color-yellow);
   /* Headings */
   --heading-formatting: var(--text-faint);
-  --h1-color: var(--color-purple);
-  --h2-color: var(--color-purple);
-  --h3-color: var(--color-purple);
-  --h4-color: var(--color-purple);
-  --h5-color: var(--color-purple);
-  --h6-color: var(--color-purple);
+  --h1-color: inherit;
+  --h2-color: inherit;
+  --h3-color: inherit;
+  --h4-color: inherit;
+  --h5-color: inherit;
+  --h6-color: inherit;
   --h1-font: inherit;
   --h2-font: inherit;
   --h3-font: inherit;
@@ -1371,12 +1371,12 @@ settings:
   --hex-peach: #fe640b;
   --hex-yellow: #df8e1d;
   --hex-green: #40a02b;
-  --hex-teal: #179299;
+  --hex-teal: #179299;#
   --hex-sky: #04a5e5;
   --hex-sapphire: #209fb5;
   --hex-blue: #1e66f5;
   --hex-lavender: #7287fd;
-}
+}#
 
 .theme-dark.ctp-frappe {
   --ctp-rosewater: 242, 213, 207;

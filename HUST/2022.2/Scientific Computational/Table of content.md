@@ -9,7 +9,7 @@
 - Phân tích LU
 - Sai số làm tròn
 - Phân tích ma trận
-# [[Chương 3]] Đường cong khớp
+# [[HUST/2022.2/Scientific Computational/Chương 3]] Đường cong khớp
 - Nội suy
 	- Lagrange: Dạng đa thức
 	- Spline: Dạng nhiều f(x)
