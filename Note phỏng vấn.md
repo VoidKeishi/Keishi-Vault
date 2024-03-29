@@ -7,7 +7,7 @@
 		- Học sâu bản chất
 - Project
 	- Thuật toán di truyền để giải TSP, áp dụng OOP
-	- Skill: git release flow, oop cơ bản, giúp code dễ dàng tái sử dụng và mở rộng, lập trình gui vs java fx
+	- Skill: git release flow, oop cơ bản, giúp code dễ dàng tái sử dụng và mở rộng, lập trình gui vs java fx, vẽ biểu đồ usecase với uml
 - Thực tập ở Sun* Việt Nam
 	- Bộ phận R&D AI
 	- Làm MC ảo đọc bản tin, hướng đến sản xuất reel
