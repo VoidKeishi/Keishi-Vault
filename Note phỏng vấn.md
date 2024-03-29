@@ -1,1 +1,16 @@
-# Thông tin bản thân
+- Thông tin cơ bản
+	- Tên
+	- SV năm 3 ngành CNTT Việt Nhật, hiện tại em đang tham gia một lab nghiên cứu về xử lý tiếng nói ở trường
+	- Điểm mạnh
+		- Tư duy phản biện
+		- Khả năng làm việc nhóm - Leadership
+		- Học sâu bản chất
+- Project
+	- Thuật toán di truyền để giải TSP, áp dụng OOP
+	- Skill: git release flow, oop cơ bản, giúp code dễ dàng tái sử dụng và mở rộng, lập trình gui vs java fx
+- Thực tập ở Sun* Việt Nam
+	- Bộ phận R&D AI
+	- Làm MC ảo đọc bản tin, hướng đến sản xuất reel
+	- Đóng góp vào module text to speech và voice conversion
+	- Công việc: Tìm hiểu mô hình, chạy thử, sửa lỗi, giúp model hoạt động với input tiếng Việt, tìm thêm data
+	- Kĩ năng học được: Git, gitlab, quy trình làm việc ở công ty, slack, học dùng linux, sửa lỗi trong project python,...
