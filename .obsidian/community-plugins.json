@@ -1,13 +1,12 @@
 [
   "obsidian-git",
-  "quickadd",
   "obsidian-mind-map",
   "obsidian-outliner",
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-excalidraw-plugin",
-  "table-editor-obsidian",
   "obsidian-icon-folder",
   "pdf-plus",
   "quick-latex",
-  "obsidian-advanced-new-file"
+  "obsidian-advanced-new-file",
+  "calendar"
 ]
