@@ -1,0 +1,2 @@
+- Empathy map: Dùng trong 2 giai đoạn
+	- 
