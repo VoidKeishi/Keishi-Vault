@@ -10,7 +10,7 @@
 	- Bài toán đánh giá: Đánh giá hiệu năng của phương pháp A chỉ dựa trên bộ dữ liệu D
 - Phương pháp đánh giá
 	- Chú ý: Tập test ở đây sử dụng để đánh giá -> chỉnh hyper parameter, tương đương với tập validate, được tách từ D.
-	- Chia đôi (Hold-out)
+	- [[Chia đôi (Hold-out)]]
 		- Chia thành 2 tập con không giao nhau: Tập train và tập test
 			- Khi D rất lớn thì cần giảm tỉ lệ test đi đáng kể để tận dụng D tốt hơn
 		- Khi D bé ->  Tập test bé -> Đánh giá không chính xác
