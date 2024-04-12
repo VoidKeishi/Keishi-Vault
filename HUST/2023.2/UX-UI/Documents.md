@@ -8,3 +8,4 @@
 	- Một empathy map xây dựng cho 1 feature 1 actor (1 tình huống)
 	- Số lượng thông thường: 7+-2 (Gom nhóm mang tính đại diện)
 	- Cần include vào mô tả về quy mô của app
+- 
