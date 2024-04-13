@@ -4,7 +4,7 @@
 4. Giá trị tổng sản phẩm: C + V + M
 5. Chi phí sản xuất: C + V
 6. Thời gian lao động trong ngày: $t+t^{'}$
-7. Tổng giá trị thặng dư: $m^{'}=\frac{m}{v}$(%), $m^{'}=\frac{t^{'}}{t}$ (%)
+7. Tổng giá trị thặng dư/tỷ suất giá trị thặng dư/trình độ bóc lột: $m^{'}=\frac{m}{v}$(%), $m^{'}=\frac{t^{'}}{t}$ (%)
 8. Khối lượng giá trị thặng dư: $M=m'*V$=> $m'=\frac{M}{V}$ (%)
 9. Tỷ suất lợi nhuận: $P=\frac{M}{C+V}$(%)
 10.  Cấu tạo hữu cơ tư bản: $\frac{C}{V}$
@@ -19,5 +19,5 @@ Trong đó
 - M: Khối lượng giá trị thặng dư
 - P': Tỉ suất lợi nhuận
 Lưu ý: 
-- Tránh nhầm lẫn giữa chi phí sản xuất (c+v) và chi phí tư liệu sản xuất
+- Tránh nhầm lẫn giữa chi phí sản xuất (c+v) và chi phí tư liệu sản xuất (c)
 - Tránh nhầm lẫn giữa khối lượng giá trị mới (V+M) và khối tượng giá trị thặng dư (M)
