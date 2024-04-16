@@ -4,4 +4,7 @@
 - Tác tử hợp lý
 	- Hành động hợp lý là hành động giúp cho tác tử đạt được thành công cao nhất đối với mục tiêu đặt ra
 	- Đánh giá hiệu quả hoạt động: Tiêu chuẩn đánh giá mức độ thành công trong hoạt động của một tác tử
-	- Tác tử hợp lý là tác tử lựa chọn
+	- Tác tử hợp lý là tác tử lựa chọn hành động giúp cực đại hóa hiệu quả hoạt động từ chuỗi nhận thức có được
+	- Hợp lý khác thông suốt
+- Tác tử tự trị: Là tác tử mà các hành động của nó quyết định bởi chính kinh nghiệm của nó + khả năng học và thích nghi
+- Môi trường - PEAS
