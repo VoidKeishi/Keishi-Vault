@@ -1,0 +1,7 @@
+- Tác tử: Là bất cứ thứ gì có khả năng cảm nhận môi trường qua sensor và hành động phù hợp theo môi trường đó bằng actuators - bộ phận hoạt động
+- Hàm tác tử: Là hàm ánh xạ từ lịch sử nhận thức tới các hành động
+- Chương trình tác tử: Hoạt động chạy dựa trên kiến trúc hàm tác tử
+- Tác tử hợp lý
+	- Hành động hợp lý là hành động giúp cho tác tử đạt được thành công cao nhất đối với mục tiêu đặt ra
+	- Đánh giá hiệu quả hoạt động: Tiêu chuẩn đánh giá mức độ thành công trong hoạt động của một tác tử
+	- Tác tử hợp lý là tác tử lựa chọn
