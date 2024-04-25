@@ -17,4 +17,5 @@
 # Dạng 3: Tích lũy tư bản và sự thất nghiệp
 ## Bài 46
 ### Tóm tắt
-- m
+- $m_{trc}=400\%$
+- $v_{trc}+m_{trc}$
