@@ -43,3 +43,4 @@
 ## Bài 49
 ## Bài 50
 ## Bài 51
+# Dạng 4: Kết hợp tích lũy tư bản và sản xuất GTTD tuyệt đối
