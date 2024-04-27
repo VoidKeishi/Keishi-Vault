@@ -16,4 +16,7 @@
 - Mount
 - Network
 - PID
-- 
+## Docker component
+- Image: Như DNA/Class/Template
+- Container: Như Cell/Object/Instance
+- Registry: Docker hub
