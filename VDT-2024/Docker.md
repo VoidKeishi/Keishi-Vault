@@ -11,4 +11,9 @@
 ## Containerization
 - Bỏ qua hypervisor
 - Isolate resource ở OS level
+## Linux namespace
+- IPC
+- Mount
+- Network
+- PID
 - 
