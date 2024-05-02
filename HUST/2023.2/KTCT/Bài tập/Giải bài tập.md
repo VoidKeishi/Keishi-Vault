@@ -63,4 +63,10 @@ Ta có
 - $\frac{C_{trc}}{V_{trc}}=\frac{7}{1}$ => $C_{trc}=7V_{trc}$
 Lại có
 - $m'_{trc}=\frac{t'_{trc}}{t_{trc}}=300$%
-- 
+- $t_{trc}+t'_{trc}=8h$
+=> $t_{trc}=2h,t'_{trc}=6h$
+Về sau, nhà tư bản kéo dài thêm thời gian làm việc của công nhân và không trả thêm lương, nên ta có
+- $t_{sau}+t'_{sau}=133\%(t_{trc}+t'_{trc})=133\%*8=10,64h$
+- $t_{sau}=t_{trc}=2h$
+- =>$t'_{sau}=8,64h$
+- =>$m'_$
