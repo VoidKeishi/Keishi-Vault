@@ -44,3 +44,23 @@
 ## Bài 50
 ## Bài 51
 # Dạng 4: Kết hợp tích lũy tư bản và sản xuất GTTD tuyệt đối
+## Bài 76
+### Tóm tắt
+Ban đầu
+- $m'_{trc}$= 300%
+- $t_{trc}+t'_{trc}$ = 8h
+- $\frac{C_{trc}}{V_{trc}}=\frac{7}{1}$
+Sau
+- $t_{sau}+t'_{sau}=133\%(t_{trc}+t'_{trc})$
+	- Không trả thêm lương
+- $C_{sau}+V_{sau}=1031000$ USD
+Hỏi
+- $m'_{sau},M$
+### Giải
+- Đặt ẩn $V_{trc}$
+Ta có
+- $m'_{trc}=\frac{M_{trc}}{V_{trc}}=300$% => $M_{trc}=3V_{trc}$
+- $\frac{C_{trc}}{V_{trc}}=\frac{7}{1}$ => $C_{trc}=7V_{trc}$
+Lại có
+- $m'_{trc}=\frac{t'_{trc}}{t_{trc}}=300$%
+- 

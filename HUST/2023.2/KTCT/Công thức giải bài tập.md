@@ -15,7 +15,7 @@ Trong đó
 - t: Thời gian lao động tất yếu
 - t': Thời gian lao động thặng dư
 - C: Tổng chi phí tư liệu sản xuất
-- V: Qũy lương doanh nghiệp trả cho người lao động
+- V: Quỹ lương doanh nghiệp trả cho người lao động
 - M: Khối lượng giá trị thặng dư
 - P': Tỉ suất lợi nhuận
 Lưu ý: 
