@@ -1,1 +1,2 @@
-- Expert: Comment kĩ giải thích vì sao, màn hình, phần tử nào bị lỗi/
+- Expert: Comment kĩ giải thích vì sao, màn hình, phần tử nào bị lỗi/vi phạm nguyên tắc
+- 
