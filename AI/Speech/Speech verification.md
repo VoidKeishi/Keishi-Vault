@@ -13,3 +13,4 @@
 - Utterance
 - CN celeb: 2000 speakers
 - Reproduce kết quả trước khi đề xuất cải tiến.
+- Khi thử nghiệm cải tiến 1 yếu tố, cố định các yếu tố khác
