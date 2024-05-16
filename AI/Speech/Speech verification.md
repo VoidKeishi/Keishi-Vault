@@ -12,4 +12,4 @@
 - Vox Tube
 - Utterance
 - CN celeb: 2000 speakers
-- Reproduc
+- Reproduce kết quả trước khi đề xuất cải tiến.
