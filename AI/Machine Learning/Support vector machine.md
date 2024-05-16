@@ -13,8 +13,8 @@
 			- $H_{-}$ đi qua $x^-$
 			- $H_+$ và $H_-$ song song với $H_0$
 	- Mức lề: Khoảng cách giữa 2 siêu phẳng lề
-		- $d_+$ là khoảng cáczh giữa $H_+$ và $H_0$
+		- $d_+$ là khoảng cách giữa $H_+$ và $H_0$
 		- $d_-$ là khoảng cách giữa $H_-$ và $H_0$
 		- Mức lề là $(d_{+}+d_{-})$
-		-  
+		-  Khoảng cc
 
