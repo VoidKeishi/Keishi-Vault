@@ -17,4 +17,9 @@
 		- Tính dùng được thể hiện ở đâu, giải quyết khó khăn gì, giải quyết như nào, có gì hơn ứng dụng hiện tại giáo viên có (trình bày theo các câu hỏi cần trả lời trong form, theo 1 kịch bản )
 		- Ghi nhận và xem thưởng, cảnh báo kpi
 		- Cần show được PDCA![[Pasted image 20240517150349.png]]
-	- 
+	- Nhóm 22:
+		- Phân biệt quản lý công việc và KPI
+			- Công việc là cái cần làm
+			- KPI là đánh giá của công việc
+		- Nhóm đang add KPI như công việc
+		- Dữ liệu fake: Không đánh giá được thực tế hoạt động 
