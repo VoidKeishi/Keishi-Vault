@@ -30,4 +30,7 @@
 		- Trang chưa đăng nhập nên có giới thiệu về tính năng
 		- Nên tách các trường thông tin ra thành các trang khác nhau ở phần đăng nhập
 		- Sidebar nên đủ các trang, khả năng điều hướng chưa tốt
-		- Cách thiết lập
+		- Cách thiết lập KPI sát với mô tả nhất
+		- 
+	- Nhóm 25
+		
