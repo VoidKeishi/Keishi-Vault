@@ -22,4 +22,12 @@
 			- Công việc là cái cần làm
 			- KPI là đánh giá của công việc
 		- Nhóm đang add KPI như công việc
-		- Dữ liệu fake: Không đánh giá được thực tế hoạt động 
+		- Dữ liệu fake: Không đánh giá được thực tế hoạt động
+		- Calendar tốt hơn nếu tô màu theo ngày
+		- Cảnh báo theo deadline
+		- Check theo empathy map 
+	- Nhóm Dung
+		- Trang chưa đăng nhập nên có giới thiệu về tính năng
+		- Nên tách các trường thông tin ra thành các trang khác nhau ở phần đăng nhập
+		- Sidebar nên đủ các trang, khả năng điều hướng chưa tốt
+		- Cách thiết lập
