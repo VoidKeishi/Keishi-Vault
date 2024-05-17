@@ -33,4 +33,13 @@
 		- Cách thiết lập KPI sát với mô tả nhất
 		- 
 	- Nhóm 25
-		
+		- Nên tạo thanh track đang ở đâu: Trang chủ > Biểu đồ 1
+		- 4 nội dung cần thiết kế
+			- Nội dung
+			- Kết xuất
+			- Điều hướng
+			- Hỗ trợ tương tác
+				- Làm thay
+				- Chỉ dẫn
+				- Cảnh báo
+		- KPI có thể vượt/đạt/chưa đạt
