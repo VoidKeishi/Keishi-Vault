@@ -1,0 +1,3 @@
+- Ứng dụng demo nhằm giải quyết khó khăn gì của người dùng ? Các trang / màn hình/ phần tử giao diện nào trực tiếp giải quyết khó khăn này ? Các điều hướng / tương tác / hỗ trợ tương tác nào trực tiếp giải quyết khó khăn này ?
+	- Quản lý KPI
+	- 
