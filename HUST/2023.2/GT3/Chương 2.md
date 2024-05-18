@@ -40,7 +40,11 @@
 	- Phương trình vi phân toàn phần
 		- Dạng: $Pdx+Qdy=0|P'_y=Q'_x$
 - Phương trình vi phân cấp 2
-	- Phương trình khuyết
+	- Dạng tổng quát: 
+	- Phương trình khuyết: $F(x,y,y',y'')=0$
+		- Khuyết y
+		- Khuyết x
+		- Khuyết y, y': Nguyên hàm 2 lần
 	- Phương trình tuyến tính dạng 
 	- Phương trình thuần nhất
 	- Phương trình không thuần nhất
