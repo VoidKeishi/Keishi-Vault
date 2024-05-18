@@ -23,11 +23,22 @@
 			- $y=f(y')$ -> Đặt $y' = t$ -> $x=\int{\frac{f'(t)}{t}dt}$, $y=f(t)$
 			- $y=f(t),y'=g(t)$ -> $x=\int{\frac{f'(t)}{g(t)}}dt$
 	- Phương trình biến số phân ly
-	- 
-	- Phuơng trình thuần nhất
+		- Dạng: $f(y)dy=g(x)dx$ hay $y'=\frac{g(x)}{f(x)}$
+		- Cách giải: Lấy nguyên hàm 2 vế
+	- Phuơng trình thuần nhất/đẳng cấp
+		- Dạng: $y'=F(\frac{y}{x})$
+		- Cách giải: Đặt $\frac{y}{x}=u$ rồi đưa về phương trình biến số phân ly
 	- Phương trình tuyến tính
+		- Dạng: $y'+p(x)y=q(x)$
+		- Cách giải: $y=e^{-\int{p(x)dx}}*[\int{q(x)*e^{\int{p(x)dx}}dx+C]}$
 	- Phương trình Bernouli
+		- Dạng: $y'+p(x)y=q(x)y^\alpha$
+		- Cách giải:
+			- Kiểm tra $y=0$ có là nghiệm
+			- Chia 2 vế cho $y^\alpha$
+			- Đặt $z=y^{1-\alpha}$ đưa về phương trình tuyến tính
 	- Phương trình vi phân toàn phần
+		- Dạng: $Pdx+Qdy=0|P'_y=Q'_x$
 - Phương trình vi phân cấp 2
 	- Phương trình khuyết
 	- Phương trình tuyến tính dạng 
