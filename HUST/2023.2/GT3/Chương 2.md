@@ -1,0 +1,17 @@
+- Phương trình vi phân cấp 1
+	- Dạng tổng quát
+	- Bài toán Cauchy
+	- Phương trình khuyết x, khuyết y
+	- Phương trình biến số phân ly
+	- Phuơng trình thuần nhất
+	- Phương trình tuyến tính
+	- Phương trình Bernouli
+	- Phương trình vi phân toàn phần
+- Phương trình vi phân cấp 2
+	- Phương trình khuyết
+	- Phương trình tuyến tính dạng 
+	- Phương trình thuần nhất
+	- Phương trình không thuần nhất
+	- Phương trình hệ số hằng
+	- Phương trình Euler
+- Hệ phương trình vi phân cấp 1

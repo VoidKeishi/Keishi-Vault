@@ -5,7 +5,7 @@
 - Vecto và ma trận
 - Xâu
 - Phép toán logic
-# [[Chương 2]]  Hệ phương trình
+# [[HUST/2022.2/Scientific Computational/Chương 2]]  Hệ phương trình
 - Phân tích LU
 - Sai số làm tròn
 - Phân tích ma trận
