@@ -1,8 +1,29 @@
+- Khái niệm mở đầu
+	- Phương trình vi phân: Dạng $F(x,y,y',y^{''},...,y^{(n)})=0$
+		- Nghiệm cần tìm là $y=y(x)$ thỏa mãn phương trình
+		- Cấp của phương trình vi phân là cấp cao nhất của đạo hàm của y
+		- Phương trình vi phân tuyến tính là phương trình có hàm số F dạng bậc nhất đối với y và các đạo hàm của nó
+	- Nghiệm
+		- Nghiệm tổng quát: Dạng hàm của x và C
+		- Nghiệm riêng: Dạng hàm của x và $C_0$ cụ thể
+		- Nghiệm kì dị: Không nằm trong họ nghiệm tổng quát
 - Phương trình vi phân cấp 1
-	- Dạng tổng quát
+	- Dạng tổng quát: $F(x,y,y')=0$
 	- Bài toán Cauchy
-	- Phương trình khuyết x, khuyết y
+		- $y'=f(x,y)$
+		- $f(x,y)$ liên tục trên D
+		- $y(x_0)=y_0$ và $(x_0,y_0)\in{D}$
+	- Phương trình khuyết
+		- Khuyết y: $F(x,y')=0$
+			- $y'=f(x)$ -> $y=\int{f(x)dx}$
+			- $x=f(y')$ -> Đặt $y'=t$ -> $x=f(t)$, $y=\int{tf'(t)dt}$
+			- $x=f(t)$,$y'=g(t)$ -> $x=f(t),y=\int{g(t)*f'(t)dt}$
+		- Khuyết x: $F(y,y')=0$
+			- $y'=f(y)$ -> $\frac{dy}{dx}=f(y)$ -> $x=\int{\frac{1}{f(y)}}dy$
+			- $y=f(y')$ -> Đặt $y' = t$ -> $x=\int{\frac{f'(t)}{t}dt}$, $y=f(t)$
+			- $y=f(t),y'=g(t)$ -> $x=\int{\frac{f'(t)}{g(t)}}dt$
 	- Phương trình biến số phân ly
+	- 
 	- Phuơng trình thuần nhất
 	- Phương trình tuyến tính
 	- Phương trình Bernouli
