@@ -39,6 +39,7 @@
 			- Đặt $z=y^{1-\alpha}$ đưa về phương trình tuyến tính
 	- Phương trình vi phân toàn phần
 		- Dạng: $Pdx+Qdy=0|P'_y=Q'_x$
+		- Cách giải: 
 - Phương trình vi phân cấp 2
 	- Dạng tổng quát: 
 	- Phương trình khuyết: $F(x,y,y',y'')=0$
