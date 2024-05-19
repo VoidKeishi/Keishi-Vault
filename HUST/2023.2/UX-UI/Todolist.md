@@ -1,8 +1,19 @@
 - Thiết kế
 	- Chức năng
-		- Quản lý KPI: Tham khảo nhóm 23
-			- KPI đã định nghĩa sẵn: Giảng dạy, nghiên cứu, phục vụ
-			- KPI tự định nghĩa -> Cần tìm các thuộc tính định nghĩa nên 1 KPI
+		- Quản lý KPI:
+			- Tạo KPI
+				- Cách thức
+					- Tự tạo
+					- Từ hệ thống
+					- Upload file excel
+				- Phân cấp
+					- KPI 1
+						- Mục tiêu 1
+							- Công việc 1
+								- 
+						- Mục tiêu 2
+					- KPI 2
+			- 
 			- Đồng bộ với file excel
 			- Thông báo
 		- Quản lý công việc
