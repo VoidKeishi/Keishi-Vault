@@ -11,7 +11,7 @@
 			- Thông báo
 		- Ghi nhận phản hồi
 	- Điều hướng
-		- hom breadcrumb
+		- home breadcrumb
 	- Hỗ trợ tương tác
 		- Làm thay
 		- Chỉ dẫn
