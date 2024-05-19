@@ -26,12 +26,11 @@
 		- Calendar tốt hơn nếu tô màu theo ngày
 		- Cảnh báo theo deadline
 		- Check theo empathy map 
-	- Nhóm Dung
+	- Nhóm 23
 		- Trang chưa đăng nhập nên có giới thiệu về tính năng
 		- Nên tách các trường thông tin ra thành các trang khác nhau ở phần đăng nhập
 		- Sidebar nên đủ các trang, khả năng điều hướng chưa tốt
 		- Cách thiết lập KPI sát với mô tả nhất
-		- 
 	- Nhóm 25
 		- Nên tạo thanh track đang ở đâu: Trang chủ > Biểu đồ 1
 		- 4 nội dung cần thiết kế

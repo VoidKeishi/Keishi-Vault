@@ -1,0 +1,34 @@
+- Thiết kế
+	- Chức năng
+		- Quản lý KPI: Tham khảo nhóm 23
+			- KPI đã định nghĩa sẵn: Giảng dạy, nghiên cứu, phục vụ
+			- KPI tự định nghĩa -> Cần tìm các thuộc tính định nghĩa nên 1 KPI
+			- Đồng bộ với file excel
+			- Thông báo
+		- Quản lý công việc
+			- Đồng bộ với các app todolist, calendar khác
+			- Tự động add lịch
+			- Thông báo
+		- Ghi nhận phản hồi
+	- Điều hướng
+		- hom breadcrumb
+	- Hỗ trợ tương tác
+		- Làm thay
+		- Chỉ dẫn
+		- Cảnh báo
+	- Tiểu tiết
+		- Nhất quán ngôn ngữ
+		- Thêm logo
+		- Màu
+			- Màu chủ đạo chưa nổi bật
+			- Check các màu còn lại có nhất quán
+		- Font
+			- Đồng bộ font
+			- Kích cỡ chữ (menu quá bé)
+		- Check lại form đánh giá 1 và tự trả lời các câu hỏi
+		- Làm script thuyết trình
+- Mẫu thử
+	- Làm dữ liệu real
+	- Web
+		- 
+	- Mobile
