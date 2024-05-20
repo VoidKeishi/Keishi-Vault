@@ -1,0 +1,1 @@
+Tác động toán tử laplace vào 

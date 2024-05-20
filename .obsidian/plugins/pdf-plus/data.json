@@ -197,7 +197,7 @@
   "clickThumbnailWithModifierKey": true,
   "focusEditorAfterAutoPaste": true,
   "respectCursorPositionWhenAutoPaste": true,
-  "autoCopy": true,
+  "autoCopy": false,
   "autoFocus": false,
   "autoPaste": false,
   "autoFocusTarget": "last-active-and-open-then-last-paste",
