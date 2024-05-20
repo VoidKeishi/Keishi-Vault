@@ -1,3 +1,3 @@
 # [[Chuỗi]]
 # [[Phương trình vi phân]]
-# [[Laplace]]
+# [[HUST/2022.2/Calculus/Laplace]]
