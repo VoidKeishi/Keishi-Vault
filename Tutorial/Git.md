@@ -42,38 +42,29 @@ git diff HEAD
 ```
 ### How to check the differences between two commits
 ```bash
- git diff <commit_id_1> <commit_id_2>
+git diff <commit_id_1> <commit_id_2>
 ```
 ### Show graph of commits
-
-  
-
-    - git log --graph --oneline
-
-  
-
+```bash
+git log --graph --oneline
+```
+### Git rebase
+```bash
+git pull --rebase
+```
+- If get conflict
+```bash
+git rebase --abort
+```
 ## Github
-
-  
-
 ### How to synchronize local folder with remote repository on GitHub
-
-  
-
 First create repository on GitHub
 
   
 
 If start from GitHub:
-
-  
-
 - Clone from repository on GitHub:
-
-  
-
         git clone <https://github.com/username/remote-repository.git>
-
 - Add origin to repository on GitHub:
 
   
