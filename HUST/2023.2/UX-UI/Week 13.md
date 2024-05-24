@@ -1,0 +1,1 @@
+- Folder tên, logo, trang landing page (hoặc homepage), dashboard
