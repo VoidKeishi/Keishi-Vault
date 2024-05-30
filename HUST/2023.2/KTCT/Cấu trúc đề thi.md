@@ -1,0 +1,7 @@
+- Câu 1: Lý luận KTCT Mac-Lenin
+	- Chương 2,3,4
+- Câu 2: Bài tập
+	- 4 dạng bài tập chương 3
+- Câu 3: Lý luận KTCT tại Việt Nam
+	- Chương 5,6
+	- 4 câu
