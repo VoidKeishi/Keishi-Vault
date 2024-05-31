@@ -1,0 +1,6 @@
+- Giải quyết khó khăn gì
+- Tính dùng được
+	- Number of power features
+	- Learnability
+- Trải nghiệm người dùng
+	- 
