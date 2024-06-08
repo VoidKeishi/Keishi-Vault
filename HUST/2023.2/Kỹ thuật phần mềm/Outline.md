@@ -46,5 +46,59 @@
 	- Vòng đời phát triển phần mềm
 		- Là quy trình về chi phí và thời gian mà các nhóm phát triển sử dụng để thiết kế và xây dựng phần mềm
 - Các giai đoạn
-	- Các bước
-		- Yêu
+	- Yêu cầu
+	- Thiết kế
+	- Phát triển - mã hóa
+	- Kiểm tra - kiểm thử
+	- Bảo trì
+- Chú ý
+	- Bảo mật
+	- Khác biệt của vòng đời phát triển phần mềm
+		- Vòng đời phát triển của hệ thống: Bao gồm vấn đề về phần cứng
+		- Quản lý vòng đời ứng dụng: Phát triển và vận hành, bảo trì (rộng hơn VĐPTPM)
+# Quy trình phát triển
+- Đặc thù: Sự hài lòng của khách hàng là thước đo quan trọng nhất trong thành công của dự án phần mềm”
+- Quy trình thực tế
+	- Đặc tính chất lượng![[Pasted image 20240608092459.png]]
+	- KIểm soát chất lượng
+		- Xác thực các yêu cầu. 
+		- Xác nhận hệ thống và thiết kế chương trình. 
+		- Kiểm tra khả năng sử dụng. 
+		- Kiểm tra chương trình. 
+		- Kiểm tra chấp nhận. 
+		- Sửa lỗi và bảo trì.
+	- Các bước cơ bản
+		- Thu thập yêu cầu
+		- Phân tích
+		- Thiết kế
+		- Phát triển
+		- Kiểm thử
+		- Triển khai
+		- Bảo trì
+	- Các quy trình có usecase riêng
+# Mô hình phát triển phần mềm
+- Thác nước
+	- Thác nước sửa đổi
+- Mẫu thử
+- Tăng trưởng: Lặp và tăng tiến
+	- Mô hình gia tăng: Thác nước sửa đổi + mẫu thử
+	- Mô hình RAD: Chia thành các team và làm song song
+	- Mô hình xoắn ốc
+# Agile 
+- Khái niệm: Agile là một phương thức thực hiện các dự án công nghệ phần mềm, phương thức này khuyến khích sự thay đổi khi phát triển dự án và đưa sản phẩm đến tay người dung sao cho nhanh nhất
+- Tuyên ngôn của Agile
+	- Các cá nhân và tương tác qua các quy trình và công cụ
+	- Phần mềm chạy tốt hơn là tài liệu đầy đủ/toàn diện
+	- Cộng tác với khách hàng hơn là thương thảo hợp đồng
+	- Đáp ứng với thay đổi hơn là bám sát kế hoạch
+- Đặc trưng
+	- Lặp
+	- Tăng trưởng
+	- Thích ứng/thích nghi
+	- Nhóm tự tổ chức và liên chức năng
+	- Quản lý tiến trình thực nghiệm
+	- Giao tiếp trực tiếp
+	- Phát triển dựa trên giá trị
+- 12 nguyên tắc![[Pasted image 20240608094244.png]]
+- ![[Pasted image 20240608094257.png]]
+- 
