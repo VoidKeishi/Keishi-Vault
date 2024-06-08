@@ -1,0 +1,50 @@
+# Khái niệm và các đặc trưng
+- Định nghĩa phần mềm: Bao gồm
+	- Các lệnh (chương trình máy tính) cung cấp những chức năng và kết quả mong muốn khi được thực hiện.
+	- Các cấu trúc dữ liệu làm cho chương trình thao tác với các thông tin tương ứng.
+	- Các tài liệu mô tả thao tác và cách sử dụng chương trình.
+- Đặc trưng của phần mềm
+	- Hàng hóa vô hình
+	- Xu hướng tốt hơn sau phát hiện và sửa lỗi
+	- Chứa lỗi tiềm tàng
+	- Dễ phát hiện lỗi bởi người ngoài
+	- Chức năng có xu hướng thay đổi
+- Phân loại phần mềm
+	- Ứng dụng: Xử lý nghiệp vụ
+	- Hệ thống: Trao đổi với phần cứng
+# Công nghệ phần mềm
+- Công nghệ phần mềm là lĩnh vực khoa học về các phương pháp luận, kỹ thuật và công cụ tích hợp trong quy trình sản xuất và vận hành phần mềm nhằm tạo ra phần mềm với chất lượng mong muốn
+- Mục tiêu
+- Thành phần
+	- Quy trình
+	- Phương pháp
+	- Công cụ
+- Giai đoạn
+	- Định nghĩa
+	- Phát triển
+	- Hỗ trợ
+		- Sửa chữa
+		- Thích ứng
+		- Cải tiến
+		- Phòng ngừa
+- Vai trò
+	- Cung cấp quy trình dễ hiểu để phát triển
+	- Dễ bảo trì, thay đổi
+	- Phần mềm chắc chắn, ổn định
+	- Lặp lại và quản lý được
+- Các vấn đề
+	- Đối tượng của phần mềm
+		- Client: Yêu cầu và cung cấp tài nguyên phát triển
+		- Customer: Mua để làm giải pháp
+		- User: Người sử dụng
+	- Cân bằng tính năng, chi phí, thời gian
+	- Rủi ro 
+# Vòng đời phần mềm
+- Khái niệm mở đầu
+	- Vòng đời phần mềm
+		- Tính từ lúc được tạo ra, đến khi loại bỏ không dùng
+	- Vòng đời phát triển phần mềm
+		- Là quy trình về chi phí và thời gian mà các nhóm phát triển sử dụng để thiết kế và xây dựng phần mềm
+- Các giai đoạn
+	- Các bước
+		- Yêu
