@@ -8,3 +8,4 @@
 	- Thao tác dòng lệnh trên giao diện.  
 	- Tùy chọn mở nhiều terminal, cấu hình layout.
 - Tham khảo: Terminator
+- 
