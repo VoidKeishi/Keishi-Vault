@@ -5,5 +5,5 @@
 	- Phương tiện cất trữ
 - Vì sao chức năng thước đo giá trị của tiền không cần gắn với vàng/bạc:
 	- Vì có thể dùng tiền mặt (tiền pháp định)
-- Tại sao quy luật giá trị là quy luật cơ bản của nền sản xuất hàng hóa aka tác dụng0....................+
+- Tại sao quy luật giá trị là quy luật cơ bản của nền sản xuất hàng hóa aka tác dụng
 - Câu 17 không kẻ bảng
