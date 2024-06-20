@@ -1,0 +1,9 @@
+- Mối liên hệ giữa 2 thuộc tính của hàng hóa: Thống nhất, mâu thuẫn 
+- Tiền giấy, bitcoin có mang bản chất của tiền tệ không?
+	- Không, chỉ có vàng/bạc
+- Chức năng nào của tiền cần gắn với vàng/bạc: 
+	- Phương tiện cất trữ
+- Vì sao chức năng thước đo giá trị của tiền không cần gắn với vàng/bạc:
+	- Vì có thể dùng tiền mặt (tiền pháp định)
+- Tại sao quy luật giá trị là quy luật cơ bản của nền sản xuất hàng hóa aka tác dụng
+- 
