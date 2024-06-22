@@ -39,9 +39,38 @@
 		- Tốn kém chi phí
 - Khung
 	- (Object, Property, Value)
-	- Khung tổng quát và khung cụ thể: Lớp với đối tượng
 	- Thuộc tính và giá trị: Slot và filler
-	- Khung đơn: Có thuộc tính instance of chỉ khung tổng quát
-	- Khung tổng quát: Có thuộc tính is-a để chỉ quan hệ với các khung khác
-	- IF-NEEDED: Liên kết với hàm lấy filler
-	- IF-ADDED: 
+	- Loại khung
+		- Khung đơn (Object): Có thuộc tính instance of chỉ khung tổng quát
+		- Khung tổng quát (Class): Có thuộc tính is-a để chỉ quan hệ với các khung khác
+	- Thủ tục
+		- IF-NEEDED: Liên kết với hàm lấy filler
+		- IF-ADDED: Được gán lại giá trị dựa trên giá trị gán của thuộc tính khác
+	- Ưu điểm
+		- Kết hợp tri thức khai báo và thủ tục
+		- Có cấu trúc phân cấp
+		- Thiết lập ràng buộc với giá trị
+		- Lưu trữ giá trị mặc định
+	- Nhược điểm
+		- Cần để ý việc phân loại khung
+		- Chi phi cao cho thiết kế thủ tục
+		- Không có cấu trúc dữ liệu phù hợp, hiệu quả
+- Mạng ngữ nghĩa: Graph based
+	- Gồm nút và liên kết: Khái niệm và quan hệ
+	- Quá trình suy diễn
+		- Tác động
+		- Kế thừa
+	- Hai kiểu liên kết
+		- Kế thừa: Quan hệ giữa các lớp hoặc giữa lớp và đối tượng - IS A và INSTANCE-OF
+		- Cụ thể: HAS, CAN, HAS-PART, CAUSES, HAS-COLOR, …
+	- Lan truyền tác động
+		- Elephant eats Plant ![[Pasted image 20240622224528.png]]
+	- Tính kế thừa
+		- Kế thừa toàn bộ
+		- Kế thừa mặc định: Kế thừa các thông tin không mâu thuẫn
+	- Ngữ nghĩa
+		- Tính "well-definedness" của mạng ngữ nghĩa dựa vào tập nút và các loại liên kết
+		- Cùng một mạng ngữ nghĩa, các hệ thống khác nhau có cách diễn giải khác nhau
+		- Liên kết
+			- Xác nhận: Lưu thông tin dạng instance
+			- Định nghĩa: Lưu
