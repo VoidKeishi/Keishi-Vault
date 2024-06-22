@@ -11,4 +11,5 @@
 	- Điều kiện không cần dùng OR
 	- Kết luận không cần dùng AND
 - Các kiểu luật
-- 
+	- Liên kết
+	- 
