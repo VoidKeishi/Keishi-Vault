@@ -11,5 +11,37 @@
 	- Điều kiện không cần dùng OR
 	- Kết luận không cần dùng AND
 - Các kiểu luật
-	- Liên kết
-	- 
+	- Liên kết: Điều kiện đi kèm với kết luận
+	- Nguyên nhân: Điều kiện gây ra kết luận
+	- Tình huống và hành động: Nếu điều kiện thì làm kết luận
+	- Logic: Điều kiện suy ra kết luận
+- Chiến lược giải quyết xung đột
+	- Xung đột: Khi nhiều hơn một luật có thể áp dụng
+	- Các chiến lược
+		- Áp dụng luật đầu tiên
+		- Không dùng luật sinh ra kết quả có trong bộ nhớ
+		- Áp dụng luật nhiều điều kiện nhất
+		- Áp dụng luật gần thời điểm hiện tại nhất
+		- Áp dụng luật có độ tin cậy cao nhất
+		- Kết hợp các chiến lược
+- RBS
+	- Cấu tạo
+		- Working memory
+		- Rule memory
+		- Interpreter
+	- Ưu điểm
+		- Cách biểu diễn phù hợp
+		- Dễ hiểu
+		- Sử dụng khai báo
+	- Nhược điểm
+		- Khả năng biểu diễn giới hạn
+		- Tương tác giữa các luật và trật tự luật gây ra hiệu ứng không mong muốn
+		- Tốn kém chi phí
+- Khung
+	- (Object, Property, Value)
+	- Khung tổng quát và khung cụ thể: Lớp với đối tượng
+	- Thuộc tính và giá trị: Slot và filler
+	- Khung đơn: Có thuộc tính instance of chỉ khung tổng quát
+	- Khung tổng quát: Có thuộc tính is-a để chỉ quan hệ với các khung khác
+	- IF-NEEDED: Liên kết với hàm lấy filler
+	- IF-ADDED: 
