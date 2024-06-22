@@ -73,4 +73,39 @@
 		- Cùng một mạng ngữ nghĩa, các hệ thống khác nhau có cách diễn giải khác nhau
 		- Liên kết
 			- Xác nhận: Lưu thông tin dạng instance
-			- Định nghĩa: Lưu
+			- Định nghĩa: Lưu ý nghĩa khái niệm, không đổi
+	- Ưu điểm
+		- Trực quan
+		- Phù hợp với bài toán biểu diễn tri thức ở dạng phân cấp khái niệm
+		- Hỗ trợ suy diễn nhanh
+		- Tập trung vào thành phần chính và liên kết giữa chúng
+	- Nhược điểm
+		- Không tồn tại cách diễn dịch chung
+		- Khó biểu diễn thông tin phủ định hoặc tuyển (OR)
+		- Khó khăn trong việc lựa chọn thành phần cơ bản
+		- Khả năng suy diễn hạn chế
+		- Tốn kém khi xây dựng
+- Ontology
+	- Biểu diễn
+		- Đối tượng và/hoặc khái niệm
+		- Thuộc tính và quan hệ
+	- Các khía cạnh
+		- Nội dung
+		- Phân loại ontology
+			- Dựa quan hệ phân loại
+			- Dựa trên định nghĩa
+			- Dựa trên khả năng diễn đạt
+			- Hướng quá trình hay hướng đối tượng
+		- Mục đích
+			- Chia sẻ 
+			- Sử dụng lại
+	- Xây dựng ontology
+		- Xác định phạm vi
+		- Cân nhắc dùng ontology có sẵn
+		- Liệt kê khái niệm
+		- Định nghĩa sự phân loại
+		- Định nghĩa thuộc tính
+		- Định nghĩa các khía cạnh
+		- Xác định ví dụ cụ thể
+		- Kiểm tra bất thường
+	- 
