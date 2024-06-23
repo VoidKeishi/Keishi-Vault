@@ -1,4 +1,9 @@
 - Ta nói một máy tính có khả năng học nếu nó tự cải thiện hiệu suất hoạt động P cho một công việc T cụ thể, dựa vào kinh nghiệm E của nó
 - Một bài toán học máy có thể biểu diễn bằng một bộ (T,P,E)
 - Máy học một ánh xạ $f: x \rightarrow y$
-	- x: quan sát, 
+	- x: quan sát, kinh nghiệm
+	- y: phán đoán, tri thức mới, kinh nghiệm mới
+- Phân loại
+	- Hồi quy: y là giá trị thực
+	- Phân loại: y thuộc tập rời rạc
+- 
