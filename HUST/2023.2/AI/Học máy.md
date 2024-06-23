@@ -19,4 +19,5 @@
 - Overfit vs underfit
 	- Học vẹt vs học chưa đủ
 # KNN
-- 
+# Naive Bayes
+
