@@ -1,0 +1,37 @@
+- Đánh giá hiệu năng hệ thống học máy
+	- Phân loại
+		- Đánh giá lý thuyết
+			- Tốc độ học, thời gian học
+			- Lượng ví dụ
+			- Độ chính xác
+			- Khả năng chống nhiễu
+		- Đánh giá thực nghiệm
+			- Tổng hợp đánh giá từ các quan sát
+	- Bài toán đánh giá: Đánh giá hiệu năng của phương pháp A chỉ dựa trên bộ dữ liệu D
+- Phương pháp đánh giá
+	- Chú ý: Tập test ở đây sử dụng để đánh giá -> chỉnh hyper parameter, tương đương với tập validate, được tách từ D.
+	- [[Chia đôi (Hold-out)]]
+		- Chia thành 2 tập con không giao nhau: Tập train và tập test
+			- Khi D rất lớn thì cần giảm tỉ lệ test đi đáng kể để tận dụng D tốt hơn
+		- Khi D bé ->  Tập test bé -> Đánh giá không chính xác
+		- Chỉ phù hợp với D rất lớn
+	- Chia đôi nhiều lần
+		- Mỗi bước lặp chọn một tỉ lệ nhất định của D để train, có thể dùng lấy mẫu phân tầng
+		- Giá trị lỗi ghi nhận được trong từng bước lặp sẽ lấy trung bình cộng để xác định giá trị lỗi tổng thể
+		- Mỗi bước lặp dùng tập test khác nhau, một số quan sát được sử dụng nhiều lần trong tập test này 
+		- Sử dụng khi D nhỏ
+	- Lấy mẫu phân tầng (Stratified sampling)
+		- Áp dụng cho bài toán phân lớp có D nhỏ và không cân xứng giữa các nhãn
+		- Tỉ lệ các lớp trong train và test phải xấp xỉ như trong D
+	- Đánh giá chéo: Tránh trùng lặp trong tập test
+		- K-fold
+			- Chia thành k tập con không giao nhau
+			- Lặp k lần, mỗi lần dùng một tập con làm kiểm thử, (k-1) tập còn lại dùng để train
+			- Tính trung bình k giá trị lỗi -> lỗi tổng thể
+			- Phù hợp với tập D vừa và nhỏ
+		- Leave-one-out
+			- Là K-fold với k = |D|
+			- Phù hợp với tập D rất nhỏ
+	- Bootstrap: Lấy mẫu có lặp lại để tạo nên tập train
+- Lựa chọn tham số
+	- Từ một tập học D, cần lựa chọn bộ tham số (model)  trong phương pháp học A sao cho hệ thống được huấn luyện tốt nhất từ D
