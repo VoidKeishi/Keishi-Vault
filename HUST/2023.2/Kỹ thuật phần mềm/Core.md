@@ -1,3 +1,0 @@
-- Định nghĩa phần mềm
-- Đặc trưng phần mềm
-- 
