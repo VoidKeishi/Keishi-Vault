@@ -5,7 +5,14 @@
 			- Phù hợp với nền sản xuất lớn (mở rộng quy mô cung và cầu)
 			- Phá vỡ sự bảo thủ, trì tệ và khép kín của các hoạt động kinh tế
 	- Điều kiện tồn tại và phát triển của nền sản xuất hàng hóa
-		- 
+		- Phân công lao động xã hội đạt trình độ nhất định
+			- Khái niệm
+				- Là sự phân chia nguồn lực lao động sản xuất của xã hội vào các ngành kinh tế theo hướng chuyên môn hóa, tuân theo các quy luật khách quan
+			- Tác dụng: Tính chuyên môn hóa sản xuất ngày càng cao
+				- Thúc đẩy sản xuất phát triển, năng suất lao động tăng lên. Sản phẩm làm ra dư thừa so với nhu cầu tiêu dùng của nhà sản xuất, khi đó sản phẩm được đem ra trao đổi, mua bán.
+				- 
+		- Sự tách biệt tương đối về mặt kinh tế giữa những nhà sản xuất
+			- 
 	- Mâu thuẫn cơ bản của sản xuất hàng hóa
 	- Ưu thế của sản xuất hàng hóa
 - Thuộc tính của hàng hóa
