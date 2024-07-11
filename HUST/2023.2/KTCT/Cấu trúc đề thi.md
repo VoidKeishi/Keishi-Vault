@@ -5,3 +5,4 @@
 - Câu 3: Lý luận KTCT tại Việt Nam
 	- Chương 5,6
 	- 4 câu
+- ![[bd751c61-5e63-49b4-b57a-6afd3ecf4ed2.jpg]]
