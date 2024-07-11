@@ -1,4 +1,5 @@
-## Nền sản xuất hàng hóa
+# Chương 2 (1-14)
+## 1 Nền sản xuất hàng hóa
 - Khái niệm
 	- Là *mô hình tổ chức sản xuất kinh tế*. Sản phẩm được sản xuất ra nhằm *mục đích trao đổi, bán ra thị trường*
 	- Tác dụng
@@ -40,7 +41,7 @@
 	- Thúc đẩy hợp tác kinh tế giữa các quốc gia
 		- Tạo nên sự giao lưu giữa các nền văn hóa
 		- Tiếp thu các giá trị văn minh nhân loại, xây dựng nền văn hóa tiên tiến
-## Thuộc tính của hàng hóa
+## 2 Thuộc tính của hàng hóa
 - Khái niệm
 	- Là kết quả từ lao động sản xuất của con người
 	- Có thể thỏa mãn nhu cầu tiêu dùng của con người
@@ -71,3 +72,33 @@
 		- Giá trị là nội dung, giá cả là hình thức thể hiện bằng tiền của giá trị
 	- Giá trị hàng hóa phản ánh quan hệ giữa các nhà sản xuất
 - Các nhân tố ảnh hưởng đến lượng giá trị
+	- Lượng giá trị hàng hóa được đo bằng thời gian lao động xã hội cần thiết, được hiểu là thời gian cần thiết để sản xuất ra hàng hóa trong *điều kiện trung bình của xã hội*. Gồm có:
+		- Mức độ thành thạo của người lao động
+		- Trình độ kỹ thuật, công nghệ, thiết bị
+		- Mọi điều kiện khác là trung bình, không thuận lợi, bất lợi
+	- Các nhân tố ảnh hưởng đến lượng giá trị do C.Mác đã chỉ ra
+		- Năng suất lao động
+		- Cường độ lao động
+		- Mức độ phức tạp của lao động
+## 3 Nguồn gốc, bản chất và các chức năng của tiền
+## 4 Vì sao tiền là hàng hóa đặc biệt
+## 5 Quy luật giá trị
+## 6 Cơ chế thị trường và vai trò của các chủ thể tham gia thị trường
+# Chương 3 (Sau cùng) (14-25)
+## 7 Sức lao động và tiền công trong CNTB
+## 8 Nguồn gốc và bản chất giá trị thặng dư
+## 9 Phương pháp sản xuất giá trị thặng dư tuyệt đối và tương đối
+## 10 Quy luật tích lũy tư bản, tập trung tư bản
+## 11 Quy luật cấu tạo tư bản ngày càng tăng và vấn đề thất nghiệp
+## 12 Quy luật giá trị thặng dư
+## 13 Sự hoạt động của quy luật giá trị và giá trị thặng dư trong CNTB tư do cạnh tranh
+# Chương 4 (25-32)
+## Đặc điểm sự tập trung sản xuất và hình thành tổ chức độc quyền
+## Đặc điểm xuất khẩu tư bản
+## Chủ nghĩa tư bản độc quyền nhà nước
+# Chương 5 (32-37)
+## Đặc trưng của nền kinh tế thị trường định hướng XHCN ở VN
+## Thể chế thị trường định hướng XHCN
+## Quan hệ lợi ích kinh tế
+# Chương 6 (37-40)
+## Đặc trưng của cách mạng khoa học công nghệ hiện đại và nội dung công nghiệp hóa của VN

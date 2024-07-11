@@ -1,3 +1,4 @@
+## Công thức
 1. Giá trị mới của một sản phẩm (do 1 công nhân tạo ra): $v+m$
 2. Khối lượng giá trị mới (do toàn bộ công nhân tạo ra): V + M
 3. Giá trị của một đơn vị sản phẩm: c + v + m
@@ -21,3 +22,4 @@ Trong đó
 Lưu ý: 
 - Tránh nhầm lẫn giữa chi phí sản xuất (c+v) và chi phí tư liệu sản xuất (c)
 - Tránh nhầm lẫn giữa khối lượng giá trị mới (V+M) và khối tượng giá trị thặng dư (M)
+## Dạng
