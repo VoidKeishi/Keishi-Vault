@@ -80,9 +80,9 @@
 		- Năng suất lao động
 		- Cường độ lao động
 		- Mức độ phức tạp của lao động
-## 3 Nguồn gốc, bản chất và các chức năng của tiền
-## 4 Vì sao tiền là hàng hóa đặc biệt
-## 5 Quy luật giá trị
+## 3 Nguồn gốc, bản chất và các chức năng của tiền (\*)
+## 4 Vì sao tiền là hàng hóa đặc biệt (\*)
+## 5 Quy luật giá trị 
 ## 6 Cơ chế thị trường và vai trò của các chủ thể tham gia thị trường
 # Chương 3 (Sau cùng) (14-25)
 ## 7 Sức lao động và tiền công trong CNTB
@@ -93,12 +93,38 @@
 ## 12 Quy luật giá trị thặng dư
 ## 13 Sự hoạt động của quy luật giá trị và giá trị thặng dư trong CNTB tư do cạnh tranh
 # Chương 4 (25-32)
-## Đặc điểm sự tập trung sản xuất và hình thành tổ chức độc quyền
+## Đặc điểm sự tập trung sản xuất và hình thành tổ chức độc quyền (\*)
 ## Đặc điểm xuất khẩu tư bản
-## Chủ nghĩa tư bản độc quyền nhà nước
+## Chủ nghĩa tư bản độc quyền nhà nước (\*)
 # Chương 5 (32-37)
 ## Đặc trưng của nền kinh tế thị trường định hướng XHCN ở VN
+- 
 ## Thể chế thị trường định hướng XHCN
 ## Quan hệ lợi ích kinh tế
 # Chương 6 (37-40)
 ## Đặc trưng của cách mạng khoa học công nghệ hiện đại và nội dung công nghiệp hóa của VN
+- Khái quát thành tựu các cuộc cách mạng công nghiệp trong lịch sử nhân loại
+	- Khái niệm cách mạng công nghiệp
+		- Nội dung: Là sự phát triển về chất của *tư liệu lao động*
+		- Nền tảng: Trên cơ sở ứng dụng những *phát minh đột phát* về KHKT và công nghệ một cách *có hệ thống*
+		- Tác dụng: Từ đó tạo ra sự phát triển về chất của phân công lao động xã hội -> *năng suất lao động vượt trội* và những *ứng dụng mới* làm thay đổi căn bản phương thức *lao động, quản trị và sinh hoạt* của con người
+	- Các cuộc cách mạng
+		- 1.0
+			- Anh
+			- Giữa đến cuối TK 18
+			- Cơ khí hóa sản xuất, năng lượng đốt than, động cơ hơi nước
+		- 2.0
+			- Mỹ
+			- Cuối TK 19 đầu TK 20
+			- Điện khí hóa sản xuất, động cơ đốt trong, phương pháp tổ chức sản xuất dây chuyền,...
+		- 3.0
+			- Mỹ
+			- Cuối TK 20
+			- Kết nối không dây, điều khiển tự động, cá nhân hóa các thiết bị vi xử lý, Internet, công nghệ sinh học ADN, vật lý
+		- 4.0
+			- Dự báo bùng nổ ở nhiều trung tâm kinh tế
+			- Dự báo giữa TK 21
+			- Siêu CSDL (bigdata), siêu kết nối IoT, AI
+- Đặc trưng của cách mạng khoa học công nghệ hiện đại
+	- Khoa học trở thành lực lượng sản xuất trực tiếp
+	- Thời gian nâng cấp các phát minh ngày càng được rút ngắn
