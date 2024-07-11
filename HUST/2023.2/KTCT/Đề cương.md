@@ -107,8 +107,41 @@
 		- Cuộc cách mạng dân tộc dân chủ Việt Nam do ĐCS lãnh đạo
 		- Nền KTTT định hướng XHCN 
 - Đặc trưng khác biệt với TBCN
+	- Mục đích
+		- XHCN: Xây dựng cơ sở vật chất kỹ thuật của CNXH, đặt *lợi ích của nhân dân* lên trên hết
+		-  TBCN: Đặt lợi ích của *các tập đoàn tư bản* lên trên hết
+	- Quan hệ sở hữu
+		- Đều gồm nhiều thành phần kinh tế
+		- XHCN: Trong đó *kinh tế nhà nước* giữ vai trò chủ đạo
+		- TBCN: Trong đó *kinh tế tư nhân* giữ vai trò chủ đạo
+	- Quan hệ quản lý
+		- Cơ chế thị trường tự điều tiết đều tự điều tiết
+		- XHCN: Sự điều tiết của Nhà nước định hướng XHCN
+		- TBCN: Sự điều tiến của Nhà nước định hướng TBCN và chịu sự chi phối của giới tài phiệt
+	- Quan hệ phân phối
+		- Đều nhiều hình thức phân phối
+		- XHCN: Phân phối theo lao động là chủ đạo
+		- TBCN: Phân phối theo góp vốn là chủ đạo
+	- Kiến trúc thượng tầng
+		- Nhà nước do ĐCS cầm quyền
+		- Nhà nước do các đảng phái tranh cử cầm quyền
+	- Trong các đặc trưng trên, đặc trưng về mục đích (của XHCN) là quan trọng nhất. Vì đó là nền tảng cho QHSX và Kiến trúc thượng tầng đi theo định hướng XHCN
 ## Thể chế thị trường định hướng XHCN
+- Thể chế KTTT định hướng XHCN
+- Các bộ phận cấu thành thể chế KTTT định hướng XHCN
+- Phân tích sự cần thiết phải hoàn thiện thể chế KTTT định hướng XHCN
+- Nhiệm vụ phát huy vai trò lãnh đạo của Đảng
+	- Vai trò phát triển lý luận, hoạch định đường lối
+	- Vai trò chỉnh đốn, giám sát, phòng chống tham nhũng
+	- Vai trò lãnh đạo, phát huy vai trò dân chủ trong Đảng và toàn xã hội
 ## Quan hệ lợi ích kinh tế
+- Lợi ích kinh tế là
+- Quan hệ kinh tế là
+- Các kiểu quan hệ lợi ích kinh tế
+	- Theo chiều ngang
+	- Theo chiều dọc
+- Phương thức giải quyết quan hệ lợi ích kinh tế
+- Vai trò của Nhà nước trong việc điều hòa các quan hệ lợi ích kinh tế
 # Chương 6 (37-40)
 ## Đặc trưng của cách mạng khoa học công nghệ hiện đại và nội dung công nghiệp hóa của VN
 - Khái quát thành tựu các cuộc cách mạng công nghiệp trong lịch sử nhân loại
