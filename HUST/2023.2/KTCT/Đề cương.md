@@ -84,21 +84,14 @@
 ## 4 Vì sao tiền là hàng hóa đặc biệt (\*)
 ## 5 Quy luật giá trị 
 ## 6 Cơ chế thị trường và vai trò của các chủ thể tham gia thị trường
-# Chương 3 (Sau cùng) (14-25)
-## 7 Sức lao động và tiền công trong CNTB
-## 8 Nguồn gốc và bản chất giá trị thặng dư
-## 9 Phương pháp sản xuất giá trị thặng dư tuyệt đối và tương đối
-## 10 Quy luật tích lũy tư bản, tập trung tư bản
-## 11 Quy luật cấu tạo tư bản ngày càng tăng và vấn đề thất nghiệp
-## 12 Quy luật giá trị thặng dư
-## 13 Sự hoạt động của quy luật giá trị và giá trị thặng dư trong CNTB tư do cạnh tranh
 # Chương 4 (25-32)
 ## Đặc điểm sự tập trung sản xuất và hình thành tổ chức độc quyền (\*)
 ## Đặc điểm xuất khẩu tư bản
 ## Chủ nghĩa tư bản độc quyền nhà nước (\*)
 # Chương 5 (32-37)
 ## Đặc trưng của nền kinh tế thị trường định hướng XHCN ở VN
-- 
+- Khái niệm kinh tế thị trường và định hướng XHCN
+	- Nền kinh tế thị trường
 ## Thể chế thị trường định hướng XHCN
 ## Quan hệ lợi ích kinh tế
 # Chương 6 (37-40)
@@ -136,8 +129,22 @@
 	- Nội dung: Từ sử dụng lao động thủ công với phương tiện thô sơ là chính, sang sử dụng phổ biến lao động với công nghệ, phương tiện và phương pháp hiện đại, dựa trên thành tựu cách mạng khoa học công nghiệp
 	- Mục đích: Tạo ra năng suất lao động cao, xây dựng cơ sở vật chất kỹ thuật của chủ nghĩa xã hội và phát triển bền vững
 - Đặc điểm thực hiện công nghiệp hóa tại Việt Nam
-	- Thể chế và mục tiêu: Quá trình 
-- Ba nội dung của công nghiệp hóa
+	- Thể chế và mục tiêu: Quá trình công nghiệp hóa *diễn ra trong nền kinh tế thị trường định hướng xã hội chủ nghĩa*
+	- Kỹ thuật công nghệ: Quá trình công nghiệp hóa ở Việt Nam *diễn ra trong sự bùng nổ của cách mạng công nghiệp lần thứ ba, thứ tư*
+	- Thị trường: Công nghiệp hóa tại Việt Nam *diễn ra trong xu thế toàn cầu hóa và hội nhập kinh tế quốc tế*
+- Ba nội dung của công nghiệp hóa, liên hệ với 4.0
 	- Phát triển lực lượng sản xuất trên cơ sở thành tựu cách mạng khoa học công nghệ hiện đại
+		- *Ứng dụng các thành tựu của cách mạng công nghiệp 4.0*, đặc biệt là *công nghệ số* đồng bộ vào các lĩnh vực kinh tế như: nông nghiệp, dịch vụ, sản xuất hàng tiêu dùng,... từ đó tiến tới xây dựng nền kinh tế tri thức
+		- *Tập trung phát triển tiềm lực khoa học công nghệ*, đổi mới căn bản giáo dục đào tạo nhân lực trình độ cao. Thúc đẩy đổi mới sáng tạo, khởi nghiệp trong toàn xã hội
+		- *Đầu tư hạ tầng đồng bộ*, tiếp cận trình độ tiên tiến nhất trong các lĩnh vực trọng điểm như *viễn thông, CNTT, truyền thông, tài chính ngân hàng*
 	- Chuyển đổi cơ cấu kinh tế theo hướng hiện đại, hợp lý, hiệu quả
+		- Cơ cấu kinh tế: Là tổng hợp các bộ phận cấu thành nền kinh tế quốc dân và mối quan hệ hữu cơ giữa các bộ phận đó
+		- Dịch chuyển cơ cấu kinh tế để thích ứng với 4.0 cần phải
+			- *Nâng cao tỷ trọng công nghiệp và dịch vụ* (đặc biệt là công nghiệp công nghệ cao), giảm tỷ trọng của nông nghiệp nhưng *cả 3 lĩnh vực phải tăng về giá trị*
+			- Công nghiệp hóa, hiện đại hóa "*Nông nghiệp, nông thôn và nông dân*"
+			- *Quy hoạch vùng kinh tế*, chuẩn bị các chiến lược phát triển mới phù hợp với *sự biến đổi khí hậu* và xu thế của thị trường nhân lực trong *bối cảnh hội nhập*
 	- Điều chỉnh quan hệ sản xuất và kiến trúc thượng tầng phù hợp với sự phát triển lực lượng sản xuất
+		- Kinh tế Nhà nước dựa trên công hữu vẫn là chủ đạo, nắm giữ lĩnh vực then chốt
+		- Tạo điều kiện cho các thành phần kinh tế phát triển, kinh tế tư nhân là một nguồn lực then chốt cho công nghiệp hóa, hiện đại hóa
+		- Hoàn thiện thể chế kinh tế thị trường định hướng xã hội chủ nghĩa, hoàn thiện hệ thống luật pháp, cải cách hành chính, xây dựng chính phủ điện tử, phòng chống tham nhũng
+		- Tích cực và chủ động hội nhập kinh tế quốc tế, trên nguyên tắc đảm bảo nền kinh tế độc lập tự chủ, đảm bảo an ninh quốc phòng
