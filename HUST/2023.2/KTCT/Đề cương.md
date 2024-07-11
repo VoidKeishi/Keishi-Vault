@@ -127,4 +127,17 @@
 			- Siêu CSDL (bigdata), siêu kết nối IoT, AI
 - Đặc trưng của cách mạng khoa học công nghệ hiện đại
 	- Khoa học trở thành lực lượng sản xuất trực tiếp
+		- Sử dụng tri thức khoa học có vai trò chủ yếu và trực tiếp để tạo sản phẩm
+		- Các ngành sản xuất dựa trên thành tựu Cách mạng công nghiệp hiện đại ngày càng chiếm tỉ trọng chủ yếu trong nền kinh tế quốc dân
 	- Thời gian nâng cấp các phát minh ngày càng được rút ngắn
+- Khái niệm do ĐCSVN đưa ra về Công nghiệp hóa
+	- Tính chất: Quá trình chuyển đổi căn bản và toàn diện
+	- Phạm vi: Các hoạt động bao gồm đầu tư, sản xuất kinh doan, dịch vụ và quản lý kinh tế - xã hội
+	- Nội dung: Từ sử dụng lao động thủ công với phương tiện thô sơ là chính, sang sử dụng phổ biến lao động với công nghệ, phương tiện và phương pháp hiện đại, dựa trên thành tựu cách mạng khoa học công nghiệp
+	- Mục đích: Tạo ra năng suất lao động cao, xây dựng cơ sở vật chất kỹ thuật của chủ nghĩa xã hội và phát triển bền vững
+- Đặc điểm thực hiện công nghiệp hóa tại Việt Nam
+	- Thể chế và mục tiêu: Quá trình 
+- Ba nội dung của công nghiệp hóa
+	- Phát triển lực lượng sản xuất trên cơ sở thành tựu cách mạng khoa học công nghệ hiện đại
+	- Chuyển đổi cơ cấu kinh tế theo hướng hiện đại, hợp lý, hiệu quả
+	- Điều chỉnh quan hệ sản xuất và kiến trúc thượng tầng phù hợp với sự phát triển lực lượng sản xuất
