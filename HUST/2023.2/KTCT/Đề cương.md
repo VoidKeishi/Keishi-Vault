@@ -1,23 +1,30 @@
-- Nền sản xuất hàng hóa
-	- Khái niệm
-		- Là mô hình tổ chức sản xuất kinh tế. Sản phẩm được sản xuất ra nhằm mục đích trao đổi, bán ra thị trường
-		- Tác dụng
-			- Phù hợp với nền sản xuất lớn (mở rộng quy mô cung và cầu)
-			- Phá vỡ sự bảo thủ, trì tệ và khép kín của các hoạt động kinh tế
-	- Điều kiện tồn tại và phát triển của nền sản xuất hàng hóa
-		- Phân công lao động xã hội đạt trình độ nhất định
-			- Khái niệm
-				- Là sự phân chia nguồn lực lao động sản xuất của xã hội vào các ngành kinh tế theo hướng chuyên môn hóa, tuân theo các quy luật khách quan
-			- Tác dụng: Tính chuyên môn hóa sản xuất ngày càng cao
-				- Thúc đẩy sản xuất phát triển, năng suất lao động tăng lên. Sản phẩm làm ra dư thừa so với nhu cầu tiêu dùng của nhà sản xuất, khi đó sản phẩm được đem ra trao đổi, mua bán.
-				- 
-		- Sự tách biệt tương đối về mặt kinh tế giữa những nhà sản xuất
-			- 
-	- Mâu thuẫn cơ bản của sản xuất hàng hóa
-	- Ưu thế của sản xuất hàng hóa
-- Thuộc tính của hàng hóa
-	- Khái niệm
-	- Thuộc tính giá trị sử dụng
-	- Cơ sở tạo nên giá trị hàng hóa, giá trị phản ánh quan hệ giữa các nhà sản xuất
-	- Khái niệm lượng giá trị hàng hóa và các nhân tố ảnh hưởng đến lượng giá trị
-- 
+## Nền sản xuất hàng hóa
+- Khái niệm
+	- Là *mô hình tổ chức sản xuất kinh tế*. Sản phẩm được sản xuất ra nhằm *mục đích trao đổi, bán ra thị trường*
+	- Tác dụng
+		- Phù hợp với nền sản xuất lớn (mở rộng quy mô cung và cầu)
+		- Phá vỡ sự bảo thủ, trì tệ và khép kín của các hoạt động kinh tế
+- Điều kiện tồn tại và phát triển của nền sản xuất hàng hóa
+	- Phân công lao động xã hội đạt trình độ nhất định
+		- Khái niệm
+			- Là sự phân chia nguồn lực lao động sản xuất của xã hội vào các ngành kinh tế theo hướng chuyên môn hóa, tuân theo các quy luật khách quan
+		- Tác dụng: Tính chuyên môn hóa sản xuất ngày càng cao
+			- Thúc đẩy sản xuất phát triển, năng suất lao động tăng lên. Sản phẩm làm ra dư thừa so với nhu cầu tiêu dùng của nhà sản xuất, khi đó sản phẩm được đem ra trao đổi, mua bán.
+			- Phân công lao động khiến mỗi người chỉ có thể sản xuất một hoặc một vài sản phẩm, trong khi nhu cầu lại cần nhiều sản phẩm. Và vì vậy, họ không thể tồn tại độc lập với nhau như trước mà phải phụ thuộc vào nhau. Điều đó làm cho con người phải trao đổi, mua bán với nhau.
+	- Sự tách biệt tương đối về mặt kinh tế giữa những nhà sản xuất
+		- Khái niệm
+			- Là sự độc lập về sở hữu, tự chủ, tự chịu trách nhiệm của người sản xuất kinh doanh
+		- Tác dụng: Tạo nên sự *sòng phẳng, minh bạch* trong hoạt động kinh tế
+- Mâu thuẫn cơ bản của sản xuất hàng hóa: Sản xuất hàng hóa vừa có *tính chất xã hội, vừa có tính chất tư nhân* hay *mâu thuẫn giữa LAO ĐỘNG XÃ HỘI và LAO ĐỘNG CÁ BIỆT*
+	- Tính chất xã hội
+		- Sản phẩm sản xuất ra để đáp ứng nhu cầu tiêu dùng của cả xã hội (phía Cầu)
+		- Quá trình sản xuất 1 sản phẩm luôn là sự liên kết của nhiều nhà sản xuất (phía Cung)
+	- Tính chất tư nhân
+		- 
+	- Tác dụng của mâu thuẫn
+- Ưu thế của sản xuất hàng hóa
+## Thuộc tính của hàng hóa
+- Khái niệm
+- Thuộc tính giá trị sử dụng
+- Cơ sở tạo nên giá trị hàng hóa, giá trị phản ánh quan hệ giữa các nhà sản xuất
+- Khái niệm lượng giá trị hàng hóa và các nhân tố ảnh hưởng đến lượng giá trị
