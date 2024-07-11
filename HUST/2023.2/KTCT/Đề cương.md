@@ -128,20 +128,46 @@
 	- Trong các đặc trưng trên, đặc trưng về mục đích (của XHCN) là quan trọng nhất. Vì đó là nền tảng cho QHSX và Kiến trúc thượng tầng đi theo định hướng XHCN
 ## Thể chế thị trường định hướng XHCN
 - Thể chế KTTT định hướng XHCN
+	- Là *hệ thống luật pháp, chính sách* và *bộ máy quản lý* cùng với *cơ chế vận hành* để điều chỉnh quan hệ lợi ích và phương thức hoạt động của các chủ thể kinh tế theo *đường lối chiến lược phát triển kinh tế - xã hội của ĐCS*
+	- Nhằm mục đích xây dựng cơ sở kỹ thuật có trình độ cao của CNXH, một xã hội "Dân giàu, nước mạnh, dân chủ, công bằng, văn minh"
 - Các bộ phận cấu thành thể chế KTTT định hướng XHCN
-- Phân tích sự cần thiết phải hoàn thiện thể chế KTTT định hướng XHCN
+	- Đường lối, pháp luật
+		- Đường lối kinh tế - xã hội của Đảng Cộng sản
+		- Luật pháp, chính sách, quy tắc, chế định,..
+	- Các chủ thể tham gia vào thị trường
+		- Bộ máy quản lý Nhà nước
+		- Doanh nghiệp và các tổ chức xã hội đại diện cho doanh nghiệp
+		- Dân cư, các tổ chức chính trị - xã hội
+	- Cơ chế vận hành
+		- Cơ chế thị trường, thông qua quy luật của thị trường như: quy luật giá trị, quy luật cung cầu, quy luật cạnh tranh
+		- Cơ chế vận hành của các chủ thể trên thị trường. Gồm có: Cơ chế phân cấp, phối hợp, giám sát, tham gia
+- Phân tích sự cần thiết phải hoàn thiện thể chế KTTT định hướng XHCN![[Pasted image 20240712022917.png]]
 - Nhiệm vụ phát huy vai trò lãnh đạo của Đảng
 	- Vai trò phát triển lý luận, hoạch định đường lối
 	- Vai trò chỉnh đốn, giám sát, phòng chống tham nhũng
 	- Vai trò lãnh đạo, phát huy vai trò dân chủ trong Đảng và toàn xã hội
 ## Quan hệ lợi ích kinh tế
-- Lợi ích kinh tế là
-- Quan hệ kinh tế là
+- Lợi ích kinh tế là: Sự đáp ứng, thỏa mãn các nhu cầu mà con người mong muốn đạt được khi thực hiện các hoạt động kinh tế
+- Quan hệ kinh tế là mối quan hệ tương tác giữa các chủ thể kinh tế để xác lập lợi ích kinh tế của mình, trong mối quan hệ với lực lượng sản xuất và kiến trúc thượng tầng
 - Các kiểu quan hệ lợi ích kinh tế
-	- Theo chiều ngang
-	- Theo chiều dọc
+	- Theo chiều ngang, theo các giai tầng trong xã hội: Quan hệ lợi ích giữa
+		- Người lao động với doanh nghiệp (công nhân với tư sản)
+		- Doanh nghiệp với nhau (nội bộ giai cấp tư sản)
+		- Người lao động với nhau (nội bộ giai cấp công nhân)
+	- Theo chiều dọc, với các cấp độ
+		- Quan hệ giữa lợi ích cá nhân, lợi ích nhóm, lợi ích xã hội
 - Phương thức giải quyết quan hệ lợi ích kinh tế
+	- Phương thức cạnh tranh
+		- Các chủ thể ganh đua, giành giật lợi ích, ưu thế kinh tế
+	- Phương thức thống nhất
+		- Các chủ thể hòa thuận với nhau, phân chia lợi ích kinh tế, đôi bên cùng có lợi
+	- Phương thức áp đặt
+		- Chủ thể có vị thế cao, có điều kiện thuận lợi sẽ áp đặt chủ thể còn lại phải tuân thủ và phục tùng
 - Vai trò của Nhà nước trong việc điều hòa các quan hệ lợi ích kinh tế
+	- *Xây dựng và bảo vệ* môi trường thuận lợi cho hoạt động tìm kiếm lợi *ích hợp pháp* của các chủ thể kinh tế
+	- *Kiểm soát, ngăn chặn* các hoạt động tìm kiếm *lợi ích phi pháp*, gây tác động tiêu cực cho xã hội
+	- Giải quyết các xung đột trong quan hệ lợi ích kinh tế, theo chuẩn mực pháp lý minh bạch và khách quan
+	- Điều hòa lợi ích cá nhân, lợi ích nhóm, lợi
 # Chương 6 (37-40)
 ## Đặc trưng của cách mạng khoa học công nghệ hiện đại và nội dung công nghiệp hóa của VN
 - Khái quát thành tựu các cuộc cách mạng công nghiệp trong lịch sử nhân loại
