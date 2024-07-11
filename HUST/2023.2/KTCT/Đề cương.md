@@ -1,0 +1,16 @@
+- Nền sản xuất hàng hóa
+	- Khái niệm
+		- Là mô hình tổ chức sản xuất kinh tế. Sản phẩm được sản xuất ra nhằm mục đích trao đổi, bán ra thị trường
+		- Tác dụng
+			- Phù hợp với nền sản xuất lớn (mở rộng quy mô cung và cầu)
+			- Phá vỡ sự bảo thủ, trì tệ và khép kín của các hoạt động kinh tế
+	- Điều kiện tồn tại và phát triển của nền sản xuất hàng hóa
+		- 
+	- Mâu thuẫn cơ bản của sản xuất hàng hóa
+	- Ưu thế của sản xuất hàng hóa
+- Thuộc tính của hàng hóa
+	- Khái niệm
+	- Thuộc tính giá trị sử dụng
+	- Cơ sở tạo nên giá trị hàng hóa, giá trị phản ánh quan hệ giữa các nhà sản xuất
+	- Khái niệm lượng giá trị hàng hóa và các nhân tố ảnh hưởng đến lượng giá trị
+- 

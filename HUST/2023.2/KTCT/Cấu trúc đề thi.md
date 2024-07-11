@@ -6,3 +6,4 @@
 	- Chương 5,6
 	- 4 câu
 - ![[bd751c61-5e63-49b4-b57a-6afd3ecf4ed2.jpg]]
+- Chương 2 thì trọng tâm 3-4-5 Chương 4 thì trọng tâm 1 và 3
