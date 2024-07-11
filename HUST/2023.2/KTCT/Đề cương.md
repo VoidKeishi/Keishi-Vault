@@ -99,7 +99,8 @@
 - Khái quát thành tựu các cuộc cách mạng công nghiệp trong lịch sử nhân loại
 	- Khái niệm cách mạng công nghiệp
 		- Nội dung: Là sự phát triển về chất của *tư liệu lao động*
-		- Nền tảng: Trên cơ sở ứng dụng những *phát minh đột phát* về KHKT và công nghệ một cách *có hệ thống*
+		- Nền tảng: Trên cơ sở ứng dụng
+		- những *phát minh đột phát* về KHKT và công nghệ một cách *có hệ thống*
 		- Tác dụng: Từ đó tạo ra sự phát triển về chất của phân công lao động xã hội -> *năng suất lao động vượt trội* và những *ứng dụng mới* làm thay đổi căn bản phương thức *lao động, quản trị và sinh hoạt* của con người
 	- Các cuộc cách mạng
 		- 1.0
