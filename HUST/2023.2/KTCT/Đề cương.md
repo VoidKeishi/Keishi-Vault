@@ -167,7 +167,7 @@
 	- *Xây dựng và bảo vệ* môi trường thuận lợi cho hoạt động tìm kiếm lợi *ích hợp pháp* của các chủ thể kinh tế
 	- *Kiểm soát, ngăn chặn* các hoạt động tìm kiếm *lợi ích phi pháp*, gây tác động tiêu cực cho xã hội
 	- Giải quyết các xung đột trong quan hệ lợi ích kinh tế, theo chuẩn mực pháp lý minh bạch và khách quan
-	- Điều hòa lợi ích cá nhân, lợi ích nhóm, lợi
+	- Điều hòa lợi ích cá nhân, lợi ích nhóm, lợi ích xã hội và phân phối lại thu nhập, thông qua thuế và phúc lợi
 # Chương 6 (37-40)
 ## Đặc trưng của cách mạng khoa học công nghệ hiện đại và nội dung công nghiệp hóa của VN
 - Khái quát thành tựu các cuộc cách mạng công nghiệp trong lịch sử nhân loại
