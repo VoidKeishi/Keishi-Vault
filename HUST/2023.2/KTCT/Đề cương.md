@@ -19,12 +19,55 @@
 	- Tính chất xã hội
 		- Sản phẩm sản xuất ra để đáp ứng nhu cầu tiêu dùng của cả xã hội (phía Cầu)
 		- Quá trình sản xuất 1 sản phẩm luôn là sự liên kết của nhiều nhà sản xuất (phía Cung)
-	- Tính chất tư nhân
-		- 
+	- Tính chất tư nhân, cá biệt
+		- Mỗi chủ thể sản xuất kinh doanh là độc lập, tự chủ, nên ý chí chủ quan của các nhà đầu tư, các chủ doanh nghiệp sẽ chi phối các quá trình kinh tế, chi phối thị trường
 	- Tác dụng của mâu thuẫn
+		- Tạo động lực thúc đẩy nền kinh tế hàng hóa phát triển (mỗi nhà đầu tư, chủ doanh nghiệp đều phải cố gắng tạo ra các sản phẩm phù hợp với nhu cầu xã hội)
+		- Tạo rủi ro khủng hoảng kinh tế khi ý chí chủ quan của các nhà đầu tư, chủ doanh nghiệp trong quyết định đầu tư sản xuất không phù hợp với xu thế thị trường trong xã hội, từ đó bắt buộc nhà đầu tư, chủ doanh nghiệp phải điều chỉnh cho phù hợp
 - Ưu thế của sản xuất hàng hóa
+	- Thúc đẩy phân công lao động xã hội
+		- Sản xuất chuyên môn hóa sâu
+		- Năng suất lao động ngày càng cao
+		- Lực lượng sản xuất phát triển
+		- Lấy ví dụ về lợi thế của địa phương để chứng minh
+	- Nền sản xuất hàng hóa dựa trên tính cạnh tranh
+		- Tạo động lực thúc đẩy doanh nghiệp
+		- Đổi mới công nghệ và phương pháp quản lý
+		- Phát huy sự năng động, sáng tạo của mọi nguồn lực
+	- Thúc đẩy các quốc gia hội nhập thị trường thế giới
+		- Tạo xu thế toàn cầu hóa
+		- Tạo điều kiện phát huy các lợi thế so sánh của mỗi quốc gia
+	- Thúc đẩy hợp tác kinh tế giữa các quốc gia
+		- Tạo nên sự giao lưu giữa các nền văn hóa
+		- Tiếp thu các giá trị văn minh nhân loại, xây dựng nền văn hóa tiên tiến
 ## Thuộc tính của hàng hóa
 - Khái niệm
+	- Là kết quả từ lao động sản xuất của con người
+	- Có thể thỏa mãn nhu cầu tiêu dùng của con người
+	- Được sản xuất nhằm mục đích trao đổi, bán ra thị trường
 - Thuộc tính giá trị sử dụng
+	- Khái niệm
+		- Là toàn bộ công năng, ích lợi của hàng hóa, đáp ứng nhu cầu tiêu dùng của con người trên 2 mặt vật chất và tinh thần
+	- Đặc trưng
+		- Phạm trù vĩnh viễn
+		- Thể hiện trong lĩnh vực tiêu dùng
+		- KHKT và công nghệ ngày càng phát triển, người ta càng phát hiện nhiều giá trị sử dụng của sản phẩm
+		- Chứa đựng một giá trị trao đổi (quan hệ tỷ lệ về lượng khi trao đổi hàng hóa cho nhau)
 - Cơ sở tạo nên giá trị hàng hóa, giá trị phản ánh quan hệ giữa các nhà sản xuất
-- Khái niệm lượng giá trị hàng hóa và các nhân tố ảnh hưởng đến lượng giá trị
+	- Ví dụ 1m vải = 10kg thóc
+		- Giá trị trao đổi này theo tỉ lệ 1/10 mà không phải tỉ lệ khác vì *giá trị kinh tế* của 1m vải gấp 10 lần 1kg thóc
+	- Nguyên nhân
+		- Do sự trao đổi hàng hóa yêu cầu xác định giá trị của mỗi loại hàng hóa để xác lập tỉ lệ trao đổi phù hợp
+	- Cơ sở tạo nên giá trị
+		- C.Mác nhấn mạnh, cơ sở tạo nên giá trị của hàng hóa phải là một *cơ sở chung, nền tảng chung, tồn tại trong mọi hàng hóa*
+		- Cơ sở chung duy nhất của mọi hàng hóa đều là *kết tinh lao động xã hội*
+		- Lao động là yếu tố duy nhất tạo nên *giá trị hàng hóa*, vì vậy lao động là cơ sở tạo nên giá trị hàng hóa
+- Khái niệm lượng giá trị hàng hóa
+	- Khái niệm
+		- Hao phí lao động xã hội của người sản xuất hàng hóa kết tinh trong hàng hóa
+	- Đặc trưng
+		- Phạm trù lịch sử
+		- Thể hiện trong lĩnh vực lưu thông, trao đổi, mua bán
+		- Giá trị là nội dung, giá cả là hình thức thể hiện bằng tiền của giá trị
+	- Giá trị hàng hóa phản ánh quan hệ giữa các nhà sản xuất
+- Các nhân tố ảnh hưởng đến lượng giá trị
