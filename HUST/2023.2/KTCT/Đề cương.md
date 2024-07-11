@@ -92,6 +92,21 @@
 ## Đặc trưng của nền kinh tế thị trường định hướng XHCN ở VN
 - Khái niệm kinh tế thị trường và định hướng XHCN
 	- Nền kinh tế thị trường
+		- Là nền kinh tế hàng hóa vận hành theo cơ chế thị trường, phát triển tới trình độ cao
+		- Trong đó mọi quan hệ sản xuất và trao đổi đều thông qua thị trường mua bán, trao đổi và chịu sự điều tiết bởi các quy luật khách quan của thị trường
+	- Nền kinh tế thị trường định hướng XHCN
+		- Là nền kinh tế thị trường đầy đủ, mang đặc trưng là định hướng XHCN, có sự quản lý của Nhà nước do ĐCS lãnh đạo, với mục tiêu "dân giàu, nước mạnh, dân chủ, công bằng, văn minh"
+- Tính tất yếu khách quan
+	- Cơ sở lý luận: Quan hệ sản xuất phải phù hợp với trình độ phát triển của lực lượng sản xuất
+		- LLSX của VN đi từ nền sản xuất nhỏ. Vì thế quan hệ sản xuất cần phải dựa trên kinh tế thị trường với nhiều hình thức sở hữu, nhiều thành phần kinh tế -> Do đó Việt Nam phải lựa chọn nền KTTT (không phải KT bao cấp, chỉ huy)
+		- Kinh tế thị trường với quan hệ sản xuất TBCN có nhiều hạn chế, mâu thuẫn. Vì thế, cần có hướng đi khác để đảm bảo cho sự phát triển bền vững -> Do đó Việt Nam lựa chọn đi theo con đường định hướng XHCN
+	- Cơ sở thực tiễn: Việt Nam cần hội nhập, phát triển kinh tế, thực hiện mục tiêu "Dân giàu, nước mạnh, dân chủ, công bằng văn minh"
+		- Để hội nhập với nền kinh tế quốc tế, Việt Nam cần có nền KTTT
+		- Để hạn chế sự bất bình đẳng, phân hóa giai tầng, Việt Nam cần có định hướng XHCN
+	- Cơ sở lịch sử
+		- Cuộc cách mạng dân tộc dân chủ Việt Nam do ĐCS lãnh đạo
+		- Nền KTTT định hướng XHCN 
+- Đặc trưng khác biệt với TBCN
 ## Thể chế thị trường định hướng XHCN
 ## Quan hệ lợi ích kinh tế
 # Chương 6 (37-40)
