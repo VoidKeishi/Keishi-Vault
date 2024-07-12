@@ -80,14 +80,6 @@
 		- Năng suất lao động
 		- Cường độ lao động
 		- Mức độ phức tạp của lao động
-## 3 Nguồn gốc, bản chất và các chức năng của tiền (\*)
-## 4 Vì sao tiền là hàng hóa đặc biệt (\*)
-## 5 Quy luật giá trị 
-## 6 Cơ chế thị trường và vai trò của các chủ thể tham gia thị trường
-# Chương 4 (25-32)
-## Đặc điểm sự tập trung sản xuất và hình thành tổ chức độc quyền (\*)
-## Đặc điểm xuất khẩu tư bản
-## Chủ nghĩa tư bản độc quyền nhà nước (\*)
 # Chương 5 (32-37)
 ## Đặc trưng của nền kinh tế thị trường định hướng XHCN ở VN
 - Khái niệm kinh tế thị trường và định hướng XHCN
