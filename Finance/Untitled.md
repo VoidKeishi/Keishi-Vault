@@ -1,0 +1,6 @@
+- Fed tăng/hạ lãi suất
+- Thời kì thắt chặt và mở rộng
+	- Lãi suất tăng thì giá trái phiếu giảm
+	- Thắt chặt kiểm soát lạm phát
+- Tiền gửi ngân hàng
+	- Rủi ro lãi suất
