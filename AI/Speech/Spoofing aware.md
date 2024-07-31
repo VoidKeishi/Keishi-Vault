@@ -4,3 +4,4 @@
 - 2. ECAPA as spoof detection (tham khảo đồ án của a Hoà nhé) 
 - 3. Joint training ASV, CM 
 - 4. Conformer cải tiến từ bên ASR, phần này chị mới bắt đầu nghiên cứu
+- 
