@@ -1,0 +1,2 @@
+- SV: Speech verification
+- CM: Counter measure
