@@ -1,0 +1,51 @@
+- Vai trò của ML, DL; một số ví dụ thành công
+- Phân biệt ML với DM
+	- Machine learning là xây dựng hệ thống giải một bài toán thực tế bằng cách tự học
+	- Data mining là khai phá tri thức mới hữu dụng từ tệp dữ liệu, là góc nhìn từ dữ liệu
+- Các dạng data
+	- Dạng có cấu trúc - Dạng bảng
+	- Phi cấu trúc - Hầu hết các dạng còn lại
+- Làm việc với data
+	- Hướng khai phá
+		- Thu thập
+		- Tiền xử lý
+		- Trực quan hóa/tìm hiểu đặc trưng
+		- Phân tích, giả định, thử nghiệm và áp dụng ML
+		- Thu tri thức và quyết định tiếp
+	- Hướng sản phẩm
+		- Phân tích bài toán thực tế
+		- Phân tích định hướng, đưa về bài toán trong học máy
+		- Đặt ra yêu cầu với dữ liệu
+		- Thu thập dữ liệu
+		- Tìm hiểu dữ liệu
+		- Tiền xử lý
+		- Mô hình hóa
+		- Đánh giá
+		- Triển khai
+		- Feedback
+- Định nghĩa Learning problem (P,T,E)
+	- VD: Với spam filtering, T là task filter email spam, P là độ chính xác khi thực hiện task T, E là kinh nghiệm, ở đây là email cũ với nhãn spam/thường
+- Bản chất học máy
+	- Đi tìm ánh xạ/hàm biến đầu vào x thành đầu ra y
+	- Đi tìm tham số của mô hình mà dữ liệu tuân theo
+	- Học từ tập ví dụ, dữ liệu đã có
+- Phân loại bài toán học máy
+	- Học có giám sát
+		- Phân loại (Đầu ra thuộc tập rời rạc)
+			- Phân loại nhiều lớp
+			- Phân loại đa nhãn
+		- Hồi quy (Đầu ra thuộc tập liên tục)
+	- Học không giám sát: đi tìm đặc trưng, cấu trúc ẩn, xu hướng của dữ liệu
+		- Phâm cụm
+		- Phát hiện cộng đồng
+		- Phát hiện xu hướng
+- Thiết kế một hệ thống học
+	- Chọn tập dữ liệu training
+	- Xác định loại ánh xạ cần học
+	- Chọn mô hình cho loại hàm/ánh xạ (Xấp xỉ)
+- Một số vấn đề 
+	- No free lunch theorem
+	- Về dữ liệu
+	- Khả năng học của thuật toán
+		- Overfitting vs underfitting
+		- Hiệu chỉnh để hạn chế overfitting

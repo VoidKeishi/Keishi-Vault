@@ -1,0 +1,6 @@
+- Hoàn thiện 5 document tuần trước theo feedback
+- Phân tích nhiệm vụ (check sự hợp lệ của user flow, user scenario)
+- Cần định lượng thay vì định tính
+- Xem video
+- HTA
+- 

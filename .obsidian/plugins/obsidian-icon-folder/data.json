@@ -1,0 +1,43 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiBriefcase",
+      "LiNetwork",
+      "LiWallpaper",
+      "LiBrush",
+      "LiExcalidrawIcon"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInFrontmatterEnabled": false,
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "lucideIconPackType": "native",
+    "debugMode": false
+  },
+  "Reference": "LiBookText",
+  "Pernament": "LiAtom",
+  "Templates": "LiAlbum",
+  "Excalidraw": "LiWallpaper",
+  "Draft": "LiPencil",
+  "Hub": "LiNetwork",
+  "Work": "LiBriefcase"
+}

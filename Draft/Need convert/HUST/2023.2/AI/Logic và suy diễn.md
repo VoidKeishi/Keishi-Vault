@@ -1,0 +1,128 @@
+- Dữ liệu: Sự kiện hoặc ký hiệu
+- Thông tin: Dữ liệu đã xử lí hoặc chuyển đổi về dạng hoặc cấu trúc phù hợp
+- Tri thức: Sự hiểu biết, nhận thức về thông tin
+# Biểu diễn tri thức
+- Tính hoàn chỉnh: Thể hiện mọi khía cạnh của tri thức
+- Tính ngắn gọn: Thu thập, lưu trữ, truy nhập
+- Tính hiệu quả về tính toán
+- Tính rõ ràng, dễ hiểu: Góc nhìn người dùng
+## Luật
+- Dạng: Điều kiện + Kết luận
+	- Điều kiện không cần dùng OR
+	- Kết luận không cần dùng AND
+- Các kiểu luật
+	- Liên kết: Điều kiện đi kèm với kết luận
+	- Nguyên nhân: Điều kiện gây ra kết luận
+	- Tình huống và hành động: Nếu điều kiện thì làm kết luận
+	- Logic: Điều kiện suy ra kết luận
+- Chiến lược giải quyết xung đột
+	- Xung đột: Khi nhiều hơn một luật có thể áp dụng
+	- Các chiến lược
+		- Áp dụng luật đầu tiên
+		- Không dùng luật sinh ra kết quả có trong bộ nhớ
+		- Áp dụng luật nhiều điều kiện nhất
+		- Áp dụng luật gần thời điểm hiện tại nhất
+		- Áp dụng luật có độ tin cậy cao nhất
+		- Kết hợp các chiến lược
+- RBS
+	- Cấu tạo
+		- Working memory
+		- Rule memory
+		- Interpreter
+	- Ưu điểm
+		- Cách biểu diễn phù hợp
+		- Dễ hiểu
+		- Sử dụng khai báo
+	- Nhược điểm
+		- Khả năng biểu diễn giới hạn
+		- Tương tác giữa các luật và trật tự luật gây ra hiệu ứng không mong muốn
+		- Tốn kém chi phí
+## Khung
+- (Object, Property, Value)
+- Thuộc tính và giá trị: Slot và filler
+- Loại khung
+	- Khung đơn (Object): Có thuộc tính instance of chỉ khung tổng quát
+	- Khung tổng quát (Class): Có thuộc tính is-a để chỉ quan hệ với các khung khác
+- Thủ tục
+	- IF-NEEDED: Liên kết với hàm lấy filler
+	- IF-ADDED: Được gán lại giá trị dựa trên giá trị gán của thuộc tính khác
+- Ưu điểm
+	- Kết hợp tri thức khai báo và thủ tục
+	- Có cấu trúc phân cấp
+	- Thiết lập ràng buộc với giá trị
+	- Lưu trữ giá trị mặc định
+- Nhược điểm
+	- Cần để ý việc phân loại khung
+	- Chi phi cao cho thiết kế thủ tục
+	- Không có cấu trúc dữ liệu phù hợp, hiệu quả
+## Mạng ngữ nghĩa: Graph based
+- Gồm nút và liên kết: Khái niệm và quan hệ
+- Quá trình suy diễn
+	- Tác động
+	- Kế thừa
+- Hai kiểu liên kết
+	- Kế thừa: Quan hệ giữa các lớp hoặc giữa lớp và đối tượng - IS A và INSTANCE-OF
+	- Cụ thể: HAS, CAN, HAS-PART, CAUSES, HAS-COLOR, …
+- Lan truyền tác động
+	- Elephant eats Plant ![[Pasted image 20240622224528.png]]
+- Tính kế thừa
+	- Kế thừa toàn bộ
+	- Kế thừa mặc định: Kế thừa các thông tin không mâu thuẫn
+- Ngữ nghĩa
+	- Tính "well-definedness" của mạng ngữ nghĩa dựa vào tập nút và các loại liên kết
+	- Cùng một mạng ngữ nghĩa, các hệ thống khác nhau có cách diễn giải khác nhau
+	- Liên kết
+		- Xác nhận: Lưu thông tin dạng instance
+		- Định nghĩa: Lưu ý nghĩa khái niệm, không đổi
+- Ưu điểm
+	- Trực quan
+	- Phù hợp với bài toán biểu diễn tri thức ở dạng phân cấp khái niệm
+	- Hỗ trợ suy diễn nhanh
+	- Tập trung vào thành phần chính và liên kết giữa chúng
+- Nhược điểm
+	- Không tồn tại cách diễn dịch chung
+	- Khó biểu diễn thông tin phủ định hoặc tuyển (OR)
+	- Khó khăn trong việc lựa chọn thành phần cơ bản
+	- Khả năng suy diễn hạn chế
+	- Tốn kém khi xây dựng
+## Ontology
+- Biểu diễn
+	- Đối tượng và/hoặc khái niệm
+	- Thuộc tính và quan hệ
+- Các khía cạnh
+	- Nội dung
+	- Phân loại ontology
+		- Dựa quan hệ phân loại
+		- Dựa trên định nghĩa
+		- Dựa trên khả năng diễn đạt
+		- Hướng quá trình hay hướng đối tượng
+	- Mục đích
+		- Chia sẻ 
+		- Sử dụng lại
+- Xây dựng ontology
+	- Xác định phạm vi
+	- Cân nhắc dùng ontology có sẵn
+	- Liệt kê khái niệm
+	- Định nghĩa sự phân loại
+	- Định nghĩa thuộc tính
+	- Định nghĩa các khía cạnh
+	- Xác định ví dụ cụ thể
+	- Kiểm tra bất thường
+# Logic định đề
+- Logic: Ngôn ngữ hình thức biểu diễn thông tin dưới dạng các kết luật có thể đưa ra
+- Logic = Syntax + Semantic
+- Cú pháp = Ngôn ngữ + Lý thuyết chứng minh
+- Ngữ nghĩa: ý nghĩa của kí hiệu
+- Tính bao hàm: Cơ sở tri thức KB bao hàm mệnh đề a - Nếu KB đúng, a đúng
+- Thủ tục suy diễn
+	- Tính đúng đắn: thủ tục suy diễn đúng đắn nếu suy ra chỉ các mệnh đề được bao hàm
+	- Tính hoàn chỉnh: suy ra mọi mệnh đề được bao hàm
+- Tính có thể thỏa mãn được: Tồn tại một mô hình mà trong mô hình đó biểu thức đúng
+- Logic định đề
+	- Biểu thức : $S_1,S_2,...$
+	- Biểu thức phủ định: $\neg S_1$
+	- Biểu thức kết hợp: $S_1{\wedge}S_2$
+	- Biểu thức tuyển: $S_1{\vee}S_2$
+	- Biểu thức suy ra: $S_1{\rightarrow}S_2$
+	- Biểu thức tương đương: $S_1{\leftrightarrow}S_2$
+- 

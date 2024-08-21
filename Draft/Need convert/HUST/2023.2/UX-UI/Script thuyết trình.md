@@ -1,0 +1,10 @@
+- Chào
+- Tên app: EduTracker
+- Tập trung giải quyết vấn đề của người dùng
+	- Theo dõi tiến độ KPI thay vì chỉ nhận kết quả cuối kỳ đánh giá
+	- Quản lý công việc - Lập kế hoạch dài hạn
+	- Xem danh sách công việc cần làm - Giúp người dùng đỡ phải ghi nhớ nhiều ngắn hạn mà tập trung vào công việc cần làm
+- Về tính dùng được: Tập trung vào tính phù hợp cho công việc
+- Nguyên tắc thiết kế
+	- Nhất quán
+	- 

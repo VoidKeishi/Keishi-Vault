@@ -1,0 +1,26 @@
+- Tác dụng
+	- Thuận tiện trong lưu trữ, truy vấn
+	- Các mô hình có yêu cầu về cấu trúc của dữ liệu
+	- Học máy thường làm việc hiệu quả nên biểu diễn dữ liệu phù hợp
+- Thu thập dữ liệu
+	- Kỹ thuật: Crawling, logging, scraping, crowd-sourcing
+	- Lấy tập mẫu nhỏ để đại diện cho đặc trưng của toàn bộ - Vì giới hạn khả năng, tài nguyên
+	- Variety - Độ đa dạng, phủ ngữ cảnh, độ khách quan
+	- Bias - Dữ liệu cần tổng quát, tránh thiên vị
+- Tiền xử lý tín hiệu
+	- Tính chất cần đảm bảo
+		- Đầy đủ
+		- Trung thực
+		- Đồng nhất
+		- Cấu trúc
+	- Kỹ thuật
+		- Làm sạch: Tính đầy đủ, trung thực, đồng nhất
+			- Điền giá trị thiếu
+		- Tích hợp: Để sử dụng nhiều nguồn dữ liệu khác nhau
+		- Biến đổi: Trích xuất đặc trưng, ngữ nghĩa, chuẩn hóa
+			- Rời rạc hóa: Gom giá trị liên tục thành các khoảng
+			- Chuẩn hóa: Đưa về cùng miền giá trị
+			- Vài chiến lược
+				- Lựa chọn đặc trưng
+				- Giảm chiều dữ liệu
+				- Trừu tượng hóa

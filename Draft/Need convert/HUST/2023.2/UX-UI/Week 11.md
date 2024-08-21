@@ -1,0 +1,21 @@
+- Expert: Comment kĩ giải thích vì sao, màn hình, phần tử nào bị lỗi/vi phạm nguyên tắc
+- Thiết kế: Tài liệu, phân tích, thu thập phản hồi, quy tắc thiết kế
+- Mẫu thử: Độ tin cậy, 3 phiên bản - layout, blacknwhite, colored, tương tác
+- Đánh giá: Phản hồi cho các nhóm, đánh giá trình bày trên lớp
+- Buổi tới đánh giá trực tiếp round 1
+	- Trước buổi nhóm trưởng điền đánh giá
+- Hạn J+4 nộp mẫu thử
+	- 2 ngày còn lại cho 1 thời gian trình bày với khách hàng, quay video thuyết trình với khách hàng
+	- Lập kế hoạch trước
+- Form đầu điền trước, 3 form sau điền vào ngày thuyết trình
+	- Part 1: Cá nhân điền cho tất cả các nhóm ngoài nhóm mình
+		- Đặt mỗi nhóm 1 câu hỏi
+	- Part 2: Đánh giá xếp loại, điền cuối ngày
+		- Không xếp loại, chấm điểm nhóm bản thân
+		- Không xếp đồng giải
+- Quy tắc đánh giá
+	- Đảm bảo xác định mong muốn của người dùng
+	- Không đánh giá chung chung, tham chiếu tới các phần tử cụ thể kèm minh chứng
+	- Đề xuất cách khắc phục -> Bonus
+- Feedback nhận xét
+	- Cần phản hồi về hành động tương ứng

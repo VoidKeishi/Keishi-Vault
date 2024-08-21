@@ -1,0 +1,11 @@
+- Đề tài: Lightweight Terminal Application with QML and QT Framework
+- Khái niệm: Terminal là ứng dụng nhằm cung cấp một môi trường linh hoạt, mạnh mẽ cho người dùng để tương tác và quản lý hệ thống máy tính thông qua giao diện dòng lệnh.
+- Yêu cầu tìm hiểu
+	- Tìm hiểu Qt Framework, QML để lập trình giao diện dòng lệnh  
+	- Tìm hiểu C++, lập trình OOP  
+	- TÌm hiểu quản lý tiến trình và tương tác hệ thống thông qua mã C++
+- Yêu cầu tính năng: Cung cấp ứng dụng giao diện người dùng cho phép tương tác với hệ thống máy tính thông qua dòng lệnh. Các chức năng yêu cầu:  
+	- Thao tác dòng lệnh trên giao diện.  
+	- Tùy chọn mở nhiều terminal, cấu hình layout.
+- Tham khảo: Terminator
+- 

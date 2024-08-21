@@ -1,0 +1,9 @@
+{
+  "accentColor": "#cba6f7",
+  "cssTheme": "Tokyo Night",
+  "translucency": false,
+  "nativeMenus": false,
+  "baseFontSize": 20,
+  "baseFontSizeAction": true,
+  "textFontFamily": "Arial"
+}

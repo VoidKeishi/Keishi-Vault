@@ -1,0 +1,21 @@
+### Các khái niệm
+- Thực thể: Một đối tượng độc lập
+- Tập thực thể: Tập hợp các thực thể có tính chất giống nhau
+- Thuộc tính: Đặc tính của tập thực thể
+	- Thuộc tính nguyên tố: Kiểu dữ liệu nguyên tố
+	- Thuộc tính phức: Định nghĩa bởi các thuộc tính khác nhau
+	- Thuộc tính đa trị: Có thể nhận nhiều giá trị
+	- Thuộc tính suy diễn: Có thể tính toán được từ các thuộc tính khác nhau
+- Khóa: Tập một hay nhiều thuộc tính mà giá trị có thể xác định duy nhất một thực thể
+- Liên kết: Mối liên hệ có nghĩa giữa nhiều thực thể
+- Tập liên kết: Tập các liên kết cùng kiểu
+- Ràng buộc kết nối
+	- 1-1
+	- 1-n
+	- n-n
+	- Đệ quy
+### Cách thiết lập sơ đồ liên kết thực thể
+- B1: Xác định các thực thể
+- B2: Xác định các liên kết giữa các thực thể
+	- Bậc của liên kết
+	- Ràng buộc

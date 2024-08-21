@@ -1,0 +1,59 @@
+- Introduction
+	- ML vs DM
+	- Data type
+	- Methodology
+	- ML overview
+		- (T,P,E)
+		- Phân loại
+	- Vấn đề trong ML
+		- Overfit vs Underfit
+- Data mining
+	- Dữ liệu vs thông tin vs tri thức
+	- Giới thiệu một số vấn đề trong KDD-Knowledge Discovery in Database
+- Preprocess
+	- Đặt vấn đề: Tại sao cần tiền xử lý
+	- Quy trình tiền xử lý
+		- Làm sạch
+		- Tích hợp
+		- Chuyển đổi
+		- Giảm chiều
+- Linear regression
+	- Hàm hồi quy
+	- Hàm lỗi
+	- OLS
+	- Ridge
+	- Lasso
+- Clustering
+	- K-means
+	- Online K-means
+- Model assessment
+	- Đánh giá lý thuyết vs thực nghiệm
+	- Các phương pháp chia bộ dữ liệu
+		- Hold out & Repeated hold out
+		- Stratified sampling
+		- Cross-validation
+		- Bootstrap sampling
+	- Lựa chọn tham số và mô hình
+	- Tiêu chí đánh giá
+		- Tính chính xác
+		- Ma trận nhầm lẫn
+		- Precision and Recall
+		- F1
+- KNN
+	- Giải thuật
+	- Hàm khoảng cách
+	- Chuẩn hóa miền giá trị thuộc tính
+	- Trọng số của các thuộc tính
+	- Khoảng cách của các láng giềng
+	- Ưu nhược điểm
+- Random Forests
+	- Decision tree
+		- ID3
+		- Entropy
+		- Information Gain
+		- Tỉa cây
+			- Reduced-error pruning
+			- Rule post pruning
+	- Random forests
+- Probability model
+	- 

@@ -1,0 +1,45 @@
+- Thiết kế
+	- Chức năng
+		- Quản lý KPI:
+			- Tạo KPI
+				- Cách thức
+					- Tự tạo
+					- Từ hệ thống
+					- Upload file excel
+				- Phân cấp
+					- KPI 1
+						- Mục tiêu 1
+							- Công việc 1
+								- 
+						- Mục tiêu 2
+					- KPI 2
+			- 
+			- Đồng bộ với file excel
+			- Thông báo
+		- Quản lý công việc
+			- Đồng bộ với các app todolist, calendar khác
+			- Tự động add lịch
+			- Thông báo
+		- Ghi nhận phản hồi
+	- Điều hướng
+		- home breadcrumb
+	- Hỗ trợ tương tác
+		- Làm thay
+		- Chỉ dẫn
+		- Cảnh báo
+	- Tiểu tiết
+		- Nhất quán ngôn ngữ
+		- Thêm logo
+		- Màu
+			- Màu chủ đạo chưa nổi bật
+			- Check các màu còn lại có nhất quán
+		- Font
+			- Đồng bộ font
+			- Kích cỡ chữ (menu quá bé)
+		- Check lại form đánh giá 1 và tự trả lời các câu hỏi
+		- Làm script thuyết trình
+- Mẫu thử
+	- Làm dữ liệu real
+	- Web
+		- 
+	- Mobile

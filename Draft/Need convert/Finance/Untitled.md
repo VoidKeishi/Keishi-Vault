@@ -1,0 +1,14 @@
+- Fed tăng/hạ lãi suất
+- R
+	- Real interest rate
+	- Nominal interest rate
+- Thời kì thắt chặt và mở rộng
+	- Lãi suất tăng thì giá trái phiếu giảm
+	- Thắt chặt kiểm soát lạm phát
+- Tiền gửi ngân hàng
+	- Rủi ro lãi suất, phần bù rủi ro
+	- Tỉ lệ tăng trưởng GDP -> lãi suất
+- Trái phiếu doanh nghiệp
+- Trả cổ tức
+	- Bằng tiền
+	- Bằng cổ phiếu

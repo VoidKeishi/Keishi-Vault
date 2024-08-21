@@ -1,0 +1,44 @@
+- Form
+	- Ứng dụng demo nhằm giải quyết khó khăn gì của người dùng ? Các trang / màn hình/ phần tử giao diện nào trực tiếp giải quyết khó khăn này ? Các điều hướng / tương tác / hỗ trợ tương tác nào trực tiếp giải quyết khó khăn này ?
+		- Quản lý 
+	- Ứng dụng demo nhằm giải quyết yêu cầu nào của người dùng về tính dùng được ? Các trang / màn hình/ phần tử giao diện nào trực tiếp đáp ứng yêu cầu này ? Các điều hướng / tương tác / hỗ trợ tương tác nào trực tiếp đáp ứng yêu cầu này ?
+	- Ứng dụng demo nhằm giải quyết yêu cầu nào của người dùng về trải nghiệm người dùng ? Các trang / màn hình/ phần tử giao diện nào trực tiếp đáp ứng yêu cầu này ? Các điều hướng / tương tác / hỗ trợ tương tác nào trực tiếp đáp ứng yêu cầu này ?
+	- Nội dung nhận xét (liên quan đến việc tuân thủ / vi phạm các nguyên tắc / hướng dẫn thiết kế giao diện). Ít nhất 1 tình huống tuân thủ, 1 tình huống vi phạm. Mẫu nhận xét: Trang nào / màn hình nào / phần tử giao diện nào. Mục đích sử dụng nào / điều hướng / tương tác / hỗ trợ tương tác nào. Tình huống tuân thủ / vi phạm. Đề xuất chỉnh sửa (nếu có).
+	- Nội dung câu hỏi (liên quan đến các tài liệu thiết kế số 4 - 9 các bạn đã nộp và đã trình bày, hoặc liên quan đến các kỹ thuật thiết kế nội dung, kết xuất nội dung, điều hướng, hỗ trợ tương tác mà các bạn đã thực hiện và đã demo)
+	- Nội dung đề xuất chỉnh sửa *
+	- Đặc điểm nào của mẫu thử để lại ấn tượng tốt nhất với em ? *
+	- Đánh giá mức độ giải quyết khó khăn của người dùng   (0-10, 10 là tốt nhất)*
+	- Đánh giá mức độ dùng được (0-10, 10 là tốt nhất)*
+	- Đánh giá mức độ trải nghiệm người dùng   (0-10, 10 là tốt nhất)*
+- Feedback của cô
+	- Nhóm 11: 
+		- Màu của state late muốn hợp màu vàng chủ đạo thì nên chuyển sang màu cam thay vì đỏ chói (lệch tone)
+		- Cần nút quay lại
+		- Tính dùng được thể hiện ở đâu, giải quyết khó khăn gì, giải quyết như nào, có gì hơn ứng dụng hiện tại giáo viên có (trình bày theo các câu hỏi cần trả lời trong form, theo 1 kịch bản )
+		- Ghi nhận và xem thưởng, cảnh báo kpi
+		- Cần show được PDCA![[Pasted image 20240517150349.png]]
+	- Nhóm 22:
+		- Phân biệt quản lý công việc và KPI
+			- Công việc là cái cần làm
+			- KPI là đánh giá của công việc
+		- Nhóm đang add KPI như công việc
+		- Dữ liệu fake: Không đánh giá được thực tế hoạt động
+		- Calendar tốt hơn nếu tô màu theo ngày
+		- Cảnh báo theo deadline
+		- Check theo empathy map 
+	- Nhóm 23
+		- Trang chưa đăng nhập nên có giới thiệu về tính năng
+		- Nên tách các trường thông tin ra thành các trang khác nhau ở phần đăng nhập
+		- Sidebar nên đủ các trang, khả năng điều hướng chưa tốt
+		- Cách thiết lập KPI sát với mô tả nhất
+	- Nhóm 25
+		- Nên tạo thanh track đang ở đâu: Trang chủ > Biểu đồ 1
+		- 4 nội dung cần thiết kế
+			- Nội dung
+			- Kết xuất
+			- Điều hướng
+			- Hỗ trợ tương tác
+				- Làm thay
+				- Chỉ dẫn
+				- Cảnh báo
+		- KPI có thể vượt/đạt/chưa đạt
