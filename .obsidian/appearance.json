@@ -5,5 +5,6 @@
   "nativeMenus": false,
   "baseFontSize": 20,
   "baseFontSizeAction": true,
-  "textFontFamily": "Arial"
+  "textFontFamily": "Arial",
+  "theme": "obsidian"
 }
