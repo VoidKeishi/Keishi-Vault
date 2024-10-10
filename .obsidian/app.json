@@ -10,6 +10,6 @@
     "downscalePercent": 100
   },
   "promptDelete": false,
-  "newFileLocation": "folder",
+  "newFileLocation": "root",
   "newFileFolderPath": "Pernament"
 }

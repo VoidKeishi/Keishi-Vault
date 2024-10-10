@@ -10,5 +10,6 @@
   "calendar",
   "dataview",
   "templater-obsidian",
-  "obsidian-checklist-plugin"
+  "obsidian-checklist-plugin",
+  "obsidian-git"
 ]
