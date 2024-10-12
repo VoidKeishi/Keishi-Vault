@@ -6,7 +6,7 @@ type:
 time created: 21-09-2024
 last modified: 21-09-2024
 ---
-# Frontend
+A# Frontend
 - [[HTML]]
 - [[CSS]]
 	- [[Bootstrap]]
