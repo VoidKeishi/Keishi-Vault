@@ -1,10 +1,11 @@
-# Source
-- From scratch to having boot menu: [Kskroyal](https://www.youtube.com/watch?v=JRdYSGh-g3s) - From start to 28:25
-- [Arch wiki](https://wiki.archlinux.org/title/Installation_guide)
-- https://wiki.archlinux.org/title/General_recommendations
 # Preparation
 - Download Arch image + Rufus
-- Create Bootable usb from Arch Image
+
+- Create Bootable usb from Arch Image 
+	- Rufus setting
+		- GPT for UEFI
+		- FAT32
+		- Cluster 8192 bytes
 - Create free space (min 30GB)
 - Turn off secure boot, turn on usb boot in BIOS
 # Installing
@@ -16,9 +17,22 @@ setfont ter-132n
 ```
 - Connect to wifi or LAN
 	- ping google.com to check
+```shell
+iwctl
+device list
+device [device] show
+station [device] get-networks
+station [device] connect [wifi]
+exit
+```
+- Update
+```shell
+pacman -Sy
+pacman -Syy
+```
 - Verify efi boot
 ```shell
-ls /sys/firmware/efi/efivars/
+ls
 ```
 - Update date & time
 ```shell
