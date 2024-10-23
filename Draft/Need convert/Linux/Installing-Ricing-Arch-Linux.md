@@ -68,15 +68,3 @@ sudo nano /etc/default/grub
 ```shell
 sudo grub-mkconfig -o /boot/grub/grub.cfg
 ```
-- Mount the EFI system
-```shell
-pacman -S os-prober
-grub-install --target=x86_64-efi --bootloader-id=grub_uefi --recheck
-grub-mkconfig -o /boot/grub/grub.cfg
-ls /boot/efi/EFI/
-ls /boot/efi/EFI/grub_uefi/
-systemctl enable dhcpcd.service
-systemctl enable NetworkManager.service
-umount -lR /mnt
-reboot
-```
