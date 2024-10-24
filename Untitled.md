@@ -1,0 +1,4 @@
+- Thêm trang đăng ký
+- Thêm màn hình lọc, tìm kiếm
+- Bổ sung tiêu chí chọn và lọc
+- Đánh số lại các màn hình
