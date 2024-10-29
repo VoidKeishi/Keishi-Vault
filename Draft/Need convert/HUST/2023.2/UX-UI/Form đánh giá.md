@@ -1,7 +1,0 @@
-- Giải quyết khó khăn gì
-	- Quản lý KPI: Tạo KPI, theo dõi tiến độ KPI, hỗ trợ nhập liệu...
-	- Quản lý công việc: Theo dõi danh sách công việc, trực quan hóa, theo dõi kết quả công việc
-- Tính dùng được
-	- Tính năng mạnh
-	- Tính dễ dùng
-- Trải nghiệm người dùng

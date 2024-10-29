@@ -1,7 +1,0 @@
-- Trắc nghiệm (60%)
-	- Cover toàn bộ nội dung được học
-	- Làm thử trên daotao.ai
-- Tự luận (40%)
-	- Thiết kế mẫu thử của một, hai màn hình
-	- Điều chỉnh thiết kế
-	- Phát hiện các vi phạm

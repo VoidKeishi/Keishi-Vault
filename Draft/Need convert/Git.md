@@ -59,9 +59,6 @@ git rebase --abort
 ## Github
 ### How to synchronize local folder with remote repository on GitHub
 First create repository on GitHub
-
-  
-
 If start from GitHub:
 - Clone from repository on GitHub:
         git clone <https://github.com/username/remote-repository.git>
