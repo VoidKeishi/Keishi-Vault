@@ -6,7 +6,7 @@ type:
 time created: 21-09-2024
 last modified: 21-09-2024
 ---
-A# Frontend
+# Frontend
 - [[HTML]]
 - [[CSS]]
 	- [[Bootstrap]]
@@ -26,7 +26,6 @@ A# Frontend
 - [[Java]]
 	- [[Spring]]
 		- [[SpringBoot]]
-- 
 # Database
 - [[MongoDB]]
 - [[MySQL]]
