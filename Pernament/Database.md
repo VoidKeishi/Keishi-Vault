@@ -7,6 +7,7 @@ type:
 time created: 07-11-2024
 last modified: 07-11-2024
 ---
+- Operational vs Analytical
 - Relational
 	- Advantage
 		- Đảm bảo sẵn (built-in) tính toàn vẹn ở nhiều cấp độ
@@ -17,6 +18,8 @@ last modified: 07-11-2024
 		- Dữ liệu độc lập với hoạt động của chương trình: Người dùng không thể thay đổi cấu trúc dữ liệu
 		- Đảm bảo tính nhất quán và chính xác
 		- Dễ dàng truy vấn dữ liệu
-	- RDBMS
-	- 
 - Non-relational
+- Mục tiêu khi thiết kế database
+	- Nhất quán
+	- Toàn vẹn
+	- Chính xác
