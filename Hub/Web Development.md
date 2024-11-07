@@ -20,7 +20,7 @@ last modified: 21-09-2024
 - [[JavaScript]]
 	- [[NodeJs]]
 		- [[ExpressJs]]
-			- [[NestJs]]
+			- [[NestJS]]
 - [[Python]]
 	- [[Django]]
 - [[Java]]
