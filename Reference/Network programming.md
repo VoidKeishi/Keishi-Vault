@@ -1,8 +1,9 @@
 ---
 tags:
   - network_programming
+  - hust_course
 type:
-  - reference
+  - pernament
 time created: 11-11-2024
 last modified: 11-11-2024
 ---
@@ -31,4 +32,24 @@ argv[2]: 2nd argument
 */
 ```
 - Pointer
-- 
+- Structure
+	- Typedef
+- Link list
+- I/O function
+	- printf
+	- fprintf
+	- gets
+	- fgets
+	- getc
+	- putc
+	- scanf
+	- fscanf
+- File handling
+# Concepts in computer network
+- OSI vs TCP/IP model
+# Socket introduction
+- Socket
+- Stream socket
+- Datagram socket
+- APIs for managing names and IP
+- Socket Address Structure
