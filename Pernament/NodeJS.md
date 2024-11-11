@@ -6,5 +6,13 @@ type:
 time created: 07-11-2024
 last modified: 07-11-2024
 ---
-- NodeJS là open source, cross platform môi trường thực thi cho [[JavaScript]]
-- 
+# Tổng quan
+- NodeJS là một open source, cross platform [[Runtime enviroment]] cho [[JavaScript]]
+- [[JavaScript]] engine là chương trình dịch [[JavaScript]] sang mã máy, thường được phát triển bởi các bên cung cấp trình duyệt
+	- V8 - Engine mã nguồn mở của Google
+	- SpiderMonkey - Engine của Mozilla Firefox
+	- JavaScriptCore - Engine mã nguồn mở của Apple cho Safari
+- [[NodeJS]] sử dụng V8, viết bằng C++ và mở rộng chức năng cho V8
+![[Pasted image 20241111150931.png]]
+- [[Cài đặt NodeJS]]
+
