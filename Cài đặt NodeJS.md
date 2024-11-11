@@ -5,6 +5,7 @@ type:
 time created: 11-11-2024
 last modified: 11-11-2024
 ---
+- Cài đặt [[NodeJS]] bằng nvm
 ```bash
 # installs nvm (Node Version Manager)
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.0/install.sh | bash
