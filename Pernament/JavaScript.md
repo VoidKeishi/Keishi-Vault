@@ -10,3 +10,5 @@ last modified: 31-10-2024
 - ECMA-262 là đặc tả ngôn ngữ
 - ECMAScript là ngôn ngữ implement từ đặc tả
 - JavaScript build on top ECMAScript (gần như là 1)
+- Spread operator
+- Rest parameters
