@@ -2,7 +2,7 @@
 tags:
   - javascript
   - standard
-type: 
+type: pernament
 time created: 11-11-2024
 last modified: 11-11-2024
 ---

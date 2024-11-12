@@ -2,8 +2,7 @@
 tags:
   - web_development
   - frontend_development
-type:
-  - pernament
+type: pernament
 time created: 21-09-2024
 last modified: 21-09-2024
 ---
