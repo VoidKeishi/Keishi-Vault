@@ -2,8 +2,7 @@
 tags:
   - competitive_programming
   - data-structure-n-algorithm
-type:
-  - reference
+type: reference
 time created: 04-09-2024
 last modified: 04-09-2024
 ---

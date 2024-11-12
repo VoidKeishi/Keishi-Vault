@@ -1,8 +1,7 @@
 ---
 tags:
   - web_development
-type:
-  - hub
+type: hub
 time created: 21-09-2024
 last modified: 21-09-2024
 ---

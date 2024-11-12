@@ -2,8 +2,7 @@
 tags:
   - method
   - general_concept
-type:
-  - pernament
+type: pernament
 time created: 15-08-2024
 last modified: 15-08-2024
 ---

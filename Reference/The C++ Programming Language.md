@@ -1,8 +1,7 @@
 ---
 tags:
   - cpp
-type:
-  - reference
+type: reference
 time created: 19-08-2024
 last modified: 16-08-2024
 ---
