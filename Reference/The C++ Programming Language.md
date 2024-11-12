@@ -15,4 +15,3 @@ last modified: 16-08-2024
 	- [[Object-oriented Programming]]
 	- Generic programming
 - Classes
-	- 
