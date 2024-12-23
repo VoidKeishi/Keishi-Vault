@@ -2,8 +2,7 @@
 tags:
   - programming_language
   - mobile_development
-type:
-  - pernament
+type: pernament
 time created: 29-10-2024
 last modified: 29-10-2024
 ---
@@ -36,16 +35,26 @@ println(i.toByte())
 val oneMillion = 1_000_000
 ```
 ### String
-- Strings: Sequence of characters
+- Sử dụng ngoặc kép hoặc 3 dấu ngoặc kép
 ```kotlin
 val s1 = "Hello world!"
 val s2 = """
 	var bikes = 50
 """
 ```
+- String template
+```kotlin
+val s = "abc"
+println("$s.length is ${s.length}")
+=> abc.length is 3
+```
 - String concatenation
 ```kotlin
 val number = 3
 "The number is $number "
 => The number is 3
+```
+### Specifying type
+- Sử dụng : <type> = để khai báo kiểu biến và giá trị
+```kotlin
 ```
