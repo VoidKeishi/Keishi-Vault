@@ -28,4 +28,12 @@ last modified: 29-10-2024
 	- Eager filter: luôn lọc (mặc định)
 	- Lazy filter: chỉ lọc khi cần trong runtime
 		- Sử dụng asSequence() để dùng lazy filter, có thể biến thành list lại bằng toList()
-# [[
+# [[Kotlin classes]]
+- Định nghĩa lớp
+- Constructor
+- getter/setter mặc định có sẵn và có thể override
+- Kế thừa: đơn kế thừa
+	- Dùng open để cho phép kế thừa, override
+	- Dùng abstract để tạo lớp trừu tượng
+- Interface: class a() : interface
+- 
