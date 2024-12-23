@@ -24,6 +24,7 @@ last modified: 29-10-2024
 - Char: 16-bit Unicode character
 - Boolean: 8-bit True/False
 ### Type casting
+- Sử dụng : \<type> = để khai báo kiểu biến và giá trị, sử dụng to\<Type>  để cast type
 ```kotlin
 val i: Int = 6
 println(i.toByte())
@@ -54,7 +55,75 @@ val number = 3
 "The number is $number "
 => The number is 3
 ```
-### Specifying type
-- Sử dụng : <type> = để khai báo kiểu biến và giá trị
+## Variable
+- var thay đổi được (mutable), val không thay đổi được (immutable)
 ```kotlin
+val a = 2
+a = 3
+=> Error: val cannot be reassinged
+```
+## Conditional
+- If else
+```kotlin
+if (condition) {
+	do1
+}
+else if{
+	do2
+}
+else {
+	do3
+}
+```
+- When - switch case trong kotlin, sử dụng condition -> do mỗi case
+```kotlin
+when (variable) {
+	0 -> do1
+	in 1..39 -> do2
+	else -> do3
+}
+```
+- For loop, không cần định nghĩa iterator, sử dụng .withIndex() để lấy ra index từng phần tử
+```kotlin
+//Auto iterate
+val pets = arrayOf("dog", "cat", "canary") 
+for (element in pets) { 
+	print(element + " ") 
+}
+⇒ dog cat canary
+//withIndex()
+for ((index, element) in pets.withIndex()) { 
+	println("Item at $index is $element\n") 
+}
+⇒ Item at 0 is dog 
+Item at 1 is cat 
+Item at 2 is canary
+//Step
+for (i in 5 downTo 1) print(i)
+for (i in 3..6 step 2) print(i)
+for (i in 'd'..'g') print (i)
+```
+- While
+```kotlin
+while (condition) {}
+do {} while (condition)
+```
+- Repeat - chỉ định số lần lặp
+```kotlin
+repeat(10) {}
+```
+## Lists and arrays
+### Lists
+- Có thứ tự
+```kotlin
+//Immutable list
+listOf("","","")
+//Mutable list
+mutableListOf("","","")
+//Mutable list can be editted with method
+myList.remove(value)
+```
+### Arrays
+```kotlin
+arrayOf("","","")
 ```
