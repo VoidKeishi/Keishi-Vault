@@ -1,12 +1,10 @@
 ---
-tags:
-  - programming_language
-  - mobile_development
-type: pernament
-time created: 29-10-2024
-last modified: 29-10-2024
+tags: 
+type: 
+time created: 23-12-2024
+last modified: 23-12-2024
 ---
-# Basics
+- Một phần của [[Kotlin in a nutshell]]
 ## Operator
 - Mathematical: + - * / %
 - Increment and decrement: ++ --
@@ -114,7 +112,7 @@ repeat(10) {}
 ```
 ## Lists and arrays
 ### Lists
-- Có thứ tự
+- Có thứ tự, có thể truy cập index, có thể lặp
 ```kotlin
 //Immutable list
 listOf("","","")
@@ -124,6 +122,22 @@ mutableListOf("","","")
 myList.remove(value)
 ```
 ### Arrays
+- Có thể truy cập index, size fixed, nhanh hơn nhưng kém linh hoạt về kiểu và size
 ```kotlin
 arrayOf("","","")
 ```
+## Null safety
+- BIến trong Kotlin mặc định không Null
+- Muốn gán null cần safe call operator (?)
+```kotlin
+var a: Int? = null
+```
+- Throw exception nếu null với !!
+```kotlin
+val len = s!!.length
+```
+- Elvis operator (?:): nếu giá trị đầu không null thì gán, không thì gán giá trị 2
+```kotlin
+val a = b ?: 0
+```
+
