@@ -31,9 +31,31 @@ last modified: 29-10-2024
 # [[Kotlin classes]]
 - Định nghĩa lớp
 - Constructor
-- getter/setter mặc định có sẵn và có thể override
 - Kế thừa: đơn kế thừa
 	- Dùng open để cho phép kế thừa, override
 	- Dùng abstract để tạo lớp trừu tượng
 - Interface: class a() : interface
-- 
+- Có thể overload constructor
+- Extension function: Thêm method vào class mà không cần sửa class
+- Data class: Giống struct, có sẵn getter, setter
+- Pair triple
+- Companion: Shared object
+- Single file, multiple entity
+- Packages
+# [[Android app]]
+- Activity
+	- Launch -> onCreate() -> App running -> Shutdown
+- View: XML
+	- TextView
+	- ImageView
+- ViewGroup
+	- FrameLayout
+	- LinearLayout
+	- ConstraintLayout
+- Resources
+	- Layout
+	- Image
+	- Audio
+	- UI string
+	- App Icon
+- Gradle file
