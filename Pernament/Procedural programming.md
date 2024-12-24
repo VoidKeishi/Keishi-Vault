@@ -1,8 +1,7 @@
 ---
 tags:
   - programming_concept
-type:
-  - pernament
+type: pernament
 time created: 19-08-2024
 last modified: 15-08-2024
 ---
