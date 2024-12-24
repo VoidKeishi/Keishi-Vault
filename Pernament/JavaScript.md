@@ -13,4 +13,3 @@ last modified: 31-10-2024
 	- JavaScript build on top ECMAScript (gần như là 1)
 - Spread operator (...)
 - Rest parameters
-- 
