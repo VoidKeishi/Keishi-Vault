@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiArchive",
       "LiSprout",
       "LiBriefcase",
       "LiNetwork",
-      "LiWallpaper",
-      "LiBrush"
+      "LiWallpaper"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -40,5 +40,5 @@
   "Draft": "LiPencil",
   "Hub": "LiNetwork",
   "Work": "LiBriefcase",
-  "Personal": "LiSprout"
+  "Personal": "LiArchive"
 }
