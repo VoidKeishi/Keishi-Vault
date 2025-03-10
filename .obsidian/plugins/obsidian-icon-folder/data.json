@@ -41,5 +41,6 @@
   "Draft": "LiPencil",
   "Hub": "LiNetwork",
   "Work": "LiBriefcase",
-  "Personal": "LiArchive"
+  "Personal": "LiArchive",
+  "Project": "LiNetwork"
 }
