@@ -10,7 +10,7 @@ last modified: 15-08-2024
 - Một số programming paradigm:
 	- [[Imperative Programming]]
 	- [[Declarative Programming]]
-	- [[Procedural Programming]]
+	- [[Procedural programming]]
 	- [[Functional Programming]]
-	- [[Object-Oriented Programming]]
+	- [[Object-oriented Programming]]
 	- [[Event-Driven Programming]] 

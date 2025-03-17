@@ -34,13 +34,13 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "Reference": "LiBookText",
-  "Pernament": "LiAtom",
   "Templates": "LiAlbum",
-  "Excalidraw": "LiWallpaper",
-  "Draft": "LiPencil",
-  "Hub": "LiNetwork",
   "Work": "LiBriefcase",
   "Personal": "LiArchive",
-  "Project": "LiNetwork"
+  "Project": "LiNetwork",
+  "1. Draft": "LiPencil",
+  "7. Excalidraw": "LiWallpaper",
+  "2. Reference": "LiBookText",
+  "6. Pernament": "LiAtom",
+  "5. Hub": "LiNetwork"
 }

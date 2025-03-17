@@ -8,8 +8,9 @@ last modified: 21-09-2024
 # Frontend
 - [[HTML]]
 - [[CSS]]
-	- [[Bootstrap]]
-	- [[Tailwind]]
+	- Framework
+		- [[Bootstrap]]
+		- [[Tailwind]]
 - [[JavaScript]]
 	- [[ReactJs]]
 		- [[NextJs]]
@@ -17,7 +18,7 @@ last modified: 21-09-2024
 	- [[AngularJs]]
 # Backend
 - [[JavaScript]]
-	- [[NodeJs]]
+	- [[NodeJS]]
 		- [[ExpressJs]]
 			- [[NestJS]]
 - [[Python]]

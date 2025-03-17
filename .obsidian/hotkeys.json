@@ -39,5 +39,14 @@
       ],
       "key": "ArrowRight"
     }
-  ]
+  ],
+  "file-explorer:move-file": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "M"
+    }
+  ],
+  "quick-latex:addInlineMath": []
 }
