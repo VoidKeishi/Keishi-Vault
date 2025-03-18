@@ -12,4 +12,4 @@ last modified: 19-08-2024
 	- Áp dụng
 	- Phân tích
 	- Đánh giá
-	- Tạo
+	- Tạo: Level cao nhất
