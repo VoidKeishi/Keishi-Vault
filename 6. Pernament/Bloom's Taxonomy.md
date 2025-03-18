@@ -7,7 +7,7 @@ last modified: 19-08-2024
 ---
 - Là mô hình phân cấp dùng để phân loại mục tiêu học và hiểu
 - Gồm 7 level
-	- Nhớ
+	- Nhớ: Level thấp nhất
 	- Hiểu
 	- Áp dụng
 	- Phân tích
