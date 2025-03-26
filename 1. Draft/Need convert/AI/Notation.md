@@ -1,4 +1,0 @@
-- $(x,y)$ là một cặp training example, $x\in{\mathbb{R}^{n_x}}$
-- $n_x$ là số chiều của dữ liệu hay số feature
-- $m$ là số cặp training example: {$(x^{(1)},y^{(1)}),(x^{(2)},y^{(2)}),...,(x^{(m)},y^{(m)})$}
-- $X$ là ma trận

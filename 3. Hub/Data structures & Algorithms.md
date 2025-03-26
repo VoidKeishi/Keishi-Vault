@@ -1,0 +1,26 @@
+#entry 
+# Data structures
+## Linear
+- Array
+- Linked List
+- Vector
+- Stack
+- Queue
+## Tree
+- Binary tree
+	- Binary search tree
+	- Heap
+	- Graph
+## Graph
+# Algorithms
+## Sorting
+- Bubble sort
+- Merge sort
+- Insertion sort
+- Quick sort
+- Selection sort
+- Heap sort
+## Searching
+- Linear search
+- Binary search
+## Indexing

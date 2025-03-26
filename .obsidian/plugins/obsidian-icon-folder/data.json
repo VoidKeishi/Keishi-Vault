@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "✍",
+      "LiLock",
       "LiArchive",
       "LiSprout",
-      "LiBriefcase",
-      "LiNetwork",
-      "LiWallpaper"
+      "LiBriefcase"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -34,13 +34,14 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "Templates": "LiAlbum",
   "Work": "LiBriefcase",
-  "Personal": "LiArchive",
-  "Project": "LiNetwork",
   "1. Draft": "LiPencil",
-  "7. Excalidraw": "LiWallpaper",
+  "3. Hub": "LiNetwork",
+  "4. Pernament": "LiAtom",
+  "5. Personal": "LiArchive",
+  "5. Personal/Project": "LiNetwork",
+  "6. Excalidraw": "LiWallpaper",
+  "5. Personal/Private": "LiLock",
   "2. Reference": "LiBookText",
-  "6. Pernament": "LiAtom",
-  "5. Hub": "LiNetwork"
+  "5. Personal/Blog idea": "✍"
 }

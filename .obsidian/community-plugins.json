@@ -11,5 +11,6 @@
   "dataview",
   "templater-obsidian",
   "obsidian-checklist-plugin",
-  "obsidian-git"
+  "obsidian-git",
+  "graph-nested-tags"
 ]
