@@ -21,7 +21,7 @@ var __copyProps = (to, from, except, desc) => {
 };
 var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: true }), mod);
 
-// main.ts
+// src/main.ts
 var main_exports = {};
 __export(main_exports, {
   default: () => GraphNestedTagsPlugin
@@ -29,13 +29,14 @@ __export(main_exports, {
 module.exports = __toCommonJS(main_exports);
 var import_obsidian = require("obsidian");
 var GraphNestedTagsPlugin = class extends import_obsidian.Plugin {
-  // At nodes changes graphLeaf.view.renderer.setData calls, so we need to step in and change links.
+  // inject our own wrapper around graphLeaf.view.renderer.setData
+  // which will manipulate add tag -> subtag hierarchy  
   inject_setData(graphLeaf) {
-    const r = graphLeaf.view.renderer;
-    if (!r._setData) {
-      r._setData = r.setData;
+    const leafRenderer = graphLeaf.view.renderer;
+    if (leafRenderer.originalSetData == void 0) {
+      leafRenderer.originalSetData = leafRenderer.setData;
     }
-    r.setData = (data) => {
+    leafRenderer.setData = (data) => {
       var _a;
       const nodes = data.nodes;
       let parent;
@@ -57,7 +58,7 @@ var GraphNestedTagsPlugin = class extends import_obsidian.Plugin {
           }
         }
       }
-      return (_a = r._setData) == null ? void 0 : _a.call(r, data);
+      return (_a = leafRenderer.originalSetData) == null ? void 0 : _a.call(leafRenderer, data);
     };
     return graphLeaf;
   }
@@ -67,7 +68,7 @@ var GraphNestedTagsPlugin = class extends import_obsidian.Plugin {
         for (const leaf of this.app.workspace.getLeavesOfType(
           "graph"
         )) {
-          if (leaf.view.renderer._setData === void 0) {
+          if (leaf.view.renderer.originalSetData === void 0) {
             this.inject_setData(leaf);
           }
         }
@@ -83,9 +84,9 @@ var GraphNestedTagsPlugin = class extends import_obsidian.Plugin {
     for (const leaf of this.app.workspace.getLeavesOfType(
       "graph"
     )) {
-      if (leaf.view.renderer._setData) {
-        leaf.view.renderer.setData = leaf.view.renderer._setData;
-        delete leaf.view.renderer._setData;
+      if (leaf.view.renderer.originalSetData) {
+        leaf.view.renderer.setData = leaf.view.renderer.originalSetData;
+        delete leaf.view.renderer.originalSetData;
         leaf.view.unload();
         leaf.view.load();
       }

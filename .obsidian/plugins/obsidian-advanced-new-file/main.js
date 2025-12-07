@@ -72,10 +72,31 @@ var NewFileLocation;
 var import_obsidian = __toModule(require("obsidian"));
 var path = {
   parse(pathString) {
-    const regex = /(?<dir>([^/\\]+[/\\])*)(?<name>[^/\\]*$)/;
-    const match = String(pathString).match(regex);
-    const { dir, name } = match && match.groups;
-    return { dir, name: name || "Untitled" };
+    const normalizedPath = (0, import_obsidian.normalizePath)(pathString);
+    const lastSlashIndex = normalizedPath.lastIndexOf("/");
+    let dir = "";
+    let fileName = "";
+    if (lastSlashIndex >= 0) {
+      dir = normalizedPath.substring(0, lastSlashIndex + 1);
+      fileName = normalizedPath.substring(lastSlashIndex + 1);
+    } else {
+      fileName = normalizedPath;
+    }
+    fileName = fileName || "Untitled";
+    const lastDotIndex = fileName.lastIndexOf(".");
+    if (lastDotIndex > 0 && lastDotIndex < fileName.length - 1) {
+      return {
+        dir,
+        name: fileName.substring(0, lastDotIndex),
+        ext: fileName.substring(lastDotIndex)
+      };
+    } else {
+      return {
+        dir,
+        name: fileName,
+        ext: ""
+      };
+    }
   },
   join(...strings) {
     const parts = strings.map((s) => String(s).trim()).filter((s) => s != null);
@@ -169,9 +190,10 @@ var CreateNoteModal = class extends import_obsidian2.Modal {
       const { vault } = this.app;
       const { adapter } = vault;
       const prependDirInput = path.join(this.newDirectoryPath, input);
-      const { dir, name } = path.parse(prependDirInput);
+      const { dir, name, ext } = path.parse(prependDirInput);
       const directoryPath = path.join(this.folder.path, dir);
-      const filePath = path.join(directoryPath, `${name}.md`);
+      const fileExtension = ext || ".md";
+      const filePath = path.join(directoryPath, `${name}${fileExtension}`);
       try {
         const fileExists = yield adapter.exists(filePath);
         if (fileExists) {
@@ -215,7 +237,7 @@ var ChooseFolderModal = class extends import_obsidian3.FuzzySuggestModal {
   init() {
     const folders = new Set();
     const sortedFolders = [];
-    let leaf = this.app.workspace.getLeaf(false);
+    const leaf = this.app.workspace.getLeaf(false);
     if (leaf && leaf.view instanceof import_obsidian3.MarkdownView && leaf.view.file instanceof import_obsidian3.TFile && leaf.view.file.parent instanceof import_obsidian3.TFolder) {
       folders.add(leaf.view.file.parent);
       sortedFolders.push(leaf.view.file.parent);
@@ -264,9 +286,15 @@ var ChooseFolderModal = class extends import_obsidian3.FuzzySuggestModal {
   }
   listenInput(evt) {
     var _a;
-    if (evt.key == "Tab") {
+    if (evt.key === "Tab") {
       this.inputEl.value = (_a = this.findCurrentSelect()) == null ? void 0 : _a.innerText;
       evt.preventDefault();
+    } else if ((evt.ctrlKey || evt.metaKey) && (evt.key === "k" || evt.key === "p")) {
+      const upArrowEvent = new KeyboardEvent("keydown", { key: "ArrowUp" });
+      this.inputEl.dispatchEvent(upArrowEvent);
+    } else if ((evt.ctrlKey || evt.metaKey) && (evt.key === "j" || evt.key === "n")) {
+      const downArrowEvent = new KeyboardEvent("keydown", { key: "ArrowDown" });
+      this.inputEl.dispatchEvent(downArrowEvent);
     }
   }
   onOpen() {
@@ -335,3 +363,5 @@ var AdvancedNewFilePlugin = class extends import_obsidian4.Plugin {
     console.log("unloading plugin");
   }
 };
+
+/* nosourcemap */
