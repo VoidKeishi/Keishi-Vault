@@ -1,0 +1,11 @@
+#backend_development 
+- Viết tắt của Application programming interface
+- Là giao diện phần mềm cho phép các ứng dụng giao tiếp với nhau theo một tập hợp quy tắc và định dạng nhất định
+- Bao gồm 2 loại
+	- Internal API - Dùng trong hệ thống nội bộ, không công khai
+	- External API - Công khai để các ứng dụng bên ngoài sử dụng
+- Một số loại API phổ biến
+	- [[REST API]]: Giao tiếp qua [[HTTP]], sử dụng [[JSON]] hoặc [[XML]]
+	- [[GraphQL API]]: Cho phép truy vấn dữ liệu linh hoạt hơn
+	- [[gRPC API]]: Dựa trên giao thức [[RPC]], dùng [[ProtoBuf]] thay vì [[JSON]]
+	- [[WebSocket API]]: Hỗ trợ giao tiếp 2 chiều, server có thể chủ động gửi thông tin đến client

@@ -1,0 +1,22 @@
+# Ứng dụng của vi phân trong hình học
+## Hình phẳng
+- Đường cong dạng f(x,y)
+	- Điểm chính quy và kì dị
+		- ![[Pasted image 20250417225151.png]]
+	- Phương trình tiếp tuyến
+		- ![[Pasted image 20250417225302.png]]
+	- Phương trình pháp tuyến
+		- ![[Pasted image 20250417225336.png]]
+	- Độ cong
+		- ![[Pasted image 20250417225621.png]]
+- Đường cong dạng x=x(t), y=y(t)
+	- Phương trình tiếp tuyến
+		- ![[Pasted image 20250417225515.png]]
+	- Phương trình pháp tuyến
+		- ![[Pasted image 20250417225530.png]]
+	- Độ cong
+		- ![[Pasted image 20250417225654.png]]
+- Đường cong trong hệ tọa độ cực
+	- Độ cong
+		- ![[Pasted image 20250417225721.png]]
+	- 

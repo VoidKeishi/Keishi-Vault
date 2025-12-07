@@ -1,0 +1,15 @@
+#networking/5g/core/concepts 
+- Viết tắt của Network slice selection function
+- Là một [[NF]] trong [[5G Core]], chịu trách nhiệm chọn [[Network slice]] phù hợp cho [[UE]] dựa trên
+	- Thông tin từ [[UE]]
+	- [[UDM]]
+	- Chính sách mạng
+	- Năng lực [[Network slice]] hiện có
+- Mục tiêu
+	- Đảm bảo UE gán đúng [[Network slice]] theo yêu cầu dịch vụ, chính sách và vùng phục vụ
+	- Hỗ trợ triển khai slicing 5G linh hoạt
+- Chức năng chính
+	- Phân tích Requested [[NSSAI]] từ [[UE]] và kiểm tra với Subcribed [[NSSAI]] từ [[UDM]]
+	- Ánh xạ Requested [[NSSAI]] -> Allowed [[NSSAI]], lọc ra các slice hợp lệ tại vùng phủ ([[TAI]])
+	- Chọn [[AMF]] phù hợp với Allowed [[NSSAI]] và trả về danh sách [[AMF]] instance có thể phục vụ
+	- Phản hồi lại [[AMF]] thông tin về Allowed [[NSSAI]] và [[AMF]] phù hợp

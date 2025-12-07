@@ -1,0 +1,11 @@
+#vibe_coding 
+- Planning trước
+	- Techstack
+	- Rules
+	- Structure
+	- Implement plan
+- Tài liệu hóa
+- Công cụ
+	- [[Cursor]]
+	- [[Windsurf]]
+	- [[VSCode Copilot]]

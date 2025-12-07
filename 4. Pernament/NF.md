@@ -1,0 +1,26 @@
+#networking/5g/core/concepts 
+- Viết tắt của network function
+- Là một thực thể logic trong kiến trúc mạng 5G, thực hiện một tập hợp các chức năng mạng xác định
+- Được phân thành 2 nhóm
+	- [[CP]]: Nhóm các chức năng điều khiển
+	- [[UP]]: Nhóm các chức năng truyền nhận dữ liệu
+- Triển khai dựa trên kiến trúc [[SBA]]
+	- Mỗi [[NF]] cung cấp dịch vụ thông qua các API RESTful
+	- [[NF]] đăng ký, phát hiện, gọi nhau thông qua 1 loại [[NF]] chuyên dụng là [[NRF]]
+- Các [[NF]] về cơ bản là một bộ mã nguồn được triển khai dưới dạng microservice độc lập, chạy trong container, quản lý tự động thông qua nền tảng như [[Kubernetes]]
+- Mỗi [[NF]] có thể phục vụ 1 hay nhiều [[NF]] tùy vào thiết kế mạng
+# Tổng quan về các chức năng mạng
+- [[NSSF]] - Network slice selection function: Lựa chọn các [[Network slice]] và AMF phục vụ UE, xác định [[NSSAI]]
+- [[NEF]] - Network exposure function: Cung cấp thông tin về chức năng cho bên thứ ba truy cập một cách an toàn
+- [[NRF]] - Network repository function: Nhận thông tin từ các NF, và cung cấp thông tin phù hợp khi có yêu cầu discorvery. Quản lý thông tin NF trong hệ thống, bao gồm dữ liệu cấu hình và trạng thái
+- [[PCF]] - Policy Control Function: Cung cấp các quy tắc, chính sách cho các chức năng [[CP]] khác, sử dụng framework chính sách thống nhất
+- [[CHF]] - Charging function: Cung cấp chức năng tính cước online và offline, hạn mức tính cước
+- [[UDM]] - Unified Data Management: Quản lý dữ liệu thuê bao
+- [[AF]] - Application function: Các chức năng ứng dụng tương tác với mạng lõi, hoạt động như đầu mối tương tác giữa ứng dụng dịch vụ và mạng lõi.
+- [[NSSAF]] - Network slice-specific and SNPN Authentication and Authorization function: Thực hiện xác thực và ủy quyền các đặc tính của [[Network slice]]
+- [[AUSF]] - Authentication server function:Hỗ trợ xác thực cho các thiết bị
+- [[AMF]] - Access and Mobility management Xử lý tất cả tín hiệu từ 5GC đến và đi từ [[UE]]
+- [[SMF]] - Session management function: Quản lý phiên
+- [[SMSF]] - Short message service function: Xử lý dịch vụ nhắn tin SMS 
+- [[SCP]] - Service communication proxy
+- [[UPF]] - User plane function

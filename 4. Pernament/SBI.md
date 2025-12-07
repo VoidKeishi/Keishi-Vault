@@ -1,0 +1,14 @@
+#networking/5g/core/concepts  
+- Viết tắt của Service Based Interface
+- Là giao diện thiết kế dựa trên dịch vụ mà [[NF]] cung cấp, thay vì tập trung vào kết nối với bên yêu cầu
+	- Tức giao diện có thể cung cấp cho nhiều bên sử dụng linh hoạt thay vì kết nối điểm điểm
+- Tất cả các thành phần mạng trong [[CP]] sử dụng cùng 1 giao thức dựa trên [[HTTPS]] ([[HTTP/2]]) và [[REST API]] để trao đổi dữ liệu, ngoại trừ giao diện đến lớp truy nhập và giao diện [[UP]] sử dụng giao diện riêng
+- Lợi ích
+	- Cung cấp tính năng linh hoạt
+	- Cung cấp đến các ứng dụng bên thứ 3 dễ dàng mà không cần chuyển đổi giao thức
+- Phương thức hoạt động
+	- Mỗi dịch vụ cho NF sẽ gom thành các phương thức theo cấu trúc request-response hoặc subcribe-notify
+	- Tầng giao vận sử dụng TCP
+	- Tầng ứng dụng dựa trên HTTP/2
+	- Tầng biểu diễn dữ liệu sử dụng JSON
+	- Mỗi NF có thể là service producer hoặc service consumer

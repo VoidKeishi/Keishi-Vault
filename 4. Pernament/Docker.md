@@ -1,10 +1,6 @@
 #devops/tool/docker 
-- Docker components
-	- Client
-	- Server
-	- Image: Template
-	- Container: Instance
-	- Registries: Kho image
+- Là nền tảng mã nguồn mở để phát triển, vận chuyển và chạy ứng dụng, giúp ứng dụng không phải phụ thuộc vào cơ sở hạ tầng
+- Docker
 - Docker image
 	- Tải từ Docker Hub
 	- Tự tạo Dockerfile và build

@@ -1,0 +1,6 @@
+- Source: https://youtu.be/dFVrncgIvos?t=1087
+- Addressing ambiguity
+- Breaking down the problem
+- Creative
+- Smart
+- Communication

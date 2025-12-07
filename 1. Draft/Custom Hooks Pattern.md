@@ -1,0 +1,1 @@
+- Design Pattern quan trongj trong ReactJS

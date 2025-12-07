@@ -1,0 +1,13 @@
+#principles
+- Viết tắt của **Representational State Transfer**
+- Là một phong cách kiến trúc phần mềm dựa trên 6 ràng buộc chính
+	- Kiến trúc Client-Server
+	- [[Stateless]]
+	- Cacheable: Phản hồi từ server cần chỉ rõ khả năng được lưu cache để giảm tải cho các yêu cầu khác
+	- Giao diện đồng nhất về
+		- Cách xác định tài nguyên: Sử dụng [[URI]]
+		- Sử dụng [[JSON]] hoặc [[XML]] để truyền dữ liệu
+		- Mỗi thông điệp (request hoặc response) chứa đầy đủ thông tin cần thiết để xử lý
+		- Hypermedia as the Engine of Application State: Client tương tác với ứng dụng thong qua hyperlink trong response
+	- Hệ thống phân lớp: Cho phép kiến trúc chia thành các lớp có chức năng riêng
+	- Code on Demand: Có thể cung cấp cho client mã thực thi

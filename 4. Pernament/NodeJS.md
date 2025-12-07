@@ -7,7 +7,7 @@
 	- JavaScriptCore - Engine mã nguồn mở của Apple cho Safari
 - [[NodeJS]] sử dụng V8, viết bằng C++ và mở rộng chức năng cho V8
 ![[Pasted image 20241111150931.png]]
-- [[Cài đặt NodeJS]]
+- [[NodeJS Setup]]
 # Module
 - Trong [[NodeJS]], mỗi file là 1 module
 - Các loại module

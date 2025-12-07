@@ -1,4 +1,4 @@
-#general_concept 
+#concepts
 - Là mô hình phân cấp dùng để phân loại mục tiêu học và hiểu
 - Gồm 7 level
 	- Nhớ: Level thấp nhất

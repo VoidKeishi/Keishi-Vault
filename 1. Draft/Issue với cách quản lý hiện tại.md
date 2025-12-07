@@ -1,0 +1,3 @@
+- Chưa có mức độ priority cho từng task, cùng với đó là chưa rõ task nào cần phải xong trong sprint hiện tại
+- Cần estimate đầy đủ các task để dự kiến dễ hơn khi chậm deadline
+- Phân rã task hiện tại đang bị quá chi tiết, nên gộp task rồi phân nhỏ hơn trong mô tả

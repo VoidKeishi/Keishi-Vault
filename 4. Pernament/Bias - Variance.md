@@ -1,4 +1,4 @@
-#machine_learning/model_evaluation/bias_variance
+#ai/machine_learning/model_evaluation/bias_variance
 - Bias: Độ chệch khỏi ground truth của dự đoán - Giả thuyết dữ liệu tuân theo một quy luật là sai
 - Variance: Mức độ dao động - high sensitivity to variations in training data
 - BIểu hiện

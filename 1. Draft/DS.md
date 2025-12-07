@@ -1,0 +1,93 @@
+# Intro
+- 6 mục tiêu với data trong môn
+	- Hiểu
+	- Xử lý
+	- Khai thác giá trị
+	- Trực quan hóa
+	- Giao tiếp
+	- Dự đoán dựa trên data
+- Mục tiêu của DS: Mô tả hoặc dự đoán
+- Methodology
+	- Insight-driven: Hướng tới khai thác tri thức
+		- Gồm 5 giai đoạn có thể quay lại
+			- Thu thập
+			- Xử lý
+			- Trực quan hóa và nắm bắt
+			- Phân tích, giả định và áp dụng mô hình
+			- Tìm ra tri thức và đưa ra quyết định
+	- Product-driven
+		- Hiểu nghiệp vụ
+		- Analytic approach: framing và đưa về bài toán trong DS
+		- Tạo yêu cầu cho data
+		- Thu thập data
+		- Tìm hiểu data
+		- Chuẩn bị data
+		- Áp dụng mô hình
+		- Đánh giá
+		- Triển khai
+		- Feedback
+- Thao tác với data
+	- Mô tả
+	- Phân cụm
+	- Phân tích tìm luật kết tập (Nếu A thì B)
+	- Dự đoán
+- Big data: 10V, challenges,...
+- Data scientist
+# Crawling
+- Một số khái niệm
+	- Scraping: Là việc thu thập data từ nguồn không cung cấp cách access trực tiếp mà chỉ qua văn bản dành cho người đọc
+	- Screen mining: "Đào" chữ từ màn hình, dùng screenshot + OCR hoặc điều khiển GUI để cap
+	- Report mining: Trích văn bản từ tài liệu cho người như PDF
+	- Web scraping: Thu thập thông qua HTML của web
+	- Crawler: Là "Robot" tự động crawl data, nhấn mạnh vào việc thu thập thông qua URL, như việc tạo index hơn là extract thông tin
+	- Crawling policy: Tập "chính sách" hay luật quy định cách crawler hoạt động, bao gồm selection, re-visit, politeness (tránh làm quá tải web), parallelization (cách phối hợp với nhiều crawler khác).
+- Thách thức với crawling: Internet quá lớn, page không phù hợp, content thay đổi, content lặp
+- Exploitation vs Exploration: Exploit tập trung vào chất lượng thông tin từ các page có độ chắc chắn cao, exploration là độ đa dạng thông tin, 2 cái này trade-off lẫn nhau
+- Politeness: Explicit vs Implicit - Có thể do web quy định bằng robots.txt và nên tuân thủ (explicit), hoặc tự hiểu là cần tránh ảnh hưởng đến tài nguyên của web (implicit)
+	- Robots.txt: Tập luật chỉ ra các đường dẫn con cho phép truy cập hay bị cấm của 1 web
+- Phân biệt scraping và crawling: 
+	- Crawling tạo bản sao của thông tin (đánh index và tải)
+	- Scraping tìm ra thông tin cần để phân tích
+- XPath: Kĩ thuật extract info từ web, xử lý cấu trúc cây XML, HTML
+- Một số hạn chế kĩ thuật
+- Khía cạnh về đạo đức, luật pháp khi thu thập
+- Một số công cụ scraping
+	- Scrapy
+	- XPath
+- PageRank: Đánh giá độ quan trọng của website (tiền thân của SEO) thông qua cấu trúc HTML (Cần review)
+# Cleaning & Integrating
+- Tích hợp
+	- Các kiểu không đồng nhất của data
+		- Phần cứng và OS
+		- Hệ quản trị data
+		- Mô hình data
+		- Middle-ware: Cầu nối đến database khác nhau
+		- Giao diện người dùng: Cách biểu diễn data khác nhau
+		- Luật nghiệp vụ và ràng buộc toàn vẹn
+	- Giải pháp Ware house: Các nguồn đi qua ETL trước khi vào data ware house
+		- ETL: Extract, transform, load
+	- Giải pháp virtual integration: Không lưu data mà chuẩn bị sẵn pipeline để query thẳng từ nguồn khi cần, thông qua wrapper cho mỗi source
+		- Wrapper: Cung cấp cách lấy data và format data
+		- Source Catalog: Cung cấp thông tin về data
+		- Schema mediation: Viết lại truy vấn theo schema gốc
+- Apache Nifi: framework web scraping
+- Vấn đề về data quality
+	- Cấp giá trị
+	- Cấp cột
+	- Cấp bản ghi (hàng)
+	- Cấp quan hệ (cả bảng)
+	- Cấp nhiều quan hệ (giữa các bảng)
+- Data cleaning
+	- Xử lý missing: Bỏ, fill tay, dùng hằng, dùng trung bình (có thể theo lớp), dùng dự đoán
+	- Xử lý nhiễu: Sort rồi smooth by mean, phân cụm, hồi quy, dùng tay
+	- Xử lý thiếu nhất quán: Manually, phát hiện vi phạm ràng buộc
+- Data preprocessing (OpenRefine là công cụ)
+	- Xóa nhiễu
+	- Tóm tắt
+	- Tổng quát hóa
+	- Chuẩn hóa
+	- Giảm kích cỡ, lọc feature quan trọng
+	- Tạo feature mới
+# EDA
+- DS process: Đặt câu hỏi -> Thu data -> Phân tích -> Product
+- 

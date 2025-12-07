@@ -1,4 +1,4 @@
-#computer_science/image_processing
+#concepts/image_processing
 # RGB
 - $r,g,b \in [0,256]$ : Chỉ số red, green, blue của một điểm ảnh tổng hợp nên màu của điểm ảnh
 - Kích cỡ của 1 ảnh màu cỡ X x Y là $X.Y.3$

@@ -1,8 +1,0 @@
-- SV: Speech verification
-- CM: Counter measure
-- 1. AASIST, output là score của utterance 
-	- https://arxiv.org/abs/2110.01200
-- 2. ECAPA as spoof detection (tham khảo đồ án của a Hoà nhé) 
-- 3. Joint training ASV, CM 
-- 4. Conformer cải tiến từ bên ASR, phần này chị mới bắt đầu nghiên cứu
-- 

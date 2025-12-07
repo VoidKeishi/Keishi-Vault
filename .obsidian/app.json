@@ -11,5 +11,6 @@
   },
   "promptDelete": false,
   "newFileLocation": "root",
-  "newFileFolderPath": "Pernament"
+  "newFileFolderPath": "Pernament",
+  "showUnsupportedFiles": true
 }

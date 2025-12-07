@@ -1,4 +1,4 @@
-#javascript  
+#javascript  #programming_language 
 # Thông tin chung
 - Là một [[Scripting language]]
 - Một số thuật ngữ liên quan

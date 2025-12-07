@@ -1,0 +1,26 @@
+- Giới thiệu chung
+	- Khởi nghiệp
+		- Doanh nhân
+	- Đổi mới sáng tạo
+		- 2 cách tiếp cận
+	- Doanh nghiệp đổi mới sáng tạo
+	- Mức độ đổi mới sáng tạo
+- Đổi mới sáng tạo
+	- Khái niệm
+		- 2 cách tiếp cận
+			- 
+	- Yếu tố kích thích
+- Tư duy thiết kế
+	- Khái niệm
+	- Quy trình
+		- Thấu cảm
+			- Biểu đồ thấu cảm
+		- Xác định vấn đề
+			- Gọi tên vấn đề tốt
+		- Lên ý tưởng
+			- Quy tắc cho việc lên ý tưởng
+			- Lọc ý tưởng
+		- Xây mẫu thử
+		- Kiểm chứng, thử nghiệm
+		- Kể câu chuyện
+- 

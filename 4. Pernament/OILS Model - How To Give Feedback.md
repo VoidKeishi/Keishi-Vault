@@ -1,0 +1,13 @@
+#skill/feedback
+- Là mô hình để feedback hiệu quả, viết tắt của Observation - Impacts - Listen - Suggestion
+- Từng pha phía người cho feedback
+	- O: Mô tả thực trạng (observation)
+	- I: Giải thích ảnh hưởng của thực trạng (impact)
+	- L: Lắng nghe câu hỏi của người nhận (listen)
+	- S: Gợi ý thay đổi hoặc khuyến khích (suggestion)
+- Từng pha phía người nhận feedback
+	- O: Lắng nghe không ngắt lời
+	- I: Tránh phản biện, phủ định
+	- L: Đặt câu hỏi để hiểu rõ hơn nếu cần
+	- S: Ghi nhận, cảm ơn và suy nghĩ xem nên làm gì với feedback
+- O giúp khoanh vùng thực tế để cả 2 thống nhất phạm vi, I giúp người nhận hiểu được ảnh hưởng từ quan điểm người nói, L để đảm bảo 2 bên hiểu nhau, S để người nhận có hành động phù hợp và đem lại giá trị cải thiện

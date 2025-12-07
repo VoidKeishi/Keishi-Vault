@@ -1,1 +1,0 @@
-- Main slides: 53,73

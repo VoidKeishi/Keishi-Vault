@@ -1,7 +1,9 @@
 #entry 
+# Sources
+- https://www.freecodecamp.org/news/leetcode-dsa-concepts-handbook/
 # Data structures
 ## Linear
-- Array
+- [[Array]]
 - Linked List
 - Vector
 - Stack

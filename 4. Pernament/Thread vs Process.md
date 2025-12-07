@@ -1,4 +1,4 @@
-#computer_science/os 
+#os/concepts
 - Giống: Đều là các chuỗi lệnh xử lý độc lập
 - Khác
 	- Process: Là chương trình ở trạng thái chạy, có thể tạo ra các process con. Các process độc lập với nhau về bộ nhớ

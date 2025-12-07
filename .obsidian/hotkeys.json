@@ -48,5 +48,15 @@
       "key": "M"
     }
   ],
-  "quick-latex:addInlineMath": []
+  "quick-latex:addInlineMath": [],
+  "editor:insert-wikilink": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "L"
+    }
+  ],
+  "editor:toggle-checklist-status": [],
+  "editor:save-file": []
 }

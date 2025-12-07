@@ -1,9 +1,9 @@
 {
   "accentColor": "#5e81ac",
-  "cssTheme": "Obsidian Nord",
+  "cssTheme": "Obsidian gruvbox",
   "translucency": false,
   "nativeMenus": false,
-  "baseFontSize": 20,
+  "baseFontSize": 19,
   "baseFontSizeAction": true,
   "textFontFamily": "Arial",
   "theme": "obsidian"

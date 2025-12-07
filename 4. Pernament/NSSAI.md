@@ -1,0 +1,11 @@
+#networking/5g/core/concepts 
+- Là một loại cấu trúc dữ liệu được sử dụng trong 5G core để trợ giúp việc chọn [[Network slice]] phù hợp cho [[UE]]
+- Biểu diễn thông tin cần cung cấp cho các [[NF]] để xác định [[UE]] muốn sử dụng [[Network slice]] nào, từ đó gắn [[UE]] vào [[Network slice]] phù hợp
+- Gồm 1 hoặc nhiều S-NSSAI (single NSSAI), mỗi cái mô tả một [[Network slice]] cụ thể
+	- Trường SST - Slice/Service Type: Mô tả slice/service type 
+	- Trường SD - Slice Differentiator: Phân biệt các [[Network slice]] cùng SST
+- Phân loại [[NSSAI]]
+	- Configured: [[Network slice]] được cấu hình trước cho [[UE]]
+	- Subcribed: [[Network slice]] mà thuê bao của [[UE]] được phép sử dụng
+	- Requested: [[Network slice]] [[UE]] yêu cầu khi đăng nhập
+	- Allowed: [[Network slice]] chấp nhận cho [[UE]] sử dụng

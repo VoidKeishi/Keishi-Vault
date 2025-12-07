@@ -1,0 +1,19 @@
+- mvp, early adopter asap
+- feedback driven
+- metric for improvement
+- chiến lược pivot
+	- thay đổi để chứng minh 1 hypothesis khác hoàn toàn sản phẩm ban đầu
+	- áp dụng khi sản phẩm đã test đủ và đạt max về tiềm năng, hiệu quả, mức thu hút,...
+	- các chiến lược cơ bản
+		- zoom in
+		- zoom out
+		- customer segment
+		- customer need
+		- platform
+		- business architecture
+		- value capture
+		- engine of growth
+		- channel
+- traction 
+- pitching
+	- có thể đặt câu hỏi
